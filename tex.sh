@@ -18,23 +18,24 @@ book_dir_rel_path=$1
 temp_dir=$(mktemp -d)
 gen_script=$temp_dir/gen.sh
 
+# we generate an intermediate script which will be executed inside the docker environment
 echo "#!/bin/sh
 
 [ ! -d gen ] && mkdir gen
 
 # Convert the MARKDOWN → PDF using pandoc (internally uses lualatex)
-# since we are using `fontspec` for setting quote fonts, we need to use luatex instead of pdflatex
+# since we are using 'fontspec' for setting quote fonts, we need to use luatex instead of pdflatex
 pandoc \
     --template=template.tex \
     --variable documentclass="book" \
     --variable fontsize="12pt" \
-    --variable lang="en-US" \
-    --variable babel-lang="en-US" \
+    --variable lang \
+    --variable babel-lang="english" \
     --variable indent \
     --pdf-engine=lualatex \
     --toc \
     --standalone \
-    --output=gen/book.tex \
+    --output=book-gen.tex \
     book.md
 " > $gen_script
 
@@ -46,10 +47,10 @@ docker run --rm --volume "`pwd`/$book_dir_rel_path:/data" \\
        --volume "$temp_dir:/generator" \\
        --user `id -u`:`id -g` \\
        --entrypoint "/generator/gen.sh" \\
-       local/pandoc-custom:1.0\n"
+       custom/luatex-pandoc-docker:1.0\n"
 
 docker run --rm --volume "`pwd`/$book_dir_rel_path:/data" \
    --volume "$temp_dir:/generator" \
    --user `id -u`:`id -g` \
    --entrypoint "/generator/gen.sh" \
-   local/pandoc-custom:1.0
+   custom/luatex-pandoc-docker:1.0

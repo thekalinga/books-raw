@@ -15,4 +15,7 @@ out/
 /logs
 *.log
 config.properties
+# we dont want generated files to be checked in
 gen/
+# we dont want intermediate `-gen.tex` files to be checked in either
+*-gen.tex

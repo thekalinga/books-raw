@@ -23,7 +23,7 @@ echo "#!/bin/sh
 [ ! -d gen ] && mkdir gen
 
 # Convert the MARKDOWN → PDF using pandoc (internally uses lualatex)
-# since we are using `fontspec` for setting quote fonts, we need to use luatex instead of pdflatex
+# since we are using 'fontspec' for setting quote fonts, we need to use luatex instead of pdflatex
 pandoc \
     --template=template.tex \
     --variable documentclass="book" \
@@ -46,10 +46,10 @@ docker run --rm --volume "`pwd`/$book_dir_rel_path:/data" \\
        --volume "$temp_dir:/generator" \\
        --user `id -u`:`id -g` \\
        --entrypoint "/generator/gen.sh" \\
-       local/pandoc-custom:1.0\n"
+       custom/luatex-pandoc-docker:1.0\n"
 
 docker run --rm --volume "`pwd`/$book_dir_rel_path:/data" \
    --volume "$temp_dir:/generator" \
    --user `id -u`:`id -g` \
    --entrypoint "/generator/gen.sh" \
-   local/pandoc-custom:1.0
+   custom/luatex-pandoc-docker:1.0

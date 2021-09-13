@@ -12,13 +12,11 @@ Run `epub.sh`
 
 ## Debug pdf generation
 
-Generate tex file by running `tex.sh`
-
-Edit `gen/book.tex`
-
-Run `pdf-from-tex.sh` to generate pdf from book.tex instead
+1. Generate tex file by running `tex.sh`
+2. Edit `book-gen.tex`according to ones
+3. Run `pdf-from-tex.sh` to generate pdf from book.tex instead
 
 ## One time setup
 
-1. Ensure docker is installed
+1. Ensure [docker](https://www.docker.com/) is installed
 2. Run `build.sh` from `docker` directory which generates builds required docker image

@@ -15,6 +15,11 @@ fi
 
 book_dir_rel_path=$1
 
+if [ ! -f "$book_dir_rel_path/book-gen.tex" ]; then
+  echo -e "file does not exist: $book_dir_rel_path/book-gen.tex"
+  exit 1
+fi
+
 temp_dir=$(mktemp -d)
 gen_script=$temp_dir/gen.sh
 
@@ -23,12 +28,12 @@ echo "#!/bin/sh
 [ ! -d gen ] && mkdir gen
 
 # Convert the MARKDOWN → PDF using pandoc (internally uses lualatex)
-# since we are using `fontspec` for setting quote fonts, we need to use luatex instead of pdflatex
+# since we are using 'fontspec' for setting quote fonts, we need to use luatex instead of pdflatex
 lualatex \
     -halt-on-error \
     -interaction nonstopmode \
-    -output-directory . \
-    gen/book.tex
+    -output-directory gen/ \
+    book-gen.tex
 " > $gen_script
 
 chmod +x $gen_script
@@ -39,10 +44,10 @@ docker run --rm --volume "`pwd`/$book_dir_rel_path:/data" \\
        --volume "$temp_dir:/generator" \\
        --user `id -u`:`id -g` \\
        --entrypoint "/generator/gen.sh" \\
-       local/pandoc-custom:1.0\n"
+       custom/luatex-pandoc-docker:1.0\n"
 
 docker run --rm --volume "`pwd`/$book_dir_rel_path:/data" \
    --volume "$temp_dir:/generator" \
    --user `id -u`:`id -g` \
    --entrypoint "/generator/gen.sh" \
-   local/pandoc-custom:1.0
+   custom/luatex-pandoc-docker:1.0
