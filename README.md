@@ -12,9 +12,9 @@ Run `epub.sh`
 
 ## Debug pdf generation
 
-1. Generate tex file by running `tex.sh`
-2. Edit `book-gen.tex`according to ones
-3. Run `pdf-from-tex.sh` to generate pdf from book.tex instead
+1. Generate tex file by running `tex.sh` which generates `book-gen.tex`
+2. Review/Edit `book-gen.tex`
+3. Run `pdf-from-tex.sh` to generate pdf from `book-gen.tex` instead
 
 ## One time setup
 
