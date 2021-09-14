@@ -10,6 +10,10 @@ Run `pdf.sh`
 
 Run `epub.sh`
 
+## Generating html
+
+Run `html.sh`
+
 ## Debug pdf generation
 
 1. Generate tex file by running `tex.sh` which generates `book-gen.tex`
