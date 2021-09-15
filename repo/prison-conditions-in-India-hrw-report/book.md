@@ -176,7 +176,7 @@ cases cited in the report came to the PUDR's attention because of newspaper acco
 one percent of the national population, the report enumerates 48 deaths in police custody from 1980 to 1989,
 most of them of persons under the age of 30. The PUDR alleges that "most of these people died due to
 severe beating and prolonged torture. Practically every person taken to a police station in connection with
-some or the other offense in our country is subjected to severe beating and torture.… Sticks, boots and belts
+some or the other offense in our country is subjected to severe beating and torture. … Sticks, boots and belts
 and wooden rollers are the most common instruments of beating. Sexual abuse, designed not only to hurt
 but also to humiliate is part of the torture. Naked or semi-naked men are a common sight in police lock-ups.
 It is this process of torture, regular and systematic, whose end product is sometimes death, as in the case of
@@ -227,7 +227,7 @@ conclusively that these deaths in custody are attributable to torture, the numbe
 during relatively brief periods of confinement in police lock-ups makes it clear that something is seriously
 wrong with the way they are treated. What takes place in custody confirms the view expressed by a Deputy
 Inspector-General of Police, Shailendra Misra, who has written that "The brutal behavior of our police is
-established beyond doubt … in the form of reports of police commissions, surveys of public opinion and
+established beyond doubt. … in the form of reports of police commissions, surveys of public opinion and
 reports on specific instances of brutality."[^9]
 
 An episode that took place last year is illustrative. As the People's Union for Democratic Rights
@@ -311,7 +311,7 @@ According to the CPDR:
 >inquiries from him and he was left to fend for himself. Instead he mechanically granted the
 >discharge requested by the Police. The Magistrate is required by law to enquire from the
 >detenue whether he was ill-treated or whether he requires medical or legal aid. None of this
->was done.…[^11]
+>was done. …[^11]
 
 The Coroner's post mortem report showed contusions all over Raju Mohite's body that had been
 suffered within four days of his death as a result of being struck with a "hard and blunt object."
@@ -385,7 +385,7 @@ Observer_, reported:
 
 >Last Tuesday, the entire area witnessed a bandh [strike] against the on-going police atrocities. The
 >action was triggered-off after an alleged rape [of three women] committed by three local
->police constables on three successive days.… Although this latest incident is being denied,
+>police constables on three successive days. … Although this latest incident is being denied,
 >local people have come forward and detailed past instances about the threats wielded by the
 >policemen involved in the alleged rape, Kanakaiah, Vankateswaralu and Vijeykumar (already
 >suspended in connection with the latest episode) were often named in these accounts of
@@ -397,7 +397,7 @@ Not all of the violence against women in police lock-ups is of a sexual characte
 Lawyers Collective has reported after interviewing all the women held in the Bombay Central Jail in 1987:
 
 >More than 50 percent of the women interviewed complained of violence and abuse in police
->custody.… Women have complained of being whipped with belts, especially on the thigh
+>custody. … Women have complained of being whipped with belts, especially on the thigh
 >and upper leg, or being hung with a pole around the back of the neck and arms, or being
 >caned on the palms and on the soles of their feet till they are swollen and tender, having their
 >hair yanked by two policemen from either side, and all this to the accompaniment of abuse
@@ -516,7 +516,7 @@ public demand that they should dispense summary justice. Shailendra Misra has po
 >culprits. In a particular city a couple of ruffians creating trouble in the market place were
 >arrested by the police, put up in court the next morning and were bailed out by the court. At
 >this the people of the town protested why the police had not beaten up the ruffians during the
->night when they were in police lock-up, took out a protest procession.… When the police
+>night when they were in police lock-up, took out a protest procession. … When the police
 >are 'soft' on a criminal allegations of corruption are immediately made and people suspect the
 >worst complicity between them and the criminals.[^27]
 
@@ -1386,7 +1386,7 @@ Ram Chandra. He was arrested in 1952 for
 riding on a train without a ticket and spent
 thirty years in a Bihar jail awaiting trial. The
 police had forgotten about him. His case
-papers were lost.… Had his case not been
+papers were lost. … Had his case not been
 unearthed by a civil liberties group, and his
 release ordered by a high court judge, he
 would be locked up to this day." Trevor
@@ -1475,7 +1475,7 @@ Magistrates in not enquiring from the blinded
 prisoners, when they are first produced before
 the Judicial Magistrates and thereafter from
 time to time for the purpose of remand, as to
-how they had received injuries in the eyes.…
+how they had received injuries in the eyes. …
 [T]he forwarding report sent by the Police
 Officer in Charge stated that the accused had
 sustained injuries and yet the Judicial
@@ -1539,7 +1539,7 @@ involving Bihar, Justice Bhagwati commented:
     >unfortunate forgotten specimens of
     >humanity are in jail, deprived of their
     >freedom, for periods ranging from three
-    >to ten years … and a few of them, even
+    >to ten years. … and a few of them, even
     >more than ten years, without their trial
     >having begun. What faith can these lost
     >souls have in the judicial system which
@@ -1703,12 +1703,12 @@ of affairs in so far as juvenile prisoners are
 concerned.
 The District Judge has
 interviewed some of the juvenile prisoners in
-regard to whom he learnt…that they had been
+regard to whom he learn. …that they had been
 subjected to sexual assault by the adult
 prisoners. The juvenile prisoners who made
 statements before the District Judge have
 expressed apprehension that they might get
-into difficulties if their names are disclosed.…"
+into difficulties if their names are disclosed. …"
 
     Though an effort had been made in the
     earlier case to protect the juveniles in Tihar
@@ -1756,7 +1756,7 @@ Krishna Iyer (ret.) stated: "In the handcuffing
 case [_Prem Shankar Shukla's_ case] certain law
 was declared, but afterwards neither the
 judges nor the executive implemented
-it.…The judiciary finds that before its eyes,
+it. …The judiciary finds that before its eyes,
 nothing is happening in spite of its
 declarations.
 You cannot form another

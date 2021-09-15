@@ -4,8 +4,10 @@ if [ $# -ne 1 ]
 then
     echo "Enter directory name (that contains book.md). Options are"
     echo ""
-    for dir in $(ls -dt repo/*/); do
-      if [[ $dir != "system/" ]] && test -f "$dir/book.md"; then
+    for dir in $(ls -dt repo/*); do
+      # if the directory has an `.md` file, lets assume it to be a book
+      md_file_count=`ls -1 $dir/*.md 2>/dev/null | wc -l`
+      if [[ $dir != "system/" ]] && [ $md_file_count != 0  ]; then
         echo ${dir%*/}
       fi
     done
@@ -26,7 +28,7 @@ pandoc \
     --toc \
     --standalone \
     --output=gen/book.html \
-    book.md
+    *.md
 " > $gen_script
 
 chmod +x $gen_script
