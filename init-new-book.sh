@@ -23,13 +23,14 @@ mkdir $book_folder_path
 
 # useful for placing original pdfs so that they wont be checked into repo by accident
 mkdir $book_folder_path/gen
+echo "place original pdf file here if you dont want it to be checkedin" >  $book_folder_path/gen/why-this-folder.txt
 
 # add appropriate header
 echo "---
 title: Introduction to International Law
 author: TODO
 lang: en
-top-level-division: TODO: pick part/chapter
+top-level-division: TODO part/chapter
 rights: © TODO
 ---
 
@@ -52,6 +53,8 @@ echo '
    [’‘] with single quote
 
 # Place bullet points onto new lines
+
+Replace the following
   (\([a-zA-Z]+)\) with \n$1
   (\((?:i+|iv|vi*|ix|x)+\)) with \n$1
   (\([0-9]+\)) with \n$1
@@ -69,18 +72,23 @@ In any case,
 
 # Handling footnotes
 
-1. If Add footnote # are unique globally, Add / before footnote & its reference e.g /121
-2. If they are not
+* If Add footnote # are unique globally, Add / before footnote & its reference e.g /121
+* If they are not
   a. Add / before footnote & its reference & prefix chapter number before slash (if they are unique only to chapter) i.e <chapter#>/<footnote#> e.g 1/23
   b. Add / before footnote & its reference & add page specific number (if they are unique only to the page) i.e <page#>/<footnote#> e.g 345/3
-3. Add `:` at the end of footnote only at footnote declaration. To do so, replace
-    ^(/\d+) with $1:
-4. For adding appropriate markdown footnote format, replace
-    (/\d+) with \[^$1\]
-5. search for the follwoing to find next item
+* Navigate using / to ensure the count of footnote reference matches footnotes
+* Add `:` at the end of footnote only at footnote declaration. To do so, replace
+    ^(/\d+) $1:
+* For adding appropriate markdown footnote format, replace
+    (/\d+) \[^$1\]
+* search for the following to find next item
     \[\^\/
-6. Finally search for the following to move gooters to bottom
+* Finally search for the following to move thru footers to bottom
     ^\[\^\d+\/
+* Finally trim lines appropriately, do following replacements
+    ^(\[\^\d+\/) \n$1
+    \n\n\n+ \n\n
+* IMPORTANT: space between pages that have no footnotes are also takes care of
 
 For italicising, use this to ensure we always replace the correct word
 For e.g, handling this sequences correctly & dont place _ at wrong place if we need to italise the following 3 combinations in order
@@ -104,7 +112,12 @@ see also above
 see below
 see above
 see
+ibid.
 prima facie
+inter alia
+ad hoc
+ipso facto
+ipso jure
 op. cit.
 loc. cit.
 supra.
@@ -121,6 +134,7 @@ dicta
 inter se
 res judicata
 jus cogens
+res gentium
 jure gentium
 raison d\x27être
 opinio juris

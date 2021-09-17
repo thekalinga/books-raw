@@ -8,15 +8,15 @@ International law may be defined as that body of law which is
 composed for its greater part of the principles and rules of
 conduct which States feel themselves bound to observe, and
 therefore, do commonly observe in their relations with each
-other,[^1/1] and which includes also:---
+other,[^1/1] and which includes also :---
 
-(a) the rules of law relating to the functioning of inter-
-national institutions or organisations, their relations
+(a) the rules of law relating to the functioning of international
+institutions or organisations, their relations
 with each other, and their relations with States and
 individuals; and
 
-(b) certain rules of law relating to individuals and non-
-State entities so far as the rights or duties of such
+(b) certain rules of law relating to individuals and non-State
+entities so far as the rights or duties of such
 individuals and non-State entities are the concern of
 the international community.
 
@@ -25,28 +25,28 @@ international law as a system composed solely of rules governing
 the relations between States only. Such traditional definition
 of the subject, with its restriction to the conduct of States
 _inter se_, will be found set out in the majority of the older
-standard works of international law, but in view of develop-
-ments during the last three decades, it cannot stand as a
+standard works of international law, but in view of developments
+during the last three decades, it cannot stand as a
 comprehensive description of all the rules now acknowledged
 to form part of the subject.
 
-These developments are principally:---
+These developments are principally :---
 
 (i) the establishment
 of a large number of permanent international institutions or
 organisations such as, for example the United Nations and
-the World Health Organisation, regarded as possessing inter-
-national legal personality, and entering into relations with
+the World Health Organisation, regarded as possessing international
+legal personality, and entering into relations with
 each other and with States; and
 
 (ii) the present movement
 (sponsored by the United Nations and the Council of Europe)
-to protect human rights and fundamental freedoms of indivi-
-duals,[^2/1] the creation of new rules for the punishment of persons
-committing the international crime of genocide or race des-
-truction,[^2/2] and the imposition of duties on individuals under the
-historic judgment in 1946 of the International Military Tri-
-bunal of Nuremberg, by which certain acts were declared to
+to protect human rights and fundamental freedoms of individuals,[^2/1]
+the creation of new rules for the punishment of persons
+committing the international crime of genocide or race destruction,[^2/2]
+and the imposition of duties on individuals under the
+historic judgment in 1946 of the International Military Tribunal
+of Nuremberg, by which certain acts were declared to
 be international crimes, namely, crimes against peace, crimes
 against humanity, and conspiracy to commit these crimes.[^2/3]
 Both categories of developments have given rise to new rules
@@ -58,27 +58,27 @@ Nevertheless, from the practical point of view, it is well to
 remember that international law is primarily a system regulating
 the rights and duties of States _inter se_. So much is hinted at
 in the very title "international law", or in another title
-frequently given to the subject---" the law of nations ", although
-strictly speaking the word "nation " is only in a crude way a
+frequently given to the subject---"the law of nations ", although
+strictly speaking the word "nation" is only in a crude way a
 synonym for the word "State".[^3/1] Indeed, it is a very good
 practical working rule to regard international law as mainly
 composed of principles whereby certain rights belong to, or
 certain duties are imposed upon States.
 
-Nevertheless, although the principal component of the sys-
-tem is represented by binding rules, imposing duties and con-
-ferring rights upon States, international lawyers have now
+Nevertheless, although the principal component of the system
+is represented by binding rules, imposing duties and conferring
+rights upon States, international lawyers have now
 increasingly to concern themselves with _desiderata_, guidelines,
 and recommended standards expressed in a non-binding form
 (e.g., as in the Declarations adopted by the United Nations
 General Assembly, the Recommendations of the International
-Labour Conference, and the Recommendations of the periodi-
-cal Consultative Meetings held under the Antarctic Treaty of
+Labour Conference, and the Recommendations of the periodical
+Consultative Meetings held under the Antarctic Treaty of
 1959), but which many States concerned feel constrained to
 observe. These may indeed eventually evolve into binding
 legal rules, e.g., by general acceptance or approval (_cf._ Article
 IX, paragraph 4 of the Treaty on Antarctica of 1959, under
-which recommended measures may become " effective"
+which recommended measures may become "effective"
 upon approval by the parties concerned).
 
 The main object of international law has been to produce
@@ -90,7 +90,7 @@ evidence of some striving to ensure that, objectively, justice be
 done between States. Moreover, apart from seeing that States
 receive just treatment, the modern law of nations aims at
 securing justice for human beings. It is significant further
-that the word " Justice" appears in the titles respectively of
+that the word "Justice" appears in the titles respectively of
 the Permanent Court of International Justice and its successor
 the International Court of Justice, both being judicial tribunals
 set up to decide disputes between States and to give advisory
@@ -109,10 +109,10 @@ located, without becoming rules of a universal character. The
 best illustration of such regional rules are those which have been
 commonly followed by the group of Latin American States, for
 example, the special rules relating to diplomatic asylum. This
-so-called " Latin American international law" and the nature
+so-called "Latin American international law" and the nature
 of regional rules were discussed by the International Court of
-Justice in the Colombian-Peruvian Asylum Case (1950);[^4/3] accord-
-ing to the judgments in this case:---
+Justice in the Colombian-Peruvian Asylum Case (1950);[^4/3] according
+to the judgments in this case :---
 
 (a) regional rules are not
 necessarily subordinate to general rules of international law,
@@ -124,36 +124,36 @@ the particular region concerned, give effect to such regional
 rules as are duly proved to the satisfaction of the tribunal.
 
 In this connection, there may perhaps be noted also the
-modern tendency towards regionalism in international organisa-
-tion, reflected in the fusion of States into regional" functional "
+modern tendency towards regionalism in international organisation,
+reflected in the fusion of States into regional "functional "
 groupings (for example the European Economic Community
 (Common Market) under the Treaty of Rome of March 25,
 1957, establishing this Community), the conclusion of regional
 security treaties (for example, the North Atlantic Security Pact
-of April 4, 1949 [^5/1]), the creation of regional international organs
+of April 4, 1949[^5/1]), the creation of regional international organs
 (for example, the South Pacific Commission established in
 1948), and the establishment of regional international tribunals
 (for example, the Court originally established by Articles 31--45
-of the Treaty constituting the European Coal and Steel Com-
-munity of April 18, 1951, and which is now the Court of Justice
+of the Treaty constituting the European Coal and Steel Community
+of April 18, 1951, and which is now the Court of Justice
 of this Community, of the European Economic Community
-(Common Market), and of the European Atomic Energy Com-
-munity (EURATOM) under the Rome Convention of March
+(Common Market), and of the European Atomic Energy Community
+(EURATOM) under the Rome Convention of March
 25, 1957, Relating to Certain Institutions common to the
 European Communities).
 
 The common rules (including the judge-made law of the
-Court) applicable within the legal and administrative frame-
-work of the European Communities have developed to such an
-extent since 1957 as to merit the designation of " Community
-Law" (_droit communitaire_).[^5/2] One of the distinctive charac-
-teristics of this Community Law may be its direct applicability,
+Court) applicable within the legal and administrative framework
+of the European Communities have developed to such an
+extent since 1957 as to merit the designation of "Community
+Law" (_droit communitaire_).[^5/2] One of the distinctive characteristics
+of this Community Law may be its direct applicability,
 in certain cases and under certain conditions, in the sytems of
 national law of each member of the European Communities,
 with national Courts also ready to give effect to Community
 Law where its primacy ought to be recognised,[^5/3] e.g., if the
-Community rule or norm is clear and precise, and uncon-
-ditional, without the need for further implementary action.
+Community rule or norm is clear and precise, and unconditional,
+without the need for further implementary action.
 
 #### Origins and Development of International Law
 
@@ -189,8 +189,8 @@ We find, for example, in the period of the Greek City States,
 small but independent of one another, evidence of an embryonic,
 although regionally limited, form of international law which
 one authority---Professor Vinogradoff---aptly described as
-"intermunicipal"[^6/2]. This "intermunicipal" law was com-
-posed of customary rules which had crystallised into law from
+"intermunicipal"[^6/2]. This "intermunicipal" law was composed
+of customary rules which had crystallised into law from
 long-standing usages followed by these cities such as, for
 instance, the rules as to the inviolability of heralds in battle, the
 need for a prior declaration of war, and the enslavement of
@@ -229,7 +229,7 @@ Roman Empire extending over the whole civilised world, there
 were no independent States in any sense, and therefore a law
 of nations was not called for. During the early mediaeval
 era, there were two matters particularly which militated against
-the evolution of a system of international law:---
+the evolution of a system of international law :---
 
 (a) the temporal
 and spiritual unity of the greater part of Europe under the
@@ -248,8 +248,8 @@ centuries. The discovery of the New World, the Renaissance
 of learning, and the Reformation as a religious revolution
 disrupted the facade of the political and spiritual unity of
 Europe, and shook the foundations of mediaeval Christendom.
-Theories were evolved to meet the new conditions; intellec-
-tually, the secular conceptions of a modern sovereign State
+Theories were evolved to meet the new conditions; intellectually,
+the secular conceptions of a modern sovereign State
 and of a modern independent Sovereign found expression
 in the works of Bodin (1530--1596), a Frenchman, Machiavelli
 (1469--1527), an Italian, and later in the seventeenth century,
@@ -259,8 +259,8 @@ With the growth of a number of independent States there
 was initiated, as in early Greece, the process of formation of
 customary rules of international law from the usages and
 practices followed by such States in their mutual relations. So
-in Italy with its multitude of small independent States, main-
-taining diplomatic relations with each other and with the
+in Italy with its multitude of small independent States, maintaining
+diplomatic relations with each other and with the
 outside world, there developed a number of customary rules
 relating to diplomatic envoys, for example, their appointment,
 reception and inviolability.[^8/1]
@@ -279,8 +279,8 @@ Europe as from the end of the eleventh century onwards, but
 they had recourse also to the precedents of ancient history, to
 theology, to the canon law, and to the semi-theological concept
 of the "law of nature"---a concept which for centuries
-exercised a profound influence on the development of inter-
-national law.[^9/1] Among the early writers who made important
+exercised a profound influence on the development of international
+law.[^9/1] Among the early writers who made important
 contributions to the infant science of the law of nations were
 Vittoria (1480--1546), who was Professor of Theology in the
 University of Salamanca, Belli (1502--1575), an Italian, Brunus
@@ -302,7 +302,7 @@ on international law was the Dutch scholar, jurist, and
 diplomat, Grotius (1583--1645), whose systematic treatise on
 the subject _De Jure Belli ac Pacis_ (The Law of War and Peace)
 first appeared in 1625. On account of this treatise, Grotius
-has sometimes been described as the " father of the law of
+has sometimes been described as the "father of the law of
 nations ", although it is maintained by some that such a
 description is incorrect on the grounds that his debt to the
 writings of Gentilis is all too evident[^10/1] and that in point of time
@@ -314,8 +314,8 @@ Nor is it exact to affirm that in _De Jure Belli ac Pacis_ will
 be found all the international law that existed in 1625. It
 cannot, for example, be maintained that Grotius dealt fully
 with the law and practice of his day as to treaties, or that his
-coverage of the rules and usages of warfare was entirely com-
-prehensive.[^10/2] Besides, _De Jure Belli ac Pacis_ was not primarily
+coverage of the rules and usages of warfare was entirely comprehensive.[^10/2]
+Besides, _De Jure Belli ac Pacis_ was not primarily
 or exclusively a treatise on international law, as it embraced
 numerous topics of legal science, and touched on problems
 of philosophic interest. Grotius's historical pre-eminence
@@ -326,8 +326,8 @@ science of international law.
 In his book, as befitted a diplomat of practical experience,
 and a lawyer who had practised, Grotius dealt repeatedly with
 the actual customs followed by the States of his day. At the
-same time Grotius was a theorist who espoused certain doc-
-trines. One central doctrine in his treatise was the acceptance
+same time Grotius was a theorist who espoused certain doctrines.
+One central doctrine in his treatise was the acceptance
 of the "law of nature" as an independent source of rules of
 the law of nations, apart from custom and treaties. The
 Grotian "law of nature" was to some extent a secularised
@@ -339,9 +339,9 @@ later jurists.
 Grotius has had an abiding influence upon international law
 and international lawyers, although the extent of this influence
 has fluctuated at different periods, and his actual impact upon
-the practice of States was never so considerable as is tradition-
-ally represented. While it would be wrong to say that his
-views were always treated as being of compelling authority--
+the practice of States was never so considerable as is traditionally
+represented. While it would be wrong to say that his
+views were always treated as being of compelling authority---
 frequently they were the object of criticism-nevertheless his
 principal work, _De Jure Belli ac Pacis_, was continually relied
 upon as a work of reference and authority in the decisions of
@@ -360,8 +360,8 @@ Treaty of Westphalia of 1648 marking the end of the Thirty
 Years' War, and by the development from usage and practice
 of a substantial body of new customary rules. Even relations
 and intercourse by treaty or otherwise between European and
-Asian governments or communities contributed to the forma-
-tion of these rules. Moreover the science of international law
+Asian governments or communities contributed to the formation
+of these rules. Moreover the science of international law
 was further enriched by the writings and studies of a number
 of great jurists. Side by side there proceeded naturally a kind
 of action and reaction between the customary rules and the
@@ -395,8 +395,8 @@ was extremely marked, for instance, in the case of Bynkershoek's
 writings and found expression particularly also in the works of
 Moser, and von Martens. There were, however, jurists who at
 the same time clung to the traditions of the "law of nature",
-either almost wholly, or coupled with a lesser degree of em-
-phasis upon custom and treaties as components of international
+either almost wholly, or coupled with a lesser degree of emphasis
+upon custom and treaties as components of international
 law. As contrasted with these adherents to the "law of
 nature", writers such as Bynkershoek who attached primary or
 major weight to customary and treaty rules were known as
@@ -406,20 +406,20 @@ In the nineteenth century international law further expanded.
 This was due to a number of factors which fall more properly
 within the scope of historical studies, for instance, the further
 rise of powerful new States both within and outside Europe,
-the expansion of European civilisation overseas, the modernisa-
-tion of world transport, the greater destructiveness of modern
+the expansion of European civilisation overseas, the modernisation
+of world transport, the greater destructiveness of modern
 warfare, and the influence of new inventions. All these made
 it urgent for the international society of States to acquire a
 system of rules which would regulate in an ordered manner
 the conduct of international affairs. There was a remarkable
 development during the century in the law of war and neutrality,
 and the great increase in adjudications by international arbitral
-tribunals following the Alabama Claims Award of 1872 pro-
-vided an important new source of rules and principles. Besides,
+tribunals following the Alabama Claims Award of 1872 provided
+an important new source of rules and principles. Besides,
 States commenced to acquire the habit of negotiating general
 treaties in order to regulate affairs of mutual concern. Nor
-was the nineteenth century without its great writers on inter-
-national law. The works of jurists belonging to a number of
+was the nineteenth century without its great writers on international
+law. The works of jurists belonging to a number of
 different nations contributed significantly to the scientific
 treatment of the subject; among them were Kent (American),
 Wheaton (American), De Martens (Russian), Klüber (German),
@@ -457,20 +457,20 @@ regard to practice and to decisions of tribunals. Yet the spelling
 out of rules of international law from assumed trends of past
 and current practice cannot be carried too far. This was
 shown at the Geneva Conference of 1958 on the Law of the
-Sea, and at the Vienna Conferences of 1961, 1963, and 1968--
-1969 on, respectively, Diplomatic Relations, Consular Relations,
+Sea, and at the Vienna Conferences of 1961, 1963, and 1968--1969
+on, respectively, Diplomatic Relations, Consular Relations,
 and the Law of Treaties, when in a number of instances an
 apparent weight of practice in favour of a proposed rule of
-international law did not necessarily result in its general ac-
-ceptance by the States represented at the Conferences. Never-
-theless, "natural law" writers have ceased to command the
+international law did not necessarily result in its general acceptance
+by the States represented at the Conferences. Nevertheless,
+"natural law" writers have ceased to command the
 same degree of influence as formerly, perhaps because of the
 emergence of a number of States outside Europe and which
 did not inherit doctrines of Christian civilisation such as that
-of " natural law". These new States (in particular the Afro-
-Asian group) have challenged certain of the basic principles
-of international law, stemming from its early European evolu-
-tion in the seventeenth and eighteenth centuries.[^14/1] Moreover,
+of "natural law". These new States (in particular the Afro-Asian
+group) have challenged certain of the basic principles
+of international law, stemming from its early European evolution
+in the seventeenth and eighteenth centuries.[^14/1] Moreover,
 many long-standing rules and concepts of international law have
 been subjected to severe strains and stresses under the impact
 of modern developments in technology, of modern economic
@@ -479,17 +479,17 @@ views and attitudes which prevail today. Above all, there is
 the present unprecedented political state of affairs, for which
 the traditional system of international law was not devised,
 namely, the division of the world into global and regional blocs,
-the existence of a "third world " of numerous newly-emerged
+the existence of a "third world" of numerous newly-emerged
 States, undeveloped economically and technologically (and
 sometimes possessing unstable governments), and the numerous
-groupings and associations into which States have formed them-
-selves. Apart from this, international law is now called
+groupings and associations into which States have formed themselves.
+Apart from this, international law is now called
 upon to find new rules to govern the fields of nuclear and
 thermonuclear energy, and scientific research generally, to
 regulate state activities in the upper atmosphere and in the
 cosmos, to protect and control the environment of man, and
-to establish a new legal régime for the exploration and ex-
-ploitation of the resources of the seabed beyond the limits of
+to establish a new legal régime for the exploration and exploitation
+of the resources of the seabed beyond the limits of
 national sovereignty.
 
 #### Present-Day Status of International Law
@@ -499,15 +499,15 @@ body of rules regulating for the most part the relations between
 States, without which it would be virtually impossible for them
 to have steady and frequent intercourse. It is in fact an
 expression of the necessity of their mutual relationships. In
-the absence of some system of international law, the inter-
-national society of States could not enjoy the benefits of trade
+the absence of some system of international law, the international
+society of States could not enjoy the benefits of trade
 and commerce, of exchange of ideas, and of normal routine
 communication.
 
 The last half-century witnessed a greater impetus to the
 development of international law than at any previous stage
-of its history. This was a natural result of the growing inter-
-dependence of States, and of the vastly increased intercourse
+of its history. This was a natural result of the growing interdependence
+of States, and of the vastly increased intercourse
 between them due to all kinds of inventions that overcame the
 difficulties of time, space, and intellectual communication.
 New rules had to be found or devised to meet innumerable
@@ -518,11 +518,11 @@ exigencies called for a speedier method of law-making. As
 a result, there came into being the great number of multilateral
 treaties of the last seventy years laying down rules to be observed
 by the majority of States --- "law-making treaties" or
-" international legislation ", as they have been called. Apart
-from these "law-making treaties " there was a remarkable
+" international legislation", as they have been called. Apart
+from these "law-making treaties" there was a remarkable
 development in the use of arbitration to settle international
-disputes, and at the same time the Permanent Court of Inter-
-national Justice came by its decisions to make an important
+disputes, and at the same time the Permanent Court of International
+Justice came by its decisions to make an important
 contribution to the growth of international law. The mantle
 of the Permanent Court has now descended upon its successor,
 the International Court of Justice. Nor should there be
@@ -531,15 +531,15 @@ international law at present being sponsored by the United
 Nations with the expert aid of a body known as the International
 Law Commission, created in 1947.[^16/1]
 
-It is true that in some quarters there is a tendency to dis-
-parage international law, even to the extent of questioning its
-existence and value. There are two main reasons for this:--
+It is true that in some quarters there is a tendency to disparage
+international law, even to the extent of questioning its
+existence and value. There are two main reasons for this:---
 
 (a) the generally held view that the rules of international
 law are designed only to maintain peace; and
 
 (b) ignorance of the vast number of rules which, unlike
-the rules dealing with " high policy", that is, issues of
+the rules dealing with "high policy", that is, issues of
 peace or war, receive little publicity.
 
 Actually, however, a considerable part of international law
@@ -562,14 +562,14 @@ international law. The answer to this criticism is that even
 in wartime there is no absolute breakdown of international law,
 as many rules affecting the relations of belligerents _inter se_ or
 with neutrals are of vital importance and to a large extent are
-strictly observed. Another consideration is worth men-
-tioning. Even in the case of war or armed conflict, the States
-involved seek to justify their position by reference to inter-
-national law. This applies also in " crisis" situations,
+strictly observed. Another consideration is worth mentioning.
+Even in the case of war or armed conflict, the States
+involved seek to justify their position by reference to international
+law. This applies also in "crisis" situations,
 short of war; for example, during the Cuban missile crisis of
-1962, the United States relied to some extent on the Inter-
-American Treaty of Reciprocal Assistance of 1947 as a legal
-basis for its " selective " blockade of Cuba.
+1962, the United States relied to some extent on the Inter-American
+Treaty of Reciprocal Assistance of 1947 as a legal
+basis for its "selective" blockade of Cuba.
 
 It is possible to argue further that in municipal law (that
 is, State law), breaches, disturbances and crimes take place,
@@ -588,7 +588,7 @@ international intercourse; and as a matter of practical necessity
 it has, and will, operate as a legal system even when wars are
 frequent.
 
-The same authority goes on to say:---
+The same authority goes on to say :---
 
 >It is, of course, true that the ideal of international law must
 be a perfect legal system in which war will be entirely eliminated,
@@ -629,12 +629,12 @@ international law, as there was no visible authority with
 legislative power or indeed with any determinate power over
 the society of States, and as in his time the rules of international
 law were almost exclusively customary, Austin concluded that
-international law was not true law but" positive international
+international law was not true law but "positive international
 morality" only, analogous to the rules binding a club or
-society. He further described it as consisting of " opinions
+society. He further described it as consisting of "opinions
 or sentiments current among nations generally".[^18/2]
 
-The reply to Austin's view is as follows:---
+The reply to Austin's view is as follows :---
 
 (a) Modern historical jurisprudence has discounted the force
 of his general theory of law. It has been shown that in many
@@ -645,14 +645,14 @@ with a true legislative authority.
 
 (b) Austin's views, however right for his time, are not true
 of present-day international law. In the last half-century, a
-great mass of "international legislation " has come into
+great mass of "international legislation" has come into
 existence as a result of "law-making treaties" and Conventions,
 and the proportion of customary rules of international law
 has correspondingly diminished.[^19/1] Even if it be true that
 there is no determinate sovereign legislative authority in the
 international field, the procedure for formulating these rules of
-international legislation" by means of international con-
-ferences or through existing international organs is practically
+international legislation" by means of international conferences
+or through existing international organs is practically
 as settled, if not as efficient, as any State legislative procedure.
 
 (c) Questions of international law are always treated as
@@ -673,16 +673,16 @@ opinions of specialists_. They assume the existence among
 statesmen and publicists of a series of legal as distinguished
 from moral obligations in the affairs of nations".[^19/2]
 
-Certain countries indeed in practice expressly treat inter-
-national law as possessing the same force as the ordinary law
+Certain countries indeed in practice expressly treat international
+law as possessing the same force as the ordinary law
 binding their citizens. Under the Constitution of the United
 States of America, for example, treaties are "the supreme
-law of the land " (Article VI, 82). Judges of the United States
+law of the land" (Article VI, 82). Judges of the United States
 Supreme Court---the highest Court of the land---have repeatedly
 recognised the constitutional validity of international law.
 In one case,[^20/1] Marshall, C.J., declared that an Act of Congress
 "ought never to be construed to violate the law of nations
-if any other possible construction remains ". In another
+if any other possible construction remains". In another
 case,[^20/2] Gray, J., made the following remarks :---
 
 >International law is part of our law, and must be ascertained
@@ -698,23 +698,23 @@ San Francisco in 1945, is both explicitly and implicitly based
 on the true legality of international law. This is also clearly
 expressed in the terms of the Statute of the International Court
 of Justice, annexed to the Charter, where the Court's function
-is stated as being " to decide in accordance with international
+is stated as being "to decide in accordance with international
 law such disputes as are submitted to it" (_see_ Article 38).
 
 In connection with the Austinian theory, it is useful to
 bear in mind the difference between rules of international law
-proper, and the rules of " international comity". The former
+proper, and the rules of "international comity". The former
 are legally binding, while the latter are rules of goodwill and
 civility, founded on the moral right of each State to receive
-courtesy from others. The essence of these usages of " comity"
+courtesy from others. The essence of these usages of "comity"
 is thus precisely what Austin attributed to international law
 proper, namely a purely moral quality.[^20/3] Non-observance of a
 rule of international law may give rise to a claim by one State
 against another for some kind of satisfaction, whether it be
 diplomatic in character or whether it take the concrete form
 of indemnity or reparation. Non-observance of a usage of
-"comity" on the other hand produces no strict legal conse-
-quences as regards the State withholding the courtesy; the
+"comity" on the other hand produces no strict legal consequences
+as regards the State withholding the courtesy; the
 State affected by the withdrawal of the concession may reply
 in the same kind and retract its own courtesy practices, but
 beyond this narrow reciprocity, there is no other legal action
@@ -722,9 +722,9 @@ open to it.[^21/1]
 
 This cumulative evidence against the position taken by
 Austin and his followers should not blind us to the fact that
-necessarily international law is _weak law_. Existing inter-
-national legislative machinery, operating mainly through law-
-making Conventions, is not comparable in efficiency to State
+necessarily international law is _weak law_. Existing international
+legislative machinery, operating mainly through lawmaking
+Conventions, is not comparable in efficiency to State
 legislative machinery. Frequently the rules expressed in such
 Conventions are formulated in such a way as to give wide
 options or areas of choice to the States parties (_see_, e.g., the
@@ -736,9 +736,9 @@ Justice, there still is no universal compulsory jurisdiction for
 settling legal disputes between States. Finally, many of the rules
 of international law can only be formulated with difficulty, and,
 to say the least, are quite uncertain, being often incapable of
-presentation except as a collection of inconsistent State prac-
-tices, while there are, in different areas of the subject, funda-
-mental disagreements as to what the rules should be. In
+presentation except as a collection of inconsistent State practices,
+while there are, in different areas of the subject, fundamental
+disagreements as to what the rules should be. In
 1960, the second Geneva Conference on the Law of the Sea,
 with eighty-seven States participating, failed to agree on a
 general rule fixing the width of the territorial sea, thus repeating
@@ -755,8 +755,8 @@ From earliest times,[^22/2] as we have seen, the concept of the
 law. Several theories of the character and binding force of
 international law were founded upon it.
 
-At first the "law of nature" had semi-theological associa-
-tions, but Grotius to some extent secularised the concept, and
+At first the "law of nature" had semi-theological associations,
+but Grotius to some extent secularised the concept, and
 as his followers later applied it, it denoted the ideal law founded
 on the nature of man as a reasonable being, the body of rules
 which Nature dictates to human reason. On this basic
@@ -769,7 +769,7 @@ were regulated by the higher law---the "law of nature", of
 which international law was but a part. The concept of
 the "law of nature" underwent further specialisation in the
 eighteenth century. The later refinements can be seen in the
-following passage from Vattel's Droit des Gens (1758)[^22/3]:---
+following passage from Vattel's Droit des Gens (1758)[^22/3] :---
 
 >We use the term necessary Law of Nations for that law
 which results from applying the "natural law" to nations. It is
@@ -781,7 +781,7 @@ are determined by men, and these men are subject to the
 "natural law" under whatever capacity they act. This same
 law is called by Grotius and his followers the internal Law of
 Nations, inasmuch as it is binding upon the conscience of
-nations. Several writers call it the "natural Law" of Nations".
+nations. Several writers call it the natural Law of Nations.
 
 Vattel's views in this connection led him to hold that the
 assumption that one or more States could overview and control
@@ -803,14 +803,14 @@ States by international Covenants to observe human rights and
 fundamental freedoms,[^23/1] while to some extent a "natural law"
 philosophy underlies the Draft Declaration on the Rights and
 Duties of States of 1949 prepared by the International Law
-Commission of the United Nations.[^23/2] "Natural law " has
+Commission of the United Nations.[^23/2] "Natural law" has
 been invoked also in order to justify the punishment of offenders,
 guilty of the grosser and more brutal kind of war crimes.
 Besides, there are the writers who adopt an international
-sociological standpoint, who treat the conception of " natural
-law" as identical with reason and justice applied to the inter-
-national community, and who look upon it as thereby elucida-
-ting the lines of the future development of international law.[^23/3]
+sociological standpoint, who treat the conception of "natural
+law" as identical with reason and justice applied to the international
+community, and who look upon it as thereby elucidating
+the lines of the future development of international law.[^23/3]
 
 Because of its rational and idealistic character, the conception
 of the "law of nature" has had a tremendous influence-a
@@ -827,10 +827,10 @@ law originally sprang from this practice.
 
 #### Positivism
 
-The theory known as "positivism " commands a wide
+The theory known as "positivism" commands a wide
 support, and has been adopted by a number of influential
 writers. We have already seen that Bynkershoek was an
-eighteenth-century "positivist", but the modern" positivist"
+eighteenth-century "positivist", but the modern "positivist"
 theories have refinements and are expressed in generalisations
 not to be found in Bynkershoek's writings.
 
@@ -867,10 +867,10 @@ consent in treaties, State papers, public documents, diplomatic
 notes, or the like, to being bound by particular customary rules.
 They therefore, consistently with their consensual theory, argue
 that in such exceptional cases the consent must be regarded as
-" tacit" or " implied ".[^25/3] This reasoning is often carried a stage
+"tacit" or "implied".[^25/3] This reasoning is often carried a stage
 further by arguing that membership of the society of States
-involves an implied consent to the binding operation of estab-
-lished customary rules of international law. On the face of
+involves an implied consent to the binding operation of established
+customary rules of international law. On the face of
 it, this is begging the question, as such a general implied
 consent could only be conditioned by some fundamental rule
 of international law itself, and it would still be necessary to
@@ -882,8 +882,8 @@ In Anzilotti's view, the binding force of international law can
 be traced back to one supreme, fundamental principle or
 norm, the principle that agreements between States are to
 be respected, or as the principle is better known, _pacta sunt
-servanda_. This norm _pacta sunt servanda_ is an absolute postu-
-late of the international legal system, and manifests itself in
+servanda_. This norm _pacta sunt servanda_ is an absolute postulate
+of the international legal system, and manifests itself in
 one way or another in all the rules belonging to international
 law. Consistently with this theory, Anzilotti holds that just
 as in the case of treaties, customary rules are based on the
@@ -896,8 +896,8 @@ to which they all relate, directly or indirectly. The fundamental
 norm determines, in this way, which norms compose a given
 legal order and gives unity to the whole. The international
 legal order is distinguished by the fact that, in this order, the
-principle _pacta sunt servanda_ does not depend, as in inter-
-national law, upon a superior norm; it is itself the supreme
+principle _pacta sunt servanda_ does not depend, as in international
+law, upon a superior norm; it is itself the supreme
 norm. The rule according to which 'States must respect the
 agreements concluded between them ', thus constitutes the
 formal criterion which distinguishes the norms of which we
@@ -911,11 +911,11 @@ The main defect in this analysis is that the norm _pacta sunt
 servanda_ is only partially an explanation of the binding force
 of international law. Anzilotti's view that customary rules
 are binding on States by virtue of an implied pactum (or treaty)
-is no more convincing than the " tacit" consent arguments
+is no more convincing than the "tacit" consent arguments
 of other "positivists".
 
 The principal objections to positivism as a whole may be
-formulated as follows:---
+formulated as follows :---
 
 (1) The notion of the State-will is purely metaphorical, and
 is used to express the fact that international law is binding on
@@ -941,13 +941,13 @@ example, those African States, emerged since 1957 by way of
 "decolonisation". Such a new State is bound by international
 law from the date of its emancipation without an express act of
 consent. The idea that in such an instance there is a "tacit"
-or " implied " consent, merely strains the facts. The reality is
+or "implied" consent, merely strains the facts. The reality is
 that other States look to the new State to comply with the
-whole body of established international law. This has con-
-sistently been the attitude of two influential Great Powers-
+whole body of established international law. This has consistently
+been the attitude of two influential Great Powers---
 the United States of America and Great Britain. As to the
 United States, the authoritative Moore's Digest of International
-Law[^27/1] says:---
+Law[^27/1] says :---
 
 >The Government of the United States has on various
 occasions announced the principle that international law, as
@@ -957,8 +957,8 @@ as a fundamental condition of their admission to full and
 equal participation in the intercourse of civilised States .
 
 Professor H. A. Smith on an examination of British official
-legal opinions and State papers relative to questions of inter-
-national law declared that therein[^27/2] :---
+legal opinions and State papers relative to questions of international
+law declared that therein[^27/2] :---
 
 >... It is clearly emphasised that international law as a
 whole is binding upon all civilised States irrespective of their
@@ -966,18 +966,18 @@ individual consent, and that no State can by its own act release
 itself from the obligation either of the general law or of any
 well established rule.
 
-(3) It is never necessary in practice when invoking a par-
-ticular rule of international law against a particular State to
+(3) It is never necessary in practice when invoking a particular
+rule of international law against a particular State to
 show that that State has assented to it diplomatically. The
 test applied is whether the rule is one generally recognised by
-the society of States. As Westlake[^28/1] has put it:---
+the society of States. As Westlake[^28/1] has put it :---
 
 > It is enough to show that the general _consensus_ of opinion
 within the limits of European civilisation is in favour of the
 rule.
 
-(4) There are concrete examples today of treaty rules, par-
-ticularly those laid down by " law-making" treaties, having an
+(4) There are concrete examples today of treaty rules, particularly
+those laid down by "law-making" treaties, having an
 incidence upon States without any form of consent expressed
 by or attributable to them. A striking example is paragraph 6
 of Article 2 of the United Nations Charter, which provides that
@@ -996,8 +996,8 @@ valuable influence on the science of international law. It has
 concentrated attention on the actual practice of States by
 emphasising, perhaps unduly, that only those rules which
 States do in fact observe can be rules of international law.
-This has led to a more realistic outlook in works on inter-
-national law, and to the elimination of much that was academic,
+This has led to a more realistic outlook in works on international
+law, and to the elimination of much that was academic,
 sterile, and doctrinal.
 
 ### Sanctions of Observance of International Law
@@ -1021,18 +1021,18 @@ a case before the International Court of Justice, fails to perform
 the obligations incumbent upon it under a judgment rendered
 by the Court, the Security Council may upon application by
 the other State, party to the same case, make recommendations
-or decide upon measures to be taken to give effect to the judg-
-ment. It must be acknowledged, however, that the United
+or decide upon measures to be taken to give effect to the judgment.
+It must be acknowledged, however, that the United
 Nations Charter does not otherwise allow the use of force,
-collectively or individually, for the enforcement of inter-
-national law in general.[^29/1] Under Article 2 paragraph 4 of
+collectively or individually, for the enforcement of international
+law in general.[^29/1] Under Article 2 paragraph 4 of
 the Charter, Member States are to refrain from the threat or
-use of force against the territorial integrity or political inde-
-pendence of any State, or in any other manner inconsistent
-with the Purposes of the United Nations. The right of self-
-defence permitted to Member States by Article 51 of the
-Charter is only against an actual armed attack. These pro-
-visions have restricted the liberty formerly enjoyed by States
+use of force against the territorial integrity or political independence
+of any State, or in any other manner inconsistent
+with the Purposes of the United Nations. The right of self-defence
+permitted to Member States by Article 51 of the
+Charter is only against an actual armed attack. These provisions
+have restricted the liberty formerly enjoyed by States
 to use forcible measures, short of war, such as retorsion and
 reprisals (_see_ Chapter 16, _post._), or to go further and resort
 to war in order to induce other States to fulfil their international
@@ -1047,10 +1047,10 @@ in order to maintain or restore international peace and security.
 These may include, not only the actual use of force, but also
 economic sanctions (e.g., the imposition of a collective embargo
 upon trade with a particular State or entity), as has already
-occurred in the case of South Africa[^30/1] and of Rhodesia.[^30/2] More-
-over, since the critical point is the need for the Security Council's
-authority, it is _semble_ not required that force be applied col-
-lectively by a number of States, for a single individual member
+occurred in the case of South Africa[^30/1] and of Rhodesia.[^30/2] Moreover,
+since the critical point is the need for the Security Council's
+authority, it is _semble_ not required that force be applied collectively
+by a number of States, for a single individual member
 of the United Nations may be authorised to take unilateral
 forcible action, as occurred in 1966 when the United Kingdom
 was so authorised, for the purpose of preventing the transport
@@ -1064,16 +1064,16 @@ Charter are not exhaustive of the sanctions which may become
 operative in different areas of international law. By way of
 illustration, reference may be made to the following instances :
 
-(a) Under the Constitution of the International Labour Organ-
-isation (_see_ Articles 24--34), a procedure is laid down for dealing
+(a) Under the Constitution of the International Labour Organisation
+(_see_ Articles 24--34), a procedure is laid down for dealing
 with complaints regarding a failure by a Member State to
 secure the effective observance of an International Labour
-Convention binding it; this can lead to a reference to a Com-
-mission of Enquiry, or if necessary to the International Court
+Convention binding it; this can lead to a reference to a Commission
+of Enquiry, or if necessary to the International Court
 of Justice, and in the event of a Member State failing to carry
 out the recommendations in the Commission's report or in the
 decision of the International Court of Justice, the Governing
-Body of the Organisation may recommend " action" to the
+Body of the Organisation may recommend "action" to the
 International Labour Conference in order to secure compliance
 with the recommendations.[^31/1]
 
@@ -1092,8 +1092,8 @@ territory in default.
 
 (c) The constituent instruments of certain
 international organisations provide that Member States not
-complying with the basic principles laid down in these instru-
-ments may be suspended or expelled (_see_, e.g., Article 6 of the
+complying with the basic principles laid down in these instruments
+may be suspended or expelled (_see_, e.g., Article 6 of the
 United Nations Charter).
 
 (d) An international legal obligation
@@ -1129,15 +1129,15 @@ does not have available to it a permanent organised force for
 securing obedience to the law, similar to that which exists in
 a modern State. The question then is whether this complete
 absence of an organised external force necessarily derogates
-from the legal character of international law. In this connec-
-tion, there is a helpful comparison to be made between interna-
-tional law and the canon law, the law of the Catholic Church.
+from the legal character of international law. In this connection,
+there is a helpful comparison to be made between international
+law and the canon law, the law of the Catholic Church.
 The comparison is the more striking in the early history of the
 law of nations when the binding force of both systems was
 founded to some extent upon the concept of the "law of
 nature". The canon law is like international law unsupported
-by organised external force, although there are certain punish-
-ments for breach of its rules, for example, excommunication
+by organised external force, although there are certain punishments
+for breach of its rules, for example, excommunication
 and the refusal of sacraments. But generally the canon law is
 obeyed because as a practical matter, the Catholic society is
 agreeable to abide by its rules. This indicates that international
@@ -1195,22 +1195,22 @@ Assembly or December 9, 1948, and which entered into force on January 12,
 Tribunal were formulated by the International Law Commission of the
 United Nations as a Draft Code of Offences Against the Peace and Security
 of Mankind in a Report presented in 1950; note Principle I, formulated in
-this Report:---  " Any person who commits an act which constitutes a crime
+this Report :--- "Any person who commits an act which constitutes a crime
 under international law is responsible therefor and liable to punishment."
 
 [^2/4]: There is a division of opinion among writers whether international law
-includes the "internal " law of international institutions, such as the rules
+includes the "internal" law of international institutions, such as the rules
 governing the rights and duties of officials of these institutions. For the view
 that the expression "international law" in Article 38 of the Statute of the
-International Court of Justice does not cover this internal " law, _see_ per
+International Court of Justice does not cover this "internal" law, _see_ per
 Judge Córdova I.C.J. Reports, 1956, at pp. 165--166.
 
-[^3/1]: " International law" is the title most frequently adopted by English and
+[^3/1]: "International law" is the title most frequently adopted by English and
 American jurists (_cf._ the treatises of Hall, Westlake, Oppenheim, Kent,
 Wheaton, Hyde, and Fenwick). Twiss, and Lorimer elected to use the title
-"law of nations", while Hannis Taylor and A. S. Hershey preferred " inter-
-national public law". Other suggested titles have been the law between
-Powers" (e.g., by Taube), " inter-State law", and " the law of the community
+"law of nations", while Hannis Taylor and A. S. Hershey preferred "international
+public law". Other suggested titles have been the law between
+Powers" (e.g., by Taube), "inter-State law", and "the law of the community
 of States" (e.g., by Verdross). Judge Jessup in his Transitional Law (1956),
 adopted this latter title to denote all law which regulates actions or events
 that transcend national boundaries".
@@ -1230,7 +1230,7 @@ universal law,
 
 [^4/3]: _See_ I.C.J. Reports (1950), 266.
 
-[^5/1]: _Stricto sensu_, however, this Pact is not a " regional arrangement" within
+[^5/1]: _Stricto sensu_, however, this Pact is not a "regional arrangement" within
 the meaning of that expression in Articles 52 and 53 of the United Nations
 Charter of June 26, 1945.
 
@@ -1255,8 +1255,8 @@ while the Sovereigns of mediaeval England observed certain rules and usages
 in their relations with foreign Sovereigns.
 
 [^8/1]: _Cf._ also the influence of the early codes of mercantile and maritime usage,
-e.g., the Rhodian Laws formulated between the seventh and the ninth cen-
-turies, the Laws or Rolls of Oléron collected in France during the twelfth
+e.g., the Rhodian Laws formulated between the seventh and the ninth centuries,
+the Laws or Rolls of Oléron collected in France during the twelfth
 century, and the Consolato del Mare as to the customs of the sea followed by
 Mediterranean countries and apparently collected in Spain in the fourteenth
 century.
@@ -1268,13 +1268,13 @@ of Spanish writers, including Suarez and Ayala, mentioned above. In their
 works one finds powerfully expressed the concepts of the universal validity of
 a law of nations, and of the subjection of all States to a higher law, which
 influenced jurists in succeeding centuries. The influence of scholars and
-writers in Eastern Europe such as Paulus Vladimiri (1371--1435) of the Uni-
-versity of Cracow, should also not be overlooked. For discussion of the
+writers in Eastern Europe such as Paulus Vladimiri (1371--1435) of the University
+of Cracow, should also not be overlooked. For discussion of the
 writings of Vittoria and Suarez, _see_ Bernice Hamilton, Political Thought in
 Sixteenth Century Spain (1963).
 
-[^10/1]: As to the influence of Gentilis on Grotius, _see_ Fujio Ito, Rivista Inter-
-nationale di Filosofia del Diritto, July-October 1964, pp. 621--627.
+[^10/1]: As to the influence of Gentilis on Grotius, _see_ Fujio Ito, Rivista Internationale
+di Filosofia del Diritto, July-October 1964, pp. 621--627.
 
 [^10/2]: For a modern treatment of the laws and usages of war in the later Middle
 Ages, _see_ M. H. Keen, The Laws of War in the Late Middle Ages (1965);
@@ -1304,11 +1304,11 @@ fifteen members, appointed in their individual capacity as experts, first met in
 1949. Subjects dealt with by the Commission since 1949 have included the
 basic rights and duties of States, offences against the peace and security of
 mankind (the Nuremberg principles), reservations to treaties, the regime of the
-high seas, the law of treaties, arbitral procedure, nationality, statelessness, inter-
-national criminal jurisdiction, the definition of aggression, State responsibility,
+high seas, the law of treaties, arbitral procedure, nationality, statelessness, international
+criminal jurisdiction, the definition of aggression, State responsibility,
 diplomatic and consular practice, succession of States and Governments, and
-relations between States and inter-governmental organisations. The Com-
-mission now consists of twenty-five members.
+relations between States and inter-governmental organisations. The Commission
+now consists of twenty-five members.
 
 [^17/1]: W.E. (Sir Eric) Beckett in Law Quarterly Review (1939), Vol. 55, at p. 265.
 
@@ -1342,7 +1342,7 @@ become a matter of legal duty upon the State of accreditation under Article
 [^21/1]: In this connection, reference should be made to judicial "comity". For
 example, British Courts apply "comity" when giving recognition to the
 legislative, executive, and judicial acts of other States. _See_ Foster v. Driscoll,
-[1929] 1 K.B. 470. Comity", in its general sense, cannot be invoked to
+[1929] 1 K.B. 470. "Comity", in its general sense, cannot be invoked to
 prevent Great Britain, as a sovereign State, from taking steps to protect its
 own revenue laws from gross abuse; _see_ decision of House of Lords in Collco
 Dealings, Ltd. v. Inland Revenue Commissioners, [1962] A.C. 1 at 19; (1961)
@@ -1358,8 +1358,8 @@ Vol. I, xxxiv-xliii.
 
 [^22/3]: Preliminaries. §7.
 
-[^23/1]: The United Nations General Assembly, on December 17, 1966, unani-
-mously approved a Covenant on Economic, Social and Cultural Rights, and
+[^23/1]: The United Nations General Assembly, on December 17, 1966, unanimously
+approved a Covenant on Economic, Social and Cultural Rights, and
 a Covenant on Civil and Political Rights. The two Covenants were opened
 for signature on December 19, 1966.
 
@@ -1367,12 +1367,12 @@ for signature on December 19, 1966.
 
 [^23/3]: _Cf._ Le Fur, Hague Recueil (1927), Vol. 18, pp. 263--442.
 
-[^24/1]: This is the more specialised meaning of the term "positivist ". In its
-broader sense, the term positivist " denotes a writer, such as Bynkershoek
+[^24/1]: This is the more specialised meaning of the term "positivist". In its
+broader sense, the term "positivist" denotes a writer, such as Bynkershoek
 and others, who maintains that the practice of States (custom and treaties)
 constitutes the primary source of international law. Also, some "positivists"
-held that the only true law," positive " law, must be the result of some extern-
-ally recognisable procedure; _see_ Ago, Positive Law and International
+held that the only true law,"positive" law, must be the result of some externally
+recognisable procedure; _see_ Ago, Positive Law and International
 Law", American Journal of International Law (1957), Vol. 51, pp. 691--733.
 
 [^25/1]: The auto-limitation" theory was adopted by Jellinek in his work,
@@ -1381,7 +1381,7 @@ Die rechtliche Natur der Staatenverträge (1880).
 [^25/2]: Another refinement of positivist theory is Triepel's view that the obligatory
 force of international law stems from the Vereinbarung, or agreement of
 States to become bound by common consent; this agreement is an expression
-of a common will " of States, and States cannot unilaterally withdraw
+of a "common will" of States, and States cannot unilaterally withdraw
 consent.
 
 [^25/3]: This view has also been adopted by Soviet Russian jurists; _see_ Professor
@@ -1397,8 +1397,8 @@ tr. from Russian), p. 80.
 [^28/1]: International Law, Vol. I (1904), at p. 16. _Cf._ West Rand Central Gold
 Mining Co. v. R., (1905) 2 K.B. 391, at p. 407.
 
-[^29/1]: _See_ Kunz, " Sanctions in International Law", American Journal of Inter-
-national Law (1960), Vol. 54, pp. 324--347. United Nations " peacekeeping
+[^29/1]: _See_ Kunz, "Sanctions in International Law", American Journal of International
+Law (1960), Vol. 54, pp. 324--347. United Nations "peacekeeping"
 operations cannot, strictly speaking, be regarded as a category of sanctions
 for the observance of international law, although sometimes serving to prevent
 the occurrence of breaches of international law. The primary purpose of
