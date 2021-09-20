@@ -19,3 +19,5 @@ config.properties
 gen/
 # we dont want intermediate `-gen.tex` files to be checked in either
 *-gen.tex
+*.bak
+help.txt
