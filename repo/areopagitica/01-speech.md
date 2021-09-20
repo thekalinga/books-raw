@@ -8,7 +8,7 @@
 >Who neither can, nor will, may hold his peace:
 >What can be juster in a state than this?
 >
->\hfill --- EURIPID. HICETID.
+>\hfill EURIPID. HICETID.
 
 They, who to states and governors of the Commonwealth
 direct their speech, High Court of Parliament,
@@ -365,22 +365,22 @@ or three glutton friars. For example:
 >present work be contained aught that may withstand
 >the printing
 >
->\hfill --- VINCENT RABBATTA, Vicar of Florence.
+>\hfill VINCENT RABBATTA, Vicar of Florence.
 
 >I have seen this present work, and find nothing
 >athwart the Catholic faith and good manners: in
 >witness whereof I have given, etc.
 >
->\hfill --- NICOLO GINI, Chancellor of Florence.
+>\hfill NICOLO GINI, Chancellor of Florence.
 
 >Attending the precedent relation, it is allowed that
 >this present work of Davanzati may be printed.
 >
->\hfill --- VINCENT RABBATTA, etc.
+>\hfill VINCENT RABBATTA, etc.
 
 >It may be printed, July 15.
 >
->\hfill --- FRIAR SIMON MOMPEI D'AMELIA, Chancellor of the Holy Office in Florence.
+>\hfill FRIAR SIMON MOMPEI D'AMELIA, Chancellor of the Holy Office in Florence.
 
 Sure they have a conceit, if he of the bottomless pit had
 not long since broke prison, that this quadruple exorcism
@@ -392,11 +392,11 @@ to see another of their forms, the Roman stamp:
 >Imprimatur, If it seem good to the reverend Master
 >of the Holy Palace.
 >
->\hfill --- BELCASTRO, Vicegerent.
+>\hfill BELCASTRO, Vicegerent.
 
 >Imprimatur, Friar Nicolo Rodolphi,
 >
->\hfill --- Master of the Holy Palace.
+>\hfill Master of the Holy Palace.
 
 Sometimes five Imprimaturs are seen together dialogue-wise
 in the piazza of one title-page, complimenting
