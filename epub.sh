@@ -2,7 +2,7 @@
 
 if [ $# -ne 1 ]
 then
-    echo "Enter directory name (that contains book.md). Options are"
+    echo "Enter directory name (that contains *.md). Options are"
     echo ""
     for dir in $(ls -dt repo/*); do
       # if the directory has an `.md` file, lets assume it to be a book

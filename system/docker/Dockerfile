@@ -7,7 +7,7 @@ RUN apk add --no-cache texlive texlive-dvi texlive-luatex texlive-xetex xdvik
 # `template.tex` file uses crimson font for text
 RUN tlmgr install crimson
 
-# `template.tex` file uses `Merriweather Sans` for quotes. Unlike the one above, we can install the plugin as the plugin resets defualt fonts. So we are installing the manually
+# All `*-template.tex` files use `Merriweather Sans` for quotes. Unlike the one above, we can install the plugin as the plugin resets defualt fonts. So we are installing the manually
 RUN wget 'https://fonts.google.com/download?family=Merriweather Sans' -O googlefonts.zip \
   && mkdir -p /usr/share/fonts/truetype/google-fonts/ \
   && unzip googlefonts.zip -d /usr/share/fonts/truetype/google-fonts/ \

@@ -21,6 +21,12 @@ fi
 
 mkdir $book_folder_path
 
+# add appropriate header
+echo "# pick one
+#BOOK_TYPE=novel/textbook
+" > $book_folder_path/.config
+
+
 # useful for placing original pdfs so that they wont be checked into repo by accident
 mkdir $book_folder_path/gen
 echo "place original pdf file here if you dont want it to be checkedin" >  $book_folder_path/gen/why-this-folder.txt
@@ -39,9 +45,8 @@ TODO
 
 echo "TODO" > $book_folder_path/01-preface.md
 
-cp system/file-names-template.ods $book_folder_path/file-names.ods
-cp system/help-template.adoc $book_folder_path/help.adoc
-cp system/default-template.tex $book_folder_path/template.tex
+cp system/misc/file-names-template.ods $book_folder_path/file-names.ods
+cp system/misc/help-template.adoc $book_folder_path/help.adoc
 
 echo -e "New book template is placed under\n"
 
