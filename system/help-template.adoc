@@ -1,0 +1,249 @@
+= Help
+
+== Naming the files & parts
+
+Update the chapter & file names in `file-names.ods`
+
+* Then run the following script in the book directory
+
+[source,sh]
+----
+read -d "" filenames_one_per_line << EOF
+## TODO: paste file names column here
+EOF
+
+echo $filenames_one_per_line | while read line
+do
+   touch $line
+done
+----
+* Formula used in the filename column is
+
+[source]
+----
+A1 & "-" & IF(EXACT(B1,"y"), "PART-", "")
+&
+REGEX(
+  LEFT(
+      REGEX(
+        REGEX(
+          LOWER(C1);
+          "[.\u0027‘’“”""""]";
+          "";
+          "g"
+        );
+        "\s+";
+        "-";
+        "g"
+      ),
+    30
+  ),
+  "-$",
+  ""
+) & ".md"
+----
+
+== General character related one
+
+* Use triple dot (...) for a horizontal ellipsis (…) incase if the sentence ended & some parts are skipped.  No need to replace with actual horizontal ellipsis
+* Use four dots (. ...) incase if the sentence ended & some parts are skipped. We get dot followed by horizontal ellipsis (. …). No need to replace with actual horizontal ellipsis
+* Use triple hipen (---) for emdash. No need to actual em-dash
+* Use double hipen (--) for emdash. No need to actual en-dash
+* Replace number ranges with endash using the following regex
+[source]
+----
+# replace
+
+(\d)\-(\d)
+$1--$2
+----
+* Replace following double quote
+[source]
+----
+# replace
+
+[”“]
+"
+
+# replace
+
+[’‘]
+single quote
+----
+== Place bullet points onto new lines
+
+Replace the following
+[source]
+----
+# replace
+
+(\([a-zA-Z]+)\)
+\n$1
+
+# replace
+
+(\((?:i+|iv|vi*|ix|x)+\))
+\n$1
+
+# replace
+
+(\([0-9]+\))
+\n$1
+----
+
+== Handling parts & chapters
+
+If top-level-division is part, single # implies part name & ## implies chapter name
+
+Create one file/part + one file/chapter all in sequence (number the files in sequence & pad apprirpiate number of zeros at start).Otherwise, 1 file/chapter
+
+In any case,
+
+* Within chapter, in the 1st go, start each section with S , subsection with SS so that we will worry about number of hashes at the end of chapter
+* Once chapter is complete, Use search & replace to ensure we have correct number of hashes in one go
+
+== Handling footnotes
+
+* If Add footnote # are unique globally, Add / before footnote & its reference e.g [^121]
+* If they are not
+  a. Add / before footnote & its reference & prefix chapter number before slash (if they are unique only to chapter) i.e <chapter#>/<footnote#> e.g 1[^23]
+  b. Add / before footnote & its reference & add page specific number (if they are unique only to the page) i.e <page#>/<footnote#> e.g 345[^3]
+* Navigate using / to ensure the count of footnote reference matches footnotes
+* Add `:` at the end of footnote only at footnote declaration. To do so, replace
+[source]
+----
+^(/\d+) $1:
+----
+* For adding appropriate markdown footnote format, replace
+[source]
+----
+# replace
+
+(/\d+)
+\[^$1\]
+----
+* search for the following to find next item
+[source]
+----
+\[\^\/
+----
+* Finally search for the following to move thru footers to bottom
+[source]
+----
+^\[\^\d+\/
+----
+* Finally trim lines appropriately, do following replacements
+[source]
+----
+# replace
+
+^(\[\^\d+\/)
+\n$1
+
+# replace
+
+\n\n\n+
+\n\n
+----
+* Also replace footnotes that start with `(\d+)` with `(\d+),` so that markdown wont treat it as a numbered bullet
+[source]
+----
+# replace
+
+(^\[\^\d+\]\: \(\d+\))(?=\s+)
+$1,
+----
+* IMPORTANT: space between pages that have no footnotes are also takes care of
+
+For italicising, use this to ensure we always replace the correct word
+For e.g, handling this sequences correctly & dont place _ at wrong place if we need to italise the following 3 combinations in order
+
+see also below, see below, see
+
+[source]
+----
+([^\w_])(words\s*seperated\s*byspace)([^\w_])
+$1_$2_$3
+
+Simpler version
+
+(words\s*seperated\s*byspace)
+_$1_
+----
+
+== common latin words that needs to be highlighted in law books
+
+[source]
+----
+see also below
+see also above
+see belowsee below
+see above
+also see
+see also
+see
+in re
+ibid.
+prima facie
+inter alia
+ad hoc
+ipso facto
+ipso jure
+op. cit.
+loc. cit.
+supra.
+infra.
+ante
+cit.
+cf.
+et seq.
+de jure
+de facto
+per se
+obiter dicta
+ante
+dicta
+inter se
+res judicata
+jus cogens
+res gentium
+jure gentium
+raison d\x27être
+opinio juris
+
+([^\w_])(see\s*also\s*below)([^\w_])
+([^\w_])(see\s*also\s*above)([^\w_])
+([^\w_])(see\s*belowsee\s*below)([^\w_])
+([^\w_])(see\s*above)([^\w_])
+([^\w_])(also\s*see)([^\w_])
+([^\w_])(see\s*also)([^\w_])
+([^\w_])(see)([^\w_])
+([^\w_])(in\s*re)([^\w_])
+([^\w_])(ibid.?)([^\w_])
+([^\w_])(prima\s*facie)([^\w_])
+([^\w_])(inter\s*alia)([^\w_])
+([^\w_])(ad\s*hoc)([^\w_])
+([^\w_])(ipso\s*facto)([^\w_])
+([^\w_])(ipso\s*jure)([^\w_])
+([^\w_])(op\.?\s*cit\.?)([^\w_])
+([^\w_])(loc\.?\s*cit\.?)([^\w_])
+([^\w_])(supra\.?)([^\w_])
+([^\w_])(infra\.?)([^\w_])
+([^\w_])(ante)([^\w_])
+([^\w_])(cit\.)([^\w_])
+([^\w_])(cf\.)([^\w_])
+([^\w_])(et\s*seq\.?)([^\w_])
+([^\w_])(de\s*jure)([^\w_])
+([^\w_])(de\s*facto)([^\w_])
+([^\w_])(per\s*se)([^\w_])
+([^\w_])(obiter\s*dicta)([^\w_])
+([^\w_])(ante)([^\w_])
+([^\w_])(dicta)([^\w_])
+([^\w_])(inter\s*se)([^\w_])
+([^\w_])(res\s*judicata)([^\w_])
+([^\w_])(jus\s*cogens)([^\w_])
+([^\w_])(res\s*gentium)([^\w_])
+([^\w_])(jure\s*gentium)([^\w_])
+([^\w_])(raison\s*d\x27être)([^\w_])
+([^\w_])(opinio\s*juris)([^\w_])
+----
