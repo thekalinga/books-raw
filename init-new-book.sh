@@ -25,6 +25,8 @@ mkdir $book_folder_path
 mkdir $book_folder_path/gen
 echo "place original pdf file here if you dont want it to be checkedin" >  $book_folder_path/gen/why-this-folder.txt
 
+cp file-names.ods $book_folder_path
+
 # add appropriate header
 echo "---
 title: Introduction to International Law
@@ -40,6 +42,47 @@ TODO
 echo "TODO" > $book_folder_path/01-preface.md
 
 echo '
+# Naming the files & parts
+
+Update the chapter & file names in `file-names.ods`
+
+* Then run the following script in the book directory
+
+```sh
+read -d "" filenames_one_per_line << EOF
+## TODO: paste file names column here
+EOF
+
+echo $filenames_one_per_line | while read line
+do
+   touch $line
+done
+```
+* Formula used in the filename column is
+
+`
+A1 & "-" & IF(EXACT(B1,"y"), "PART-", "")
+&
+REGEX(
+  LEFT(
+      REGEX(
+        REGEX(
+          LOWER(C1);
+          "[.\u0027‘’“”""""]";
+          "";
+          "g"
+        );
+        "\s+";
+        "-";
+        "g"
+      ),
+    30
+  ),
+  "-$",
+  ""
+) & ".md"
+`
+
 # General character related one
 
 * Use triple dot (...) for a horizontal ellipsis (…) incase if the sentence ended & some parts are skipped.  No need to replace with actual horizontal ellipsis
@@ -47,17 +90,22 @@ echo '
 * Use triple hipen (---) for emdash. No need to actual em-dash
 * Use double hipen (--) for emdash. No need to actual en-dash
 * Replace number ranges with endash using the following regex
-    (\d)\-(\d) with $1--$2
+`
+  (\d)\-(\d) with $1--$2
+`
 * Replace following double quote
+`
   [”“] with "
-   [’‘] with single quote
-
+  [’‘] with single quote
+`
 # Place bullet points onto new lines
 
 Replace the following
+`
   (\([a-zA-Z]+)\) with \n$1
   (\((?:i+|iv|vi*|ix|x)+\)) with \n$1
   (\([0-9]+\)) with \n$1
+`
 
 # Handling parts & chapters
 
@@ -78,16 +126,26 @@ In any case,
   b. Add / before footnote & its reference & add page specific number (if they are unique only to the page) i.e <page#>/<footnote#> e.g 345/3
 * Navigate using / to ensure the count of footnote reference matches footnotes
 * Add `:` at the end of footnote only at footnote declaration. To do so, replace
+`
     ^(/\d+) $1:
+`
 * For adding appropriate markdown footnote format, replace
+`
     (/\d+) \[^$1\]
+`
 * search for the following to find next item
+`
     \[\^\/
+`
 * Finally search for the following to move thru footers to bottom
+`
     ^\[\^\d+\/
+`
 * Finally trim lines appropriately, do following replacements
+`
     ^(\[\^\d+\/) \n$1
     \n\n\n+ \n\n
+`
 * IMPORTANT: space between pages that have no footnotes are also takes care of
 
 For italicising, use this to ensure we always replace the correct word
@@ -95,6 +153,7 @@ For e.g, handling this sequences correctly & dont place _ at wrong place if we n
 
 see also below, see below, see
 
+`
 ([^\w_])(words\s*seperated\s*byspace)([^\w_])
 
 $1_$2_$3
@@ -104,6 +163,7 @@ Simpler version
 (words\s*seperated\s*byspace)
 
 _$1_
+`
 
 # common latin words that needs to be highlighted in law books
 
@@ -138,7 +198,7 @@ res gentium
 jure gentium
 raison d\x27être
 opinio juris
-'> $book_folder_path/help.txt
+'> $book_folder_path/help.md
 
 cp system/default-template.tex $book_folder_path/template.tex
 

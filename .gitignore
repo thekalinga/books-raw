@@ -21,3 +21,4 @@ gen/
 *-gen.tex
 *.bak
 help.txt
+.~lock*
