@@ -21,4 +21,8 @@ gen/
 *-gen.tex
 *.bak
 help.txt
+help.md
+help.adoc
 .~lock*
+file-names.ods
+
