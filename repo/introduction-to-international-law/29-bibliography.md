@@ -7,7 +7,7 @@ and reference materials, mainly those in English,
 
 Six indispensable works are :---
 
-(i) Oppenheim, International Law, Vol. I (Peace), 8th edition, 1955,
+(i) Oppenheim, _International Law, Vol. I (Peace)_, 8th edition, 1955,
 and Vol. II (Disputes and War), 7th edition, 1952.
 (ii) Hyde, International Law, Chiefly as Interpreted and Applied by
 the United States, 2nd revised edition, 1947, 3 volumes.
@@ -32,7 +32,7 @@ In addition, the following are extremely useful for further reference :---
 edited by Robert W. Tucker, 1966).
 * Fenwick, International Law (4th edition, 1965).
 * Hall, International Law (8th edition, 1924).
-Westlake, International Law, Vol. I (Peace), 2nd edition, 1910, and
+Westlake, _International Law, Vol. I (Peace)_, 2nd edition, 1910, and
 Vol. II (War), 2nd edition, 1913.
 * Wheaton, Elements of International Law (Dana edition, 1866). _See
 also_ English editions (edited Keith), published 1929 and 1944.
@@ -55,17 +55,17 @@ Organisation. General Sources of Information (1967).
 ## State Practice and the Practice of International Institutions
 
 The most authoritative compilation as to British practice (although
-a number of volumes remain to be published) is the British Digest of
-International Law, edited by Clive Parry, with Judge Sir Gerald Fitzmaurice
+a number of volumes remain to be published) is the British _Digest of
+International Law_, edited by Clive Parry, with Judge Sir Gerald Fitzmaurice
 as Consulting Editor. _See also_ British and Foreign State Papers, covering
 the period from 1812 onwards.
 
 With regard to United States practice, there are three important
 compilations :---
 
-* Moore, Digest of International Law (1906), 8 volumes.
-* Hackworth, Digest of International Law (1940--1944), 8 volumes.
-* Marjorie M. Whiteman, Digest of International Law, the successor
+* Moore, _Digest of International Law_ (1906), 8 volumes.
+* Hackworth, _Digest of International Law_ (1940--1944), 8 volumes.
+* Marjorie M. Whiteman, _Digest of International Law_, the successor
 * Digest to Moore and Hackworth (publication continuing).
 
 _See also_ Foreign Relations of the United States, Diplomatic Papers (formerly
@@ -154,7 +154,7 @@ United States has been a party (1898), 6 volumes, the same author's
 International Adjudications Ancient and Modern (1929--1936), and De la
 Pradelle and Politis, Recueil des Arbitrages Internationaux.
 
-Schwarzenberger, International Law, Vol. I, International Law as
+Schwarzenberger, _International Law, Vol. I_, International Law as
 Applied by International Courts and Tribunals (3rd edition, 1957), and
 Vol. II, Law of Armed Conflict (1968), is a valuable account of international
 law based on international judicial and arbitral decisions,
@@ -167,8 +167,8 @@ articles, treatises, and text-books, most of which are readily accessible,
 and may be consulted for wider reading on each of the different branches
 of the subject.
 
-The leading periodicals in English on international law are the American
-Journal of International Law (quarterly), the International and Comparative
+The leading periodicals in English on international law are the _American
+Journal of International Law_ (quarterly), the International and Comparative
 Law Quarterly, and the Year Book of World Affairs (London Institute of
 World Affairs; this Year Book deals with both international affairs and
 international law). These contain, in addition to articles and notes, the

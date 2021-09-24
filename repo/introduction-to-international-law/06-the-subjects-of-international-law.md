@@ -338,8 +338,8 @@ organisations are regarded as domestic institutions common to
 the participating States, and whose activities are in essence the
 activities of these States, and not as true international agencies.
 It is difficult to reconcile such a conception of the status of
-international institutions with all the facts, and in the South
-West Africa Cases, 2nd Phase (1966),[^72/1] the International Court
+international institutions with all the facts, and in the _South
+West Africa Cases, 2nd Phase_ (1966),[^72/1] the International Court
 of Justice, dealing with the League of Nations, ruled that
 individual member States had, with reference to mandates, no
 separate, self-contained right they could assert before a Court,
@@ -423,9 +423,9 @@ Friendly Relations and Co-operation Among States in Accordance
 with the United Nations Charter, adopted by the General
 Assembly in 1970, where the Declaration elaborates in detail
 the principle of equal rights and self-determination of peoples.
-In its Advisory Opinion of June 21, 1971, on the Legal Consequences
+In its Advisory Opinion of June 21, 1971, on the _Legal Consequences
 for States of the Continued Presence of South Africa
-in South West Africa (Namibia), the International Court of
+in South West Africa (Namibia)_, the International Court of
 Justice treated the people of the Mandated Territory of South
 West Africa as having, in effect, rights at international law,
 including a right of progress towards independence, which had
@@ -470,7 +470,7 @@ to concern themselves with individuals and non-State entities
 as subjects of international law.
 
 
-[^62/1]: _See_ Oppenheim, International Law, Vol. I (8th Edition, 1955), pp. 19--22;
+[^62/1]: _See_ Oppenheim, _International Law, Vol. I_ (8th Edition, 1955), pp. 19--22;
 W. Paul Gormley, The Procedural Status of the Individual before International
 and Supranational Tribunals (1966); Nørgaard, The Position of the Individual
 in International Law (1962).
@@ -541,7 +541,7 @@ existing international law. It pointed out that the defendants must have
 known that their actions were illegal and wrong, and in defiance of international
 law (_see_ Official Record of Trials, Vol. I, Official Documents, at p. 219).
 This ruling has been widely criticised; for typical criticism and discussion,
-_see_ Finch, American Journal of International Law (1947), Vol. 41, at pp. 33
+_see_ Finch, _American Journal of International Law_ (1947), Vol. 41, at pp. 33
 
 [^67/3]: _See_ Official Record, Vol. I, Official Documents, at p. 223. The Tribunal
 also pointed out that it had long been recognised that "international law
@@ -593,16 +593,16 @@ of another State party (_see_ article 8).
 
 [^73/1]: Another instance is the status of the Holy See as a subject of international
 law from 1871 to 1929, before the Lateran Treaties; as to which _see_ Kunz,
-The Status of the Holy See in International Law", American Journal of
-International Law (1952), Vol. 46, pp. 308--314. For the special case of
+The Status of the Holy See in International Law", _American Journal of
+International Law_ (1952), Vol. 46, pp. 308--314. For the special case of
 Governments in exile, as during the Second World War, _see_ F. Ē. Oppenheim,
-"Governments and Authorities in Exile", American Journal of International
-Law (1942), Vol. 36, pp. 568 _et seq._ Note also the decision of the Rome
+"Governments and Authorities in Exile", _American Journal of International
+Law_ (1942), Vol. 36, pp. 568 _et seq._ Note also the decision of the Rome
 Tribunal that the Sovereign Order of Malta is a subject of international law;
 _see_ Cartolari v. Sovereign Order of Malta, Annali di Diritto Internazionale
 (1951), Vol. IX, p. 153. A further case of a non-State entity, which is possibly
 a subject of international law, is that of the International Committee of the
-Red Cross (ICRC); _see_ Kunz, American Journal of International Law (1959),
+Red Cross (ICRC); _see_ Kunz, _American Journal of International Law_ (1959),
 Vol. 53 at no. 132.
 
 [^75/1]: One interesting development was the conclusion in February and November,
@@ -610,8 +610,8 @@ Vol. 53 at no. 132.
 Canadian province of Quebec, with provision for a supervisory France-Quebec
 Co-operation Commission. True, this was with the concurrence of
 the Canadian Government, but in the result a component of a Federation was
-brought within the range of international law. _See_ Fitzgerald, American
-Journal of International Law, Vol. 60 (1966), pp. 529--531. A later development
+brought within the range of international law. _See_ Fitzgerald, _American
+Journal of International Law_, Vol. 60 (1966), pp. 529--531. A later development
 was the conclusion in September, 1969, of a Quebec-Louisiana Cultural
 Co-operation Agreement, i.e., between subdivisions of different Federations.
 As to the extent to which the Soviet Union Republics are subjects of international

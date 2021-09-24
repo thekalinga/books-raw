@@ -1221,7 +1221,7 @@ Arbitration (1903), between the United States and Great Britain.
 Such disputes were also the subject of two instructive decisions
 of the International Court of Justice in 1959 and 1962 respectively,
 in the Frontier Lands Case (Belgium-Netherlands)[^205/1]
-and in the Case Concerning the Temple of Preah Vihear (Merits)
+and in the _Case Concerning the Temple of Preah Vihear_ (Merits)
 (Cambodia-Thailand).[^205/2] In the former case, the Court gave
 effect to allocations of territory in a Boundary Convention
 of 1843,[^205/3] thus deciding that Belgium was entitled to certain
@@ -1721,7 +1721,7 @@ is essential for the protection of its security, and provided
 that it has duly published such order of suspension. Vessels
 on passage through the territorial sea must comply with the
 laws and regulations of the coastal State, in particular those
-relating to transport and navigation. Quaere, whether the
+relating to transport and navigation. _Quaere_, whether the
 coastal State may prevent the passage of a merchant vessel
 which does not comply with its laws and regulations. In the
 case of warships, it is expressly provided in Article 23 of the
@@ -1908,7 +1908,7 @@ encompass collectively the shelf, slope, and rise, the outer limit
 of such continental margin being the commencement, so far
 as it can be defined geomorphologically, of the abyssal plain.
 
-In the North Sea Continental Shelf Cases,[^224/3] it was this
+In the _North Sea Continental Shelf Cases_,[^224/3] it was this
 geological context which persuaded the International Court of
 Justice, when seeking to rationalise the basis of shelf claims, to
 attach primary importance to the consideration that the shelf
@@ -2059,7 +2059,7 @@ boundary line is justified by special circumstances", paragraph
 the former case, while, in the latter case, paragraph 2 applies
 the principle of equidistance from the nearest points of the
 territorial sea baselines. The International Court of Justice
-held in the North Sea Continental Shelf Cases[^228/2] that in respect
+held in the _North Sea Continental Shelf Cases_[^228/2] that in respect
 to the division of the common shelf of the German Federal
 Republic, the Netherlands, and Denmark, paragraph 2 was not
 binding upon the German Federal Republic, a non-party to the
@@ -2566,11 +2566,11 @@ of these to launching States other than the grantee State.
 [^172/1]: _Cf._ observations of Judge Quintana in the Frontier Lands Case, I.C.J.
 Reports (1959), 209, at p. 255.
 
-[^172/2]: American Journal of International Law (1928), Vol. 22, at p. 875.
+[^172/2]: _American Journal of International Law_ (1928), Vol. 22, at p. 875.
 
 [^173/1]: _See_ p. 123, _ante_.
 
-[^173/2]: _See_ American Journal of International Law (1928), Vol. 22, at pp. 875--6.
+[^173/2]: _See_ _American Journal of International Law_ (1928), Vol. 22, at pp. 875--6.
 
 [^173/3]: _See_ Kelsen, General Theory of Law and State (1961 Edition), pp. 213--216,
 for discussion of the extent to which effectiveness governs the operation of
@@ -2581,8 +2581,8 @@ these modes of acquiring title.
 [^176/1]: _See_ Fisheries Case, I.C.J. Reports, 1951, 116, at p. 184, and Greig, International
 Law (1970), pp. 132--133.
 
-[^176/2]: _See_ the Clipperton Island Arbitration (1931), American Journal of International
-Law (1932), Vol. 26, 390. As this Arbitration shows, an actual
+[^176/2]: _See_ the Clipperton Island Arbitration (1931), _American Journal of International
+Law_ (1932), Vol. 26, 390. As this Arbitration shows, an actual
 manifestation of sovereignty on the locus of the territory creates a stronger title
 than a historic claim of right, unsupported by such a concrete act.
 
@@ -2593,7 +2593,7 @@ Edition, 1910), Vol. I, pp. 113 _et seq._
 
 [^177/2]: The theory of contiguity was rejected by Arbitrator Huber in the Island
 of Palmas Arbitration, p. 176, _ante_; he declared it to be wholly lacking in
-precision": In the North Sea Continental Shelf Cases, I.C.J. Reports (1969),
+precision": In the _North Sea Continental Shelf Cases_, I.C.J. Reports (1969),
 3 at pp. 30--31, the International Court of Justice preferred the theory of
 continuity to that of adjacency or proximity (i.e., contiguity) as an explanation
 of the coastal State's rights in regard to the continental shelf; _see also_
@@ -2602,7 +2602,7 @@ pp. 224--225, _post._
 [^177/3]: The sector claims of Chile and Argentina in the Antarctic are based
 primarily on contiguity; _see_ Greig, International Law (1970), p. 140. For a
 map of the Antarctic sector claims, _see_ London Times, January 18, 1955.
-p. 9, or North Sea Continental Shelf Cases, Pleadings, Oral Arguments,
+p. 9, or _North Sea Continental Shelf Cases_, Pleadings, Oral Arguments,
 Documents, Vol. I, 1968, p. 81; and _ibid_., p. 82 for a map of the Arctic sectors.
 
 [^178/1]: The British sector claim conflicts with the Argentinian and Chilean claims,
@@ -2630,7 +2630,7 @@ use of the expression "peaceful annexation" in Cooper v. Stuart (1889),
 
 [^180/2]: _Cf._ the case of such a disclaimer by the Allied Powers in 1945 in respect
 to Germany after the unconditional surrender by the German Government.
-According to Judge Jessup in The South West Africa Cases, 2nd Phase, I.C.J.
+According to Judge Jessup in The _South West Africa Cases, 2nd Phase_, I.C.J.
 Reports, 1966, 6, at pp. 418--419: "It is commonplace that international
 law does not recognise military conquest as a source of title".
 
@@ -2652,8 +2652,8 @@ at p. 39.
 [^182/3]: In that case, Arbitrator Huber did not expressly base his award on any
 doctrine of acquisitive prescription.
 
-[^182/4]: I.C.J. Reports (1959) 209. Also, subsequently, in the Case concerning
-the Temple of Preah Vihear (Merits) (CambodiaThailand) I.C.J. Reports
+[^182/4]: I.C.J. Reports (1959) 209. Also, subsequently, in the _Case concerning
+the Temple of Preah Vihear_ (Merits) (CambodiaThailand) I.C.J. Reports
 (1962), 6, the Court declined to treat the acts of merely local administrative
 authorities in a certain disputed area, as negativing a consistent attitude of the
 central authorities of Thailand, accepting as valid a certain frontier line, which
@@ -2701,7 +2701,7 @@ International Civil Aviation Organisation (ICAO) prepared draft articles of
 revision of the Convention, for submission to a diplomatic conference,
 increasing the upper limit of liability, and providing for absolute liability except
 where death or injury resulted solely from the passenger's infirmity; _see_
-American Journal of International Law, Vol. 64 (1970), pp. 641--644.
+_American Journal of International Law_, Vol. 64 (1970), pp. 641--644.
 
 [^188/1]: Under the Convention, these rights of overflight and landing in territory
 are subject to a number of qualifications and restrictions; e.g. as regards
@@ -2724,7 +2724,7 @@ Jurists, December, 1969, p. 36 n. 2.
 remainder of the air space closed and under the absolute control of the
 authorities of the subjacent State, or territory.
 
-[^191/1]: _Cf._ Le Roy, American Journal of International Law (1938), Vol. 32, at
+[^191/1]: _Cf._ Le Roy, _American Journal of International Law_ (1938), Vol. 32, at
 pp. 719 _et seq._
 
 [^191/2]: For the text of the Treaty, _see_ U.K. Treaty Series, No. 3 (1964), Cmd. 2245
@@ -2758,7 +2758,7 @@ establishment of special control centres.
 [^193/2]: The unmanned vehicle was the automated lunar rover Lunokhod, projected
 on the moon by the Soviet Union.
 
-[^194/1]: In the North Sea Continental Shelf Cases, I.C.J. Reports, 1969, 3, at p. 222.
+[^194/1]: In the _North Sea Continental Shelf Cases_, I.C.J. Reports, 1969, 3, at p. 222.
 
 [^195/1]: This Committee was established by the General Assembly on December 12,
 1959, and primarily through its Legal Sub-Committee has proved to be the
@@ -2774,7 +2774,7 @@ approved beforehand by General Assembly Resolutions on December 19,
 1966, and December 19, 1967 respectively.
 
 [^195/4]: _Cf._, Bin Cheng "From Air Law to Space Law", Current Legal Problems,
-1960, 228, at p. 232 and McDougal, American Journal of International Law
+1960, 228, at p. 232 and McDougal, _American Journal of International Law_
 (1957), Vol. 51, pp. 74--77.
 
 [^196/1]: Under a resolution adopted by the 1968 Conference of the International
@@ -2790,7 +2790,7 @@ A/AC.105/C.2/7, 1970) no proposal on the matter appears to command general
 support, while States are even divided about the necessity for such definition
 or delimitation,
 
-[^196/3]: Quaere, whether photographs from a satellite of State A of military
+[^196/3]: _Quaere_, whether photographs from a satellite of State A of military
 installations, etc., of State B would be legitimate under these principles, if .
 effected for defensive purposes only.
 
@@ -2867,8 +2867,8 @@ Temple area and restore to Cambodia certain objects removed from the temple.
 of H.M. Queen Elizabeth II for the Arbitration of a Controversy between the
 Argentine Republic and the Republic of Chile, etc.
 
-[^206/3]: For article on this Arbitration, _see_ Wetter, American Journal of International
-Law, Vol. 65 (1971), pp. 346-357.
+[^206/3]: For article on this Arbitration, _see_ Wetter, _American Journal of International
+Law_, Vol. 65 (1971), pp. 346-357.
 
 [^207/1]: _See_, e.g., Article 30 of the Treaty of St. Germain.
 
@@ -2885,8 +2885,8 @@ principle did not receive full application.
 
 [^208/3]: For brief account of the position in regard to river systems in other
 continents, _see_ Fenwick, International Law (4th Edition, 1965), pp. 459 _et seq._
-As to rivers in the Middle East, _see_ Hirsch, American Journal of International
-Law (1956), Vol. 50, pp. 81--100. As to the Moselle, _see_ André Philippe, Le
+As to rivers in the Middle East, _see_ Hirsch, _American Journal of International
+Law_ (1956), Vol. 50, pp. 81--100. As to the Moselle, _see_ André Philippe, Le
 Port de Mertert et la Navigation de la Moselle (1966).
 
 [^209/1]: But omitted the provision in Article 1 of the 1921 Convention that there
@@ -2902,7 +2902,7 @@ routes was again proclaimed in the General Agreement on Tariffs and Trade
 [^211/1]: A new problem of pollution has arisen in regard to navigation, through the
 recent more intensive use of tourist vessels plying in international rivers.
 
-[^211/2]: _See_ American Journal of International Law (1959), Vol. 53, pp. 156--171.
+[^211/2]: _See_ _American Journal of International Law_ (1959), Vol. 53, pp. 156--171.
 
 [^211/3]: For the application of principles of equity in a case concerning a disputed
 use of river waters, _see_ judgment of Judge Manly O. Hudson in the Diversion
@@ -3031,20 +3031,20 @@ Shore and Sea Boundaries, Vol. II (1964), pp. 342--343.
 
 [^225/1]: In regard to the historical background of the continental shelf doctrine _see_
 Anninos, The Continental Shelf and Public International Law (1953), pp. 11--34,
-and the North Sea Continental Shelf Cases, I.C.J. Reports, 1969, 3, at pp. 32--36.
+and the _North Sea Continental Shelf Cases_, I.C.J. Reports, 1969, 3, at pp. 32--36.
 In 1916 and 1927, respectively, it was urged by De Buren and Professor Suarez
 that the territorial sea should be extended to cover the continental shelf.
 
 [^225/2]: Annual Report of United States Secretary of the Interior for 1945, at pp. ix-x.
 
 [^226/1]: Lord Asquith in Arbitration between Petroleum Development, Ltd., and
-Sheikh of Abu Dhabi (1951), American Journal of International Law (1953),
+Sheikh of Abu Dhabi (1951), _American Journal of International Law_ (1953),
 Vol. 47, at pp. 156--159.
 
 [^226/2]: Partly in order that a coastal State, without a true continental shelf, should
 receive equality of treatment.
 
-[^227/1]: Quaere, whether the technique of deep sea mines, for the purpose of
+[^227/1]: _Quaere_, whether the technique of deep sea mines, for the purpose of
 testing, etc. for oil presence is within the scope of Articles 1 and 2.
 
 [^227/2]: Thus, free-swimming fish or free-moving crustaceans, such as shrimps, are
@@ -3093,8 +3093,8 @@ by Egypt to operate as a "blockade" of the ports of Israel. From the
 comments of certain delegates, it appeared that the Constantinople Convention
 was regarded as dedicating an international maritime highway.
 
-[^237/1]: For the text of the Declaration, _see_ American Journal of International
-Law (1957), Vol. 51, pp. 673--675.
+[^237/1]: For the text of the Declaration, _see_ _American Journal of International
+Law_ (1957), Vol. 51, pp. 673--675.
 
 [^238/1]: Although it did not contain an express provision that the Panama Canal
 should be open to all vessels in time of peace as well as of war. Ideally the

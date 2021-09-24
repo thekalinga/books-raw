@@ -1091,7 +1091,7 @@ Nottebohm Case (Second Phase), I.C.J. Reports (1955), at p. 23.
 P. 668. None the less no State may arbitrarily impress its nationality on
 persons outside its territory, having no genuine connection with it, or on
 persons residing in its territory without any intention of permanently living
-there; _see_ Moore, Digest of International Law (1906), Vol. III, pp. 302--310,
+there; _see_ Moore, _Digest of International Law_ (1906), Vol. III, pp. 302--310,
 and Nottebohm Case (Second Phase), loc cit., below at p. 340. Nor are States
 under a duty to recognise a nationality acquired by fraudulent misrepresentation
 or non-disclosure of essential facts.
@@ -1163,8 +1163,8 @@ to be conditional upon the acquisition of another nationality.
 
 [^344/2]: As to the question of the legal capacity of the national State of the shareholders
 to espouse a claim by them for injury done to the company itself, _see_
-Case Concerning the Barcelona Traction, Light and Power Co., Lid. (Second
-Phase), I.C.J. Reports, 1970, p. 3, discussed pp. 314--315, _ante_.
+_Case Concerning the Barcelona Traction, Light and Power Co., Lid. (Second
+Phase)_, I.C.J. Reports, 1970, p. 3, discussed pp. 314--315, _ante_.
 
 [^345/1]: [1891] A.C. 272.
 
@@ -1255,7 +1255,7 @@ authorities.
 
 [^352/5]: _Cf._ R. v. Governor of Brixton Prison, Ex parte Schtraks, (1963) 1 Q.B. 55.
 
-[^352/6]: Quaere, whether an English Court should accept an unconditional undertaking
+[^352/6]: _Quaere_, whether an English Court should accept an unconditional undertaking
 by the requesting State not to apply a particular law to the extraditee;
 _see_ Armah v. Government of Ghana, (1966] 3 AII E.R. 177.
 
@@ -1335,8 +1335,8 @@ and from detention without trial.
 satisfactory action has not been taken in the prescribed period, the Committee
 of Ministers is to decide what effect should be given to its decision.
 
-[^361/3]: Considerations of space preclude discussion of this case. _See_ American
-Journal of International Law (1962), pp. 187--210 for the Court's ruling on the
+[^361/3]: Considerations of space preclude discussion of this case. _See_ _American
+Journal of International Law_ (1962), pp. 187--210 for the Court's ruling on the
 merits.
 
 [^361/4]: On the questions of procedure, the Court ruled that the complainant was

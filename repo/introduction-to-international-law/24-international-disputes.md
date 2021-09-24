@@ -1351,7 +1351,7 @@ World War; among them are the Arbitral Tribunal on German External
 Debts set up under the Agreement on German External Debts of February
 27, 1953.
 
-[^456/2]: I.e., they have not in practice made a finding of non liquet; _see above_, p. 37.
+[^456/2]: I.e., they have not in practice made a finding of _non liquet_; _see above_, p. 37.
 
 [^457/1]: Writers seem generally agreed on the point, however, that a dispute in
 which one of the parties is in effect demanding a change in the rules of international
@@ -1485,8 +1485,8 @@ these.
 [^466/3]: _See_ the Interhandel Case (Preliminary Objections), I.C.J. Reports (1959), 6.
 
 [^467/1]: _See_ the Right of Passage over Indian Territory Case (Preliminary Objections),
-I.C.J. Reports (1957), 125 at 133--134, and Briggs, American Journal of
-International Law (1959), Vol. 53 at pp. 305--306.
+I.C.J. Reports (1957), 125 at 133--134, and Briggs, _American Journal of
+International Law_ (1959), Vol. 53 at pp. 305--306.
 
 [^467/2]: _See_ the Right of Passage Case, _supra_. This is covered by the United
 Kingdom reservation, excluding a dispute in which a State has so acted, or
@@ -1537,8 +1537,8 @@ terms of mandates.
 [^470/3]: The Economic and Social Council, the Trusteeship Council, and the
 various specialised agencies have been so authorised.
 
-[^471/1]: _See_ Advisory Opinion on the Legal Consequences for States of the Continued
-Presence of South Africa in Namibia (South West Africa), June 21, 1971,
+[^471/1]: _See_ Advisory Opinion on the _Legal Consequences for States of the Continued
+Presence of South Africa in Namibia (South West Africa)_, June 21, 1971,
 I.C.J. Reports, 1971, 16, at p. 45.
 
 [^472/1]: _See_ the Advisory Opinion on the Status of Eastern Carelia, Pub. P.C.I.J.
@@ -1557,15 +1557,15 @@ for legal advice on the consequences of decisions of that organ, notwithstanding
 that in order to give an answer, the Court may have to pronounce on legal
 questions upon which there is a divergence of views between a particular
 Member State, on the one hand, and the United Nations, on the other hand;
-_see_ Advisory Opinion on the Legal Consequences for States of the Continued
-Presence of South Africa in Namibia (South West Africa), June 21, 1971,
+_see_ Advisory Opinion on the _Legal Consequences for States of the Continued
+Presence of South Africa in Namibia (South West Africa)_, June 21, 1971,
 I.C.J. Reports, 1971, 16, at pp. 23--25.
 
 [^472/2]: _See_ Advisory Opinion on Certain Expenses of the United Nations (Article
 17, paragraph 2 of the Charter), I.C.J. Reports (1962), 151.
 
-[^472/3]: Advisory Opinion on the Legal Consequences for States of the Continued
-Presence of South Africa in Namibia (South West Africa), June 21, 1971; _see_
+[^472/3]: Advisory Opinion on the _Legal Consequences for States of the Continued
+Presence of South Africa in Namibia (South West Africa)_, June 21, 1971; _see_
 I.C.J. Reports, 1971, 16, at p. 23.
 
 [^473/1]: _See_ Advisory Opinion on Judgments of the Administrative Tribunal of the
@@ -1578,9 +1578,9 @@ Reports (1956), 77.
 [^473/3]: _See_ Case of the Free Zones of Upper Savoy and Gex, Pub. P.C.I.J. (1930),
 Series A, No. 24, at p. 10, and Series A/B No. 46 (1932) at p. 161.
 
-[^473/4]: _See_ discussion in the North Sea Continental Shelf Cases, I.C.J. Reports,
-1969, 3, at pp. 48--9. In the Case Concerning the Barcelona Traction, Light and
-Power Co., Ltd. (Second Phase), I.C.J. Reports, 1970, 3 (_see_ paragraphs 92--101
+[^473/4]: _See_ discussion in the _North Sea Continental Shelf Cases_, I.C.J. Reports,
+1969, 3, at pp. 48--9. In the _Case Concerning the Barcelona Traction, Light and
+Power Co., Ltd. (Second Phase)_, I.C.J. Reports, 1970, 3 (_see_ paragraphs 92--101
 of the judgment), the Court declined to accept the proposition that, by virtue of
 equitable principles, the national State of shareholders of a company, incorporated
 in another State, was entitled to espouse a claim by shareholders for
@@ -1601,7 +1601,7 @@ exercise jurisdiction in matters of nationality in a protectorate.
 [^474/5]: I.C.J. Reports (1949), 4.
 
 [^475/1]: _See_ for an evaluation of the work of the International Court of Justice,
-Leo Gross American Journal of International Law (1962), Vol. 56, pp. 33--62.
+Leo Gross _American Journal of International Law_ (1962), Vol. 56, pp. 33--62.
 
 [^475/2]: Referred to below, pp. 598--599.
 
@@ -1679,8 +1679,8 @@ including situations resulting from a breach of the Charter.
 
 [^484/1]: Unless used by way of justifiable reprisal, _semble_, a national boycott by
 one State of the goods of another may amount to an act of economic aggression
-in breach of international law. _See_ Bouvé, American Journal of International
-Law (1934), Vol. 28, pp. 19 _et seq._
+in breach of international law. _See_ Bouvé, _American Journal of International
+Law_ (1934), Vol. 28, pp. 19 _et seq._
 
 [^484/2]: _Semble_, defensive naval or military demonstrations are permissible in
 defence to an armed attack, but subsequent forcible self-help for purposes of

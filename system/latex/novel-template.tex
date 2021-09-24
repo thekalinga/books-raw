@@ -89,8 +89,12 @@ $endif$
 $if(fontfamily)$
 \usepackage[$for(fontfamilyoptions)$$fontfamilyoptions$$sep$,$endfor$]{$fontfamily$}
 $else$
+% replace all default fonts with
 \usepackage{crimson}
-
+% for sideways table
+\usepackage{rotating}
+%\usepackage{pdflscape}
+%\usepackage{adjustbox}
 %\usepackage{lmodern}
 $endif$
 $if(linestretch)$
@@ -306,7 +310,14 @@ $if(highlighting-macros)$
 $highlighting-macros$
 $endif$
 $if(tables)$
-\usepackage{longtable,booktabs}
+\usepackage{lscape}
+\usepackage{longtable,tabulary,booktabs}
+\usepackage{calc} % for calculating minipage widths
+% Correct order of tables after \paragraph or \subparagraph
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\makeatother
 $if(beamer)$
 \usepackage{caption}
 % These lines are needed to make table captions work with longtable:

@@ -941,8 +941,8 @@ Africa, subject to the terms of the original mandate, and subject
 to the supervision of the United Nations General Assembly,
 which by necessary implication stood in the place of the organs
 of the League of Nations which had previously supervised the
-working of the mandates system.[^127/1] In the South West Africa
-Cases, 2nd Phase[^127/2], the International Court of Justice held
+working of the mandates system.[^127/1] In the _South West Africa
+Cases, 2nd Phase_[^127/2], the International Court of Justice held
 that individual member States of the League had no legal
 claim or standing, by themselves, to enforce the terms of a
 mandate, this being a matter for organic or institutional action.
@@ -1478,7 +1478,7 @@ International Justice relied on the basic rights of States to independence and
 equality.
 
 [^106/2]: For general critical discussion of the Draft Declaration of 1949 (p. 105,
-_ante_), _see_ Kelsen, American Journal of International Law (1950), Vol. 44,
+_ante_), _see_ Kelsen, _American Journal of International Law_ (1950), Vol. 44,
 pp. 259--276. As to _jus cogens_, _see above_, p. 59.
 
 [^108/1]: By a subsequent settlement, the two countries regarded the incident as
@@ -1639,7 +1639,7 @@ Ababa, May, 1963.
 [^121/2]: For useful bibliography, _see_ Report of the Forty-ninth Conference at
 Hamburg of the International Law Association, 1960 at pp. 368--370. _See_
 in addition, Vallat, Year Book of World Affairs, 1964, pp. 249--258, Professor
-G. I. Tunkin's Droit International Public: Problèmes Théoriques (tr. from
+G. I. Tunkin's _Droit International Public: Problèmes Théoriques_ (tr. from
 Russian, 1965), pp. 51--55, and Rosalyn Higgins, Conflict of Interests (1965),
 Part 3.
 
@@ -1682,13 +1682,13 @@ of Italy and Yugoslavia respectively.
 League of Nations mandates system, _see_ generally Duncan Hall, Mandates,
 Dependencies, and Trusteeship (1948). For analysis of certain legal aspects of
 the system, _see_ Sayre, Legal Problems Arising from the United Nations
-Trusteeship System", American Journal of International Law (1948), Vol. 42,
+Trusteeship System", _American Journal of International Law_ (1948), Vol. 42,
 at pp. 263 _et seq._
 
 [^127/1]: _See_ I.C.J. Reports (1950), 128. This view was upheld and reaffirmed by
 the International Court of Justice over twenty years later in its Advisory
-Opinion of June 21, 1971, on the Legal Consequences for States of the Continued
-Presence of South Africa in Namibia (South West Africa). The Court ruled in
+Opinion of June 21, 1971, on the _Legal Consequences for States of the Continued
+Presence of South Africa in Namibia (South West Africa)_. The Court ruled in
 addition that the failure of South Africa to comply with its obligation to
 submit to the supervision of United Nations organs made its continued presence
 in South West Africa illegal; _see_ I.C.J. Reports (1971), 16, at pp. 28, 35--43.
@@ -1744,8 +1744,8 @@ in the internal affairs of other countries.
 [^134/2]: _Cf._ C. E. Black, R. Falk, K, Knorr, and 0. Young, Neutralisation and
 World Politics (1968).
 
-[^135/1]: _See also_ Advisory Opinion on the Legal Consequences for States of the
-Continued Presence of South Africa in South West Africa (Namibia), I.C.J.
+[^135/1]: _See also_ Advisory Opinion on the _Legal Consequences for States of the
+Continued Presence of South Africa in South West Africa (Namibia)_, I.C.J.
 Reports, 1971, 16, at pp. 54--56, where the International Court of Justice
 treated the people of the Mandated Territory of South West Africa as having
 an actual right of progress towards independence, which had been violated by
@@ -1762,7 +1762,7 @@ of Australia, the United Kingdom, and the United States.
 of West New Guinea, according to Article XVIII of the Netherlands-Indonesia
 Agreement of August 15, 1962.
 
-[^136/3]: _See_ Eagleton, American Journal of International Law (1953), Vol. 47,
+[^136/3]: _See_ Eagleton, _American Journal of International Law_ (1953), Vol. 47,
 pp. 88--93, and D. B. Levin, Soviet Year Book of International Law, 1962,
 pp. 24--48.
 

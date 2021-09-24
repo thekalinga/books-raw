@@ -1001,12 +1001,12 @@ much as they are to the recipients.
 
 
 [^140/1]: _See_ Chen, The International Law of Recognition (1951); Jean Charpentier,
-La Reconnaissance Internationale et L'Evolution du Droit des Gens (Paris,
+_La Reconnaissance Internationale et L'Evolution du Droit des Gens_ (Paris,
 1956); Hans-Herbert Teuscher, Die Vorzeitige Anerkennung im Völkerrecht
 (1959).
 
 [^141/1]: This conclusion is drawn by Professor H. A. Smith from a study of British
-practice; _see_ Smith, Great Britain and the Law of Nations, Vol. 1 (1932), at
+practice; _see_ Smith, _Great Britain and the Law of Nations_, Vol. 1 (1932), at
 pp. 77--80.
 
 [^141/2]: Hence, it is necessary when referring to a particular act of recognition to
@@ -1020,7 +1020,7 @@ was willing to conclude a general settlement with the recognising State; that
 recognition or non-recognition might offend an ally,
 
 [^142/1]: By the Institute of International Law; _see_ Resolutions adopted at Brussels
-in 1936, Article 1, American Journal of International Law (1936), Vol. 30,
+in 1936, Article 1, _American Journal of International Law_ (1936), Vol. 30,
 Supplement, at p. 185.
 
 [^143/1]: The Minister concerned may also, by Press Statement, expressly declare
@@ -1081,7 +1081,7 @@ in 1921.
 
 [^149/3]: As distinct from the admission of a new Member State to the United
 Nations, there is the question of the acceptance of the credentials of the
-Government of an existing Member State. Quaere whether accepting within
+Government of an existing Member State. _Quaere_ whether accepting within
 the United Nations the credentials of a revolutionary Government of a
 Member State involves the same considerations as the recognition of that
 Government. In a memorandum circulated to the Security Council members
@@ -1115,12 +1115,12 @@ might constitute an intervention.
 [^152/1]: Salimoff & Co. v. Standard Oil Co. of New York (1933), 262 N.Y. 220
 
 [^152/2]: In Compania de Transportes Mar Caribe, S.A. v. M/T Mar Caribe (1961),
-American Journal of International Law (1961), Vol. 55, p. 749, a United States
+_American Journal of International Law_ (1961), Vol. 55, p. 749, a United States
 District Court appears to have treated the rupture of diplomatic relations
 with Cuba by the United States on January 3, 1961, as a withdrawal of
 recognition.
 
-[^152/3]: _See_ Smith, Great Britain and the Law of Nations (1932), Vol. I, at p. 79.
+[^152/3]: _See_ Smith, _Great Britain and the Law of Nations_ (1932), Vol. I, at p. 79.
 In 1949, Great Britain intimated to the newly formed Government of the Communist
 People's Republic of China that it was ready to conduct informal
 relations with authorities of that Government through British consular officers,
@@ -1143,9 +1143,9 @@ at pp. 903, 925; (1966) 2 All E.R. 536, especially at pp. 545, 559.
 
 [^154/3]: _See_ Madzimbamuto v. Lardner-Burke, (1969] 1 A.C. 645, at pp. 723--725.
 
-[^155/1]: _See_ Smith, Great Britain and the Law of Nations (1932), Vol. I, at p. 239.
-U.S. practice is to a similar effect; _see_ M, M. Whiteman, Digest of International
-Law (1963), Vol. 2, pp. 72--73.
+[^155/1]: _See_ Smith, _Great Britain and the Law of Nations_ (1932), Vol. I, at p. 239.
+U.S. practice is to a similar effect; _see_ M, M. Whiteman, _Digest of International
+Law_ (1963), Vol. 2, pp. 72--73.
 
 [^155/2]: Carl-Zeiss-Stiftung v. Rayner and Keeler, Ltd. (No. 2), (1967] 1 A.C. 853,
 at pp. 956--957; [1966] 2 All E.R. 536, at p. 579.
@@ -1196,8 +1196,8 @@ there should be no interruption of the administration of law and justice; _see_
 Grotius, _De Jure Belli ac Pacis_, Book I Chapter IV, s. xv. 1, Texas v. White
 (1868), 74 U.S. 700, at p. 733, Carl-Zeiss-Stiftung v. Rayner and Keeler, Ltd.
 (No. 2), [1967] 1 A.C. 853; (1966) 2 All E.R. 536, and Advisory Opinion of the
-International Court of Justice on the Legal Consequences for States of the
-Continued Presence of South Africa in Namibia (South West Africa), June 21,
+International Court of Justice on the _Legal Consequences for States of the
+Continued Presence of South Africa in Namibia (South West Africa)_, June 21,
 1971, I.C.J. Reports, 1971, 16, at p. 56 (registrations of births, deaths, and
 marriages not invalidated). This "necessity" doctrine ought not to be
 extended. _Semble_, it does not apply to the administrative orders and judicial
@@ -1228,8 +1228,8 @@ Egypt and Liguori, (1937] Ch. 513.
 [^162/3]: The American Department of State "Suggestion" (or Certificate) can
 go so far as to "suggest" immunity from jurisdiction in the case of a foreign
 State or Government, and this may be binding on an American Court; _see_
-Rich v. Naviera Vacuba, S.A., and Republic of Cuba (1961), American Journal
-of International Law (1962), Vol. 56, pp. 550--552.
+Rich v. Naviera Vacuba, S.A., and Republic of Cuba (1961), _American Journal
+of International Law_ (1962), Vol. 56, pp. 550--552.
 
 [^162/4]: _See_ Mighell v. Johore (Sultan), [1894] 1 Q.B. 149.
 
@@ -1279,7 +1279,7 @@ criminals or pirates, and to preclude any suggestion that the legitimate Governm
 is to be held responsible for their acts. As to this distinction, _see_
 The Ambrose Light (1885), 25 Fed. 408, and below, pp. 287--288.
 
-[^166/1]: Smith, Great Britain and the Law of Nations (1932), Vol. I, at p. 263.
+[^166/1]: Smith, _Great Britain and the Law of Nations_ (1932), Vol. I, at p. 263.
 
 [^166/2]: Then Mr. Eden, later Sir Anthony Eden, and now Lord Avon.
 

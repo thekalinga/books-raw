@@ -1881,8 +1881,8 @@ member from voting has consistently been interpreted as not
 constituting a bar to the validity of a Security Council decision;[^608/1]
 the legality of the practice was upheld by the International Court
 of Justice in the Advisory Opinion of June 21, 1971, on the
-Legal Consequences for States of the Continued Presence of
-South Africa in Namibia (South West Africa), in which it ruled
+_Legal Consequences for States of the Continued Presence of
+South Africa in Namibia (South West Africa)_, in which it ruled
 that a Security Council Resolution of 1970 declaring illegal the
 continued presence of South Africa in South West Africa
 (Namibia) was not invalid by reason of the abstention from
@@ -2143,9 +2143,9 @@ armed attack, this right of self-defence is not to impair the
 primary authority and responsibility of the Security Council for
 enforcement action to maintain or restore peace (Article 51).[^614/2]
 
-In its Advisory Opinion of June 21, 1971, on the Legal
+In its Advisory Opinion of June 21, 1971, on the _Legal
 Consequences for States of the Continued Presence of South
-Africa in Namibia (South West Africa), the International Court
+Africa in Namibia (South West Africa)_, the International Court
 of Justice ruled that the Security Council's primary authority
 and responsibility for maintaining peace entitled the Council to
 make a binding determination (as it did in a Resolution in 1970)
@@ -2228,7 +2228,7 @@ in command of United Nations forces. Moreover, upon a
 close analysis of their terms, the Security Council Resolutions
 actually adopted were difficult to support as being a valid
 exercise of the powers conferred by Articles 39--43 of the
-Charter (quaere, e.g., whether the Security Council could make
+Charter (_quaere_, e.g., whether the Security Council could make
 a "recommendation",[^617/1] as distinct from a decision, that
 Member States furnish armed assistance). For this reason,
 some writers have inclined to the view that the "United
@@ -2303,7 +2303,7 @@ relationship of the new regime with the United Kingdom, is
 _stricto sensu_ one within the ambit of Chapter VII of the Charter.
 There persists the uneasy thought that the gates are being opened
 wider than contemplated by those who originally drafted
-Chapter VII of the Charter; e.g., quaere whether parent
+Chapter VII of the Charter; e.g., _quaere_ whether parent
 governments can activate the Security Council to take enforcement
 action against insurgents, or whether a federal government
 could similarly approach the Council for measures to be taken
@@ -2626,7 +2626,7 @@ the wide span of functions discharged by these bodies.
 the Community, exercises at the same time, regulatory, quasi-judicial, and
 administrative powers.
 
-[^563/2]: _See_ classification in South West Africa Cases, 2nd Phase, I.C.J. Reports,
+[^563/2]: _See_ classification in _South West Africa Cases, 2nd Phase_, I.C.J. Reports,
 1966, 6, at p. 30.
 
 [^563/3]: E.g., the Hague Conference on Private International Law.
@@ -2634,7 +2634,7 @@ administrative powers.
 [^563/4]: It is a question of construction of the relevant instruments or treaties
 whether the corporators (i.e., the member States) are entitled to exercise any
 powers appertaining to the institution, or whether this is a matter of organic
-or institutional action only; South West Africa Cases, 2nd Phase, I.C.J. Reports,
+or institutional action only; _South West Africa Cases, 2nd Phase_, I.C.J. Reports,
 1966, 6, at p. 29.
 
 [^564/1]: _See_ Advisory opinion on Reparation for Injuries Suffered in the Service of
@@ -2811,12 +2811,12 @@ which visited outposts in the Congo.
 Health Conference at New York on July 22, 1946, that the Office International
 d'Hygiène Publique was dissolved.
 
-[^590/2]: _See_ Myers, "Liquidation of League of Nations Functions", American
-Journal of International Law (1948), Vol. 42, at pp. 320 _et seq._
+[^590/2]: _See_ Myers, "Liquidation of League of Nations Functions", _American
+Journal of International Law_ (1948), Vol. 42, at pp. 320 _et seq._
 
 [^591/1]: The succession of an institution to the powers of another which has ceased
 to be, involves different considerations from the case of a reconstituted
-organisation. Quaere, whether the Organisation for Economic Co-operation
+organisation. _Quaere_, whether the Organisation for Economic Co-operation
 and Development (OÉCD), which replaced the Organisation for European
 Economic Co-operation (OEEC), with wider geographical and other powers,
 was a case of "reconstitution"
@@ -2833,7 +2833,7 @@ contrary practice of Permanent Mandates Commission).
 
 [^592/2]: There can be no succession of rights, from an international institution
 to individual member States where they did not possess previously the rights
-claimed to pass; South West Africa Cases, 2nd Phase, I.C.J. Reports, 1966, 6,
+claimed to pass; _South West Africa Cases, 2nd Phase_, I.C.J. Reports, 1966, 6,
 at p. 35.
 
 [^592/3]: _See above_, pp. 571--576.
@@ -2863,7 +2863,7 @@ Disarmament (CCD).
 
 [^604/1]: United Nations Forces. The respective powers of the Security Council
 and of the General Assembly to establish United Nations field forces are discussed
-by Sohn, American Journal of International Law (1958), Vol. 52, at
+by Sohn, _American Journal of International Law_ (1958), Vol. 52, at
 pp. 229--240. Clearly, the Security Council may authorise the creation of an
 observer group force (as in Lebanon in 1958), e.g., to supervise a truce. It is,
 however, a matter of controversy whether either organ may establish forces
@@ -3044,8 +3044,8 @@ to the Charter which took effect in 1965.
 [^622/3]: For discussion of the role of the Secretary-General in carrying out the
 provisions of the Charter, and in giving effect to decisions of United Nations
 organs, _see_ Stein "Mr. Hammarskjold, the Charter Law and the Future Role
-of the United Nations Secretary-General" American Journal of International
-Law (1962), Vol. 56, pp. 9--32.
+of the United Nations Secretary-General" _American Journal of International
+Law_ (1962), Vol. 56, pp. 9--32.
 
 [^622/4]: _See above_, p. 579, for a reference to the "loyalty" investigations of
 Secretariat officials.
@@ -3080,5 +3080,5 @@ the related agencies. However :---
     For more detailed information, the reader is referred to the Yearbook of the
     United Nations (latest edition, 1968), and to the Constitutions of the agencies
     related to the United Nations (_see_ the United Nations Treaty Series). _See also_
-    Oppenheim, International Law, Vol. I (8th edition, 1955), pp. 977--1029,
+    Oppenheim, _International Law, Vol. I_ (8th edition, 1955), pp. 977--1029,
     D. W. Bowett, The Law of International Institutions (1963), and C. H. Alexandrowicz, World Economic Agencies: Law and Practice (1962).

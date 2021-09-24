@@ -338,8 +338,8 @@ legislation and practice.
 April, 1959, The Encouragement and Protection of Investment in Developing
 Countries (1961) (British Institute of International and Comparative Law) at
 
-[^368/2]: Case Concerning the Barcelona Traction, Light and Power Co., Ltd.
-(Second Phase), I.C.J. Reports, 1970, p. 3 (_see_ paragraph 87 of the judgment
+[^368/2]: _Case Concerning the Barcelona Traction, Light and Power Co., Ltd.
+(Second Phase)_, I.C.J. Reports, 1970, p. 3 (_see_ paragraph 87 of the judgment
 of the Court).
 
 [^368/3]: _See_ the Resolution of the United Nations General Assembly of December

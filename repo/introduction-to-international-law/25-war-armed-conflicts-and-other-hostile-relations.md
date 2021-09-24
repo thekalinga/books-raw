@@ -1713,7 +1713,7 @@ which of course the Geneva Conventions had application.
 
 [^496/1]: The "cold war" is not a war, for the purpose of determining who are
 enemy aliens; _see_ decision of Supreme Court of Alabama in Pilcher v. Dezso
-(1955), American Journal of International Law (1955), Vol. 49, p. 417.
+(1955), _American Journal of International Law_ (1955), Vol. 49, p. 417.
 
 [^496/2]: Within the meaning of Article 51 of the United Nations Charter, permitting
 measures of self-defence against an armed attack, pending enforcement
@@ -1724,7 +1724,7 @@ security.
 
 [^499/1]: _See above_, pp. 480--482, and 483--485.
 
-[^499/2]: Meaning of "force": Quaere, whether this includes political, economic,
+[^499/2]: Meaning of "force": _Quaere_, whether this includes political, economic,
 and other forms of pressure or coercion, or use of irregular forces; U.N.
 Juridical Yearbook, 1964, pp. 79--83, 97--98.
 
@@ -1832,8 +1832,8 @@ of Civilian Persons in Time of War).
 [^511/1]: The occupant Power cannot seize property, such as stocks of petroleum,
 for the purposes not of the occupying army, but for its needs generally at home
 or abroad; _see_ decision of Court of Appeal, Singapore, in N. V. De Bataafsche
-Petroleum Maatschappij v. The War Damage Commission, American Journal
-of International Law (1957), Vol. 51, p. 802.
+Petroleum Maatschappij v. The War Damage Commission, _American Journal
+of International Law_ (1957), Vol. 51, p. 802.
 
 [^511/2]: _See_ Chapter 18, below at pp. 553--554, and 558.
 
@@ -1848,7 +1848,7 @@ captured).
 
 [^512/2]: Public Prosecutor v. Koi, [1968] A.C. 829.
 
-[^512/3]: _See_ Nurick, American Journal of International Law (1945), Vol. 39, pp.
+[^512/3]: _See_ Nurick, _American Journal of International Law_ (1945), Vol. 39, pp.
 680 _et seq_.
 
 [^514/1]: For discussion of the Convention, _see_ Draper, Hague Recueil des Cours,
@@ -1928,7 +1928,7 @@ territory in the last War were not entitled to the status of lawful combatants.
 
 [^521/2]:For discussion, _see_ Draper, Hague Recueil des Cours, 1965, Vol. I, pp. 101--118.
 
-[^522/1]: _See_ Mayda, American Journal of International Law (1953), Vol. 47, pp. 414
+[^522/1]: _See_ Mayda, _American Journal of International Law_ (1953), Vol. 47, pp. 414
 _et seq._, for treatment of the problem.
 
 [^522/2]: It is stated in the United States Manual, _op. cit._, paragraph 199 that a
@@ -1953,7 +1953,7 @@ Neutrality at Sea (1957).
 
 [^524/1]: At pp. 513--514,
 
-[^525/1]: Quaere whether this Protocol applies to the use of non-lethal tear gases;
+[^525/1]: _Quaere_ whether this Protocol applies to the use of non-lethal tear gases;
 the latter have been employed in the Vietnam conflict. In 1966--1970, the
 application of the Geneva Protocol of 1925 came under close examination by
 the United Nations General Assembly, which in 1968 requested the Secretary-General
@@ -1976,7 +1976,7 @@ embodied in the 1925 Protocol, the use in international armed conflicts of :---
     General Assembly to interpret the Protocol, claiming that this was the sole
     prerogative of the parties to that instrument.
 
-[^525/2]: Defoliants: As to the legality of attacks on other objectives, quaere
+[^525/2]: Defoliants: As to the legality of attacks on other objectives, _quaere_
 whether jungle growth, plantations, and crops may be destroyed by defoliants
 or other chemical agents, even if these be used to safeguard military operations
 and personnel, or to prevent crops going to the enemy. From one point of

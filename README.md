@@ -23,4 +23,4 @@ Run `html.sh`
 ## One time setup
 
 1. Ensure [docker](https://www.docker.com/) is installed
-2. Run `build.sh` from `docker` directory which generates builds required docker image
+2. From `system/docker` directory, run `build.sh`which generates builds required docker image

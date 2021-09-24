@@ -141,8 +141,8 @@ upon the precise terms of the treaty provision alleged to have
 been infringed. More often than not this raises purely a
 question of construction of the words used. If the treaty
 provision is broken, responsibility follows. According to the
-Permanent Court of International Justice in the Chorzów
-Factory (Indemnity) Case,[^296/3] it is a principle of international
+Permanent Court of International Justice in the _Chorzów
+Factory (Indemnity) Case_,[^296/3] it is a principle of international
 law that "any breach of an engagement involves an obligation
 to make reparation".
 
@@ -923,7 +923,7 @@ of a private citizen whose claim has been espoused by that
 State, the damage deemed to have been suffered by the claimant
 State is an independent damage not identical with that suffered
 by the individual. To quote the Permanent Court of International
-Justice in the Chorzów Factory (Indemnity) Case[^318/1] :---
+Justice in the _Chorzów Factory (Indemnity) Case_[^318/1] :---
 
 >The damage suffered by an individual is never
 identical in kind with that which will be suffered by a State;
@@ -1022,11 +1022,11 @@ Society (1960), Vol. 44, p. 267 at pp. 289 _et seq._, and Wortley, _op. cit._, a
 
 [^298/3]: _See_, e.g. decision of Bremen District Court in 1959, concerning the Indonesian
 legislation of 1958, nationalising Dutch enterprises, referred to by
-Domke, American Journal of International Law (1960), Vol. 54, p. 305, at
+Domke, _American Journal of International Law_ (1960), Vol. 54, p. 305, at
 pp. 306--7, and 312--315. _Cf._ also In re Claim by Helbert Wagg and Co.,
 Ltd., (1956) Ch. 323, at 349.
 
-[^299/1]: _See_ Chorzów Factory (Indemnity) Case, Pub. P.C.I.J. (1928), Series A, No.
+[^299/1]: _See_ _Chorzów Factory (Indemnity) Case_, Pub. P.C.I.J. (1928), Series A, No.
 17 at 46--48.
 
 [^299/2]: _Cf._ however, Russian Commercial and Industrial Bank v. Comptoir
@@ -1085,7 +1085,7 @@ in the Service of the United Nations, I.C.J. Reports (1949), at pp. 174 _et seq.
 [^307/2]: _See_, on the whole subject, Freeman, The International Responsibility of
 States for Denial of Justice (1938).
 
-[^307/3]: _See_ American Journal of International Law (1928), Vol. 22, p. 667.
+[^307/3]: _See_ _American Journal of International Law_ (1928), Vol. 22, p. 667.
 
 [^308/1]: _See above_, pp. 251--252.
 
@@ -1098,7 +1098,7 @@ can determine the issue of jurisdiction, so that the local remedies rule applies
 _see_ Panevezys-Saldutiskis Railway Case, Pub. P.C.I.J. (1939), Series A/B No.
 76.
 
-[^309/2]: _See_ American Journal of International Law (1956), Vol. 50, pp. 674--679.
+[^309/2]: _See_ _American Journal of International Law_ (1956), Vol. 50, pp. 674--679.
 
 [^309/3]: I.C.J. Reports (1959), 6.
 
@@ -1117,8 +1117,8 @@ Damage, Vienna, May 21, 1963.
 [^312/1]: This is a truly international system, involving both reporting and inspection.
 Prior to the Treaty, a large number of countries were subject to the
 system; _see_ the address, September 21, 1966, by the Director-General of
-IAEA to the 10th General Conference, and M. Willrich, American Journal of
-International Law, Vol. 60 (1966), pp. 34--54.
+IAEA to the 10th General Conference, and M. Willrich, _American Journal of
+International Law_, Vol. 60 (1966), pp. 34--54.
 
 [^312/2]: _See_ Panevezys-Saldutiskis Railway Case, Pub. P.C.I.J. (1939), Series A/B
 No. 76.
@@ -1126,7 +1126,7 @@ No. 76.
 [^312/3]: _See_ Gschwind v. Swiss Confederation, Annual Digest of Public Inter.
 national Law Cases, 1931--1932, at pp. 242--3.
 
-[^313/1]: Mavrommatis Palestine Concessions Case (Jurisdiction), Pub. P.C.I.J.
+[^313/1]: _Mavrommatis Palestine Concessions Case_ (Jurisdiction), Pub. P.C.I.J.
 (1924), Series A, No. 2, at p. 12.
 
 [^313/2]: _See_ Report of Decisions of the Commission, at pp. 175 _et seq._ _Cf._ also
@@ -1134,8 +1134,8 @@ the difficult case of The Bathori, [1934] A.C. 91.
 
 [^314/1]: _See_ p. 343.
 
-[^314/2]: Case Concerning the Barcelona Traction, Light and Power Co., Ltd.
-(Second Phase), I.C.J. Reports, 1970, p. 3.
+[^314/2]: _Case Concerning the Barcelona Traction, Light and Power Co., Ltd.
+(Second Phase)_, I.C.J. Reports, 1970, p. 3.
 
 [^315/1]: In its judgment (_see_ paragraph 99) the Court referred to the case of a
 company established in a foreign country in order to obtain tax or other
@@ -1146,8 +1146,8 @@ protection.
 
 [^316/1]: _See_ I.C.J. Reports (1955) 4.
 
-[^316/2]: _Cf._ Florence Strunsky Mergé Case (1955), American Journal of International
-Law (1956), Vol. 50, p. 154.
+[^316/2]: _Cf._ Florence Strunsky Mergé Case (1955), _American Journal of International
+Law_ (1956), Vol. 50, p. 154.
 
 [^316/3]: _See_ United Nations Reports of International Arbitral Awards, Vol. III,
 p. 1609. This case arose out of the sinking in 1929 of the I'm Alone, a British
@@ -1179,7 +1179,7 @@ than ordinary concern.
 [^319/1]: _See_ Advisory Opinion on Reparation for Injuries Suffered in the Service
 of the United Nations, I.C.J. Reports (1949), pp. 174 _et seq._
 
-[^319/2]: In the Chorzów Factory (Indemnity) Case (1928), P.C.I.J., Series A, No. 17,
+[^319/2]: In the _Chorzów Factory (Indemnity) Case_ (1928), P.C.I.J., Series A, No. 17,
 at 46--48, the Permanent Court of International Justice laid down that the
 measure of damages for an international wrong is determined by what is
 necessary to make restitution, together with special damages for loss not covered

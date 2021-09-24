@@ -148,7 +148,7 @@ of the European Communities have developed to such an
 extent since 1957 as to merit the designation of "Community
 Law" (_droit communitaire_).[^5/2] One of the distinctive characteristics
 of this Community Law may be its direct applicability,
-in certain cases and under certain conditions, in the sytems of
+in certain cases and under certain conditions, in the systems of
 national law of each member of the European Communities,
 with national Courts also ready to give effect to Community
 Law where its primacy ought to be recognised,[^5/3] e.g., if the
@@ -227,7 +227,7 @@ there was no necessity for a code of international law. Thus
 in the later period of Roman history with the authority of the
 Roman Empire extending over the whole civilised world, there
 were no independent States in any sense, and therefore a law
-of nations was not called for. During the early mediaeval
+of nations was not called for. During the early medieval
 era, there were two matters particularly which militated against
 the evolution of a system of international law :---
 
@@ -247,7 +247,7 @@ Profound alterations occurred in the fifteenth and sixteenth
 centuries. The discovery of the New World, the Renaissance
 of learning, and the Reformation as a religious revolution
 disrupted the facade of the political and spiritual unity of
-Europe, and shook the foundations of mediaeval Christendom.
+Europe, and shook the foundations of medieval Christendom.
 Theories were evolved to meet the new conditions; intellectually,
 the secular conceptions of a modern sovereign State
 and of a modern independent Sovereign found expression
@@ -342,7 +342,7 @@ has fluctuated at different periods, and his actual impact upon
 the practice of States was never so considerable as is traditionally
 represented. While it would be wrong to say that his
 views were always treated as being of compelling authority---
-frequently they were the object of criticism-nevertheless his
+frequently they were the object of criticism---nevertheless his
 principal work, _De Jure Belli ac Pacis_, was continually relied
 upon as a work of reference and authority in the decisions of
 Courts, and in the text-books of later writers of standing. Also
@@ -595,7 +595,7 @@ be a perfect legal system in which war will be entirely eliminated,
 just as the ideal of municipal law is a Constitution and legal
 system so perfect, that revolution, revolt, strikes, etc., can never
 take place and every man's rights are speedily, cheaply, and
-infallibly enforced".
+infallibly enforced.
 
 Lapses from such ideals are as inevitable as the existence of
 law itself.
@@ -651,7 +651,7 @@ and the proportion of customary rules of international law
 has correspondingly diminished.[^19/1] Even if it be true that
 there is no determinate sovereign legislative authority in the
 international field, the procedure for formulating these rules of
-international legislation" by means of international conferences
+"international legislation" by means of international conferences
 or through existing international organs is practically
 as settled, if not as efficient, as any State legislative procedure.
 
@@ -671,7 +671,7 @@ fact, this is not what they do. They appeal not to the general
 feeling of moral rightness, but to _precedents, to treaties, and to
 opinions of specialists_. They assume the existence among
 statesmen and publicists of a series of legal as distinguished
-from moral obligations in the affairs of nations".[^19/2]
+from moral obligations in the affairs of nations.[^19/2]
 
 Certain countries indeed in practice expressly treat international
 law as possessing the same force as the ordinary law
@@ -769,7 +769,7 @@ were regulated by the higher law---the "law of nature", of
 which international law was but a part. The concept of
 the "law of nature" underwent further specialisation in the
 eighteenth century. The later refinements can be seen in the
-following passage from Vattel's Droit des Gens (1758)[^22/3] :---
+following passage from Vattel's _Droit des Gens_ (1758)[^22/3] :---
 
 >We use the term necessary Law of Nations for that law
 which results from applying the "natural law" to nations. It is
@@ -813,8 +813,8 @@ community, and who look upon it as thereby elucidating
 the lines of the future development of international law.[^23/3]
 
 Because of its rational and idealistic character, the conception
-of the "law of nature" has had a tremendous influence-a
-beneficent influence-on the development of international law.
+of the "law of nature" has had a tremendous influence---a
+beneficent influence---on the development of international law.
 If it has lacked precision, if it has tended to be a subjective
 rather than an objective doctrine, it has at least generated
 respect for international law, and provided, and still provides,
@@ -905,7 +905,7 @@ speak from other norms and gives unity to the whole; all
 norms, and only the norms, which depend upon this principle
 as the necessary and exclusive source of their obligatory character,
 belong to the category of those with which we are concerned
-here".
+here.
 
 The main defect in this analysis is that the norm _pacta sunt
 servanda_ is only partially an explanation of the binding force
@@ -927,7 +927,7 @@ alluring and figurative, merely describes a situation of fact,
 that the competent British executive organ has ratified a treaty,
 and that the British people through their representatives have
 become responsible for the fulfilment of treaty obligations.
-The State-will is thus a mere façon de parler, as the only will
+The State-will is thus a mere _façon de parler_, as the only will
 or wills which operate are those of the individuals who govern
 Great Britain.
 
@@ -944,23 +944,23 @@ consent. The idea that in such an instance there is a "tacit"
 or "implied" consent, merely strains the facts. The reality is
 that other States look to the new State to comply with the
 whole body of established international law. This has consistently
-been the attitude of two influential Great Powers---
-the United States of America and Great Britain. As to the
-United States, the authoritative Moore's Digest of International
-Law[^27/1] says :---
+been the attitude of two influential Great Powers---the
+United States of America and Great Britain. As to the
+United States, the authoritative Moore's _Digest of International
+Law_[^27/1] says :---
 
 >The Government of the United States has on various
 occasions announced the principle that international law, as
 a system, is binding upon nations, not merely as something
 to which they may be tacitly assumed to have agreed, but also
 as a fundamental condition of their admission to full and
-equal participation in the intercourse of civilised States .
+equal participation in the intercourse of civilised States.
 
 Professor H. A. Smith on an examination of British official
 legal opinions and State papers relative to questions of international
 law declared that therein[^27/2] :---
 
->... It is clearly emphasised that international law as a
+> ... It is clearly emphasised that international law as a
 whole is binding upon all civilised States irrespective of their
 individual consent, and that no State can by its own act release
 itself from the obligation either of the general law or of any
@@ -1110,9 +1110,9 @@ final judgment of a court in that State.
 (e) Acts by a particular
 State, in breach of international law, may sometimes be treated
 by other States as invalid and inoperative. In its Advisory
-Opinion of June 21, 1971, on the Legal Consequences for
+Opinion of June 21, 1971, on the _Legal Consequences for
 States of the Continued Presence of South Africa in Namibia
-(South West Africa), the International Court of Justice ruled
+(South West Africa)_, the International Court of Justice ruled
 that South Africa's continued presence in Namibia (South
 West Africa) was illegal, and that Member States of the United
 Nations were obliged to recognise the invalidity of South
@@ -1209,10 +1209,10 @@ Judge Córdova I.C.J. Reports, 1956, at pp. 165--166.
 American jurists (_cf._ the treatises of Hall, Westlake, Oppenheim, Kent,
 Wheaton, Hyde, and Fenwick). Twiss, and Lorimer elected to use the title
 "law of nations", while Hannis Taylor and A. S. Hershey preferred "international
-public law". Other suggested titles have been the law between
+public law". Other suggested titles have been "the law between
 Powers" (e.g., by Taube), "inter-State law", and "the law of the community
 of States" (e.g., by Verdross). Judge Jessup in his Transitional Law (1956),
-adopted this latter title to denote all law which regulates actions or events
+adopted this latter title to denote "all law which regulates actions or events
 that transcend national boundaries".
 
 [^3/2]: _See below_, pp. 307--309.
@@ -1221,7 +1221,7 @@ that transcend national boundaries".
 the United Nations signed at San Francisco on June 26, 1945; _see_ e.g., the
 Preamble, Article 1, paragraph 1, Article 2, paragraph 3, and Article 76.
 Humanitarian considerations are not in themselves sufficient to generate
-international legal rights and obligations: South West Africa Cases, 2nd Phase,
+international legal rights and obligations: _South West Africa Cases, 2nd Phase_,
 I.C.J. Reports, 1966. 6, at p. 34.
 
 [^4/2]: McDougal and Lasswell in Studies in World Public Order (1960) p. 1 at
@@ -1251,7 +1251,7 @@ Illustrantium (1923), Vol. I, pp. 13 _et seq._
 
 [^7/1]: Nevertheless there is evidence of some development of international law
 in the thirteenth and fourteenth centuries in the Eastern Empire and in Italy,
-while the Sovereigns of mediaeval England observed certain rules and usages
+while the Sovereigns of medieval England observed certain rules and usages
 in their relations with foreign Sovereigns.
 
 [^8/1]: _Cf._ also the influence of the early codes of mercantile and maritime usage,
@@ -1283,8 +1283,8 @@ this may be usefully read in the light of what Grotius wrote.
 [^11/1]: _Cf._ Joan D. Tooke, The Just War in Aquinas and Grotius (1965).
 
 [^14/1]: Reference should be made in this connection to the important activities
-in the field of study of international law, of the Asian-African Legal Consul.
-tative Committee, representing the Afro-Asian group of States. Certain
+in the field of study of international law, of the Asian-African Legal Consultative
+Committee, representing the Afro-Asian group of States. Certain
 sessions of this Committee have been attended by an observer from the
 International Law Commission, which has a standing invitation to send an
 observer. For the impact upon international law of the new Asian and other
@@ -1293,7 +1293,7 @@ of International Law (1961), and S. P. Sinha, New Nations and the Law of
 Nations (1967).
 
 [^15/1]: Although treaties had nevertheless played an important role in the
-mediaeval law of nations; _cf._ Schwarzenberger, A Manual of International
+medieval law of nations; _cf._ Schwarzenberger, A Manual of International
 Law (5th Edition, 1967), pp. 6--7.
 
 [^16/1]: The Statute of the Commission was adopted by the United Nations
@@ -1351,7 +1351,7 @@ Dealings, Ltd. v. Inland Revenue Commissioners, [1962] A.C. 1 at 19; (1961)
 [^22/1]: _See_ pp. 59--61, _post._
 
 [^22/2]: The concept of a "law of nature" goes back to the Greeks, and its history
-can be traced through the Roman jurists up to mediaeval times when it found
+can be traced through the Roman jurists up to medieval times when it found
 expression in the philosophy of St. Thomas Aquinas (1226--1274). _See_ Barker,
 Introduction to Gierke, Natural Law and the Theory of Society: (transl. 1934),
 Vol. I, xxxiv-xliii.
@@ -1373,9 +1373,9 @@ and others, who maintains that the practice of States (custom and treaties)
 constitutes the primary source of international law. Also, some "positivists"
 held that the only true law,"positive" law, must be the result of some externally
 recognisable procedure; _see_ Ago, Positive Law and International
-Law", American Journal of International Law (1957), Vol. 51, pp. 691--733.
+Law", _American Journal of International Law_ (1957), Vol. 51, pp. 691--733.
 
-[^25/1]: The auto-limitation" theory was adopted by Jellinek in his work,
+[^25/1]: The "auto-limitation" theory was adopted by Jellinek in his work,
 Die rechtliche Natur der Staatenverträge (1880).
 
 [^25/2]: Another refinement of positivist theory is Triepel's view that the obligatory
@@ -1385,20 +1385,20 @@ of a "common will" of States, and States cannot unilaterally withdraw
 consent.
 
 [^25/3]: This view has also been adopted by Soviet Russian jurists; _see_ Professor
-G. I. Tunkin's, Droit International Public: Problèmes Théoriques (Paris, 1965
+G. I. Tunkin's, _Droit International Public: Problèmes Théoriques_ (Paris, 1965
 tr. from Russian), p. 80.
 
 [^26/1]: Corso di Diritto Internazionale, Vol. I (3rd Edition, 1928), at p. 43.
 
 [^27/1]: Vol. I (1906), at p. 2.
 
-[^27/2]: Great Britain and the Law of Nations, Vol. I (1932), at pp. 12--13.
+[^27/2]: _Great Britain and the Law of Nations_, Vol. I (1932), at pp. 12--13.
 
-[^28/1]: International Law, Vol. I (1904), at p. 16. _Cf._ West Rand Central Gold
+[^28/1]: _International Law, Vol. I_ (1904), at p. 16. _Cf._ West Rand Central Gold
 Mining Co. v. R., (1905) 2 K.B. 391, at p. 407.
 
-[^29/1]: _See_ Kunz, "Sanctions in International Law", American Journal of International
-Law (1960), Vol. 54, pp. 324--347. United Nations "peacekeeping"
+[^29/1]: _See_ Kunz, "Sanctions in International Law", _American Journal of International
+Law_ (1960), Vol. 54, pp. 324--347. United Nations "peacekeeping"
 operations cannot, strictly speaking, be regarded as a category of sanctions
 for the observance of international law, although sometimes serving to prevent
 the occurrence of breaches of international law. The primary purpose of
@@ -1418,8 +1418,8 @@ the United Kingdom to take steps, by the use of force if necessary, to prevent
 ships taking oil to ports from which it could be supplied or distributed to
 Rhodesia.
 
-[^31/1]: Quaere whether "action" could include economic sanctions; _see_ Landy,
-The Effectiveness of International Supervision (1966), p. 178.
+[^31/1]: _Quaere_ whether "action" could include economic sanctions; _see_ Landy,
+_The Effectiveness of International Supervision_ (1966), p. 178.
 
 [^32/1]: I.C.J. Reports (1971), 16, at pp. 54, 56.
 

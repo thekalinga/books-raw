@@ -833,9 +833,9 @@ be validly opposable to certain States other than the claimant
 State.[^99/3]
 
 According to the Advisory Opinion of June 21, 1971, of the
-International Court of Justice on the Legal Consequences for
+International Court of Justice on the _Legal Consequences for
 States of the Continued Presence of South Africa in South West
-Africa (Namibia),[^99/4] even a determination of the United Nations
+Africa (Namibia)_,[^99/4] even a determination of the United Nations
 Security Council, which correctly declares that a certain situation
 is illegal, may be opposable to all States, whether Members
 or non-Members, that may seek to rely upon the legality of the
@@ -1011,8 +1011,8 @@ Agreement for the Trust Territory of the Pacific Islands were not self-executing
 treaties.
 
 [^92/2]: _See_ Tag v. Rogers (1959), 267 F. (2d) 664, and Reiff, "The Enforcement of
-Multipartite Administrative Treaties in the United States", American Journal
-of International Law (1940), Vol. 34, pp. 661--679.
+Multipartite Administrative Treaties in the United States", _American Journal
+of International Law_ (1940), Vol. 34, pp. 661--679.
 
 [^92/3]: Note also the constitutional distinction between "treaties"and "executive
 agreements" made by the President of the United States, the latter instruments
@@ -1075,8 +1075,8 @@ Pub. P.C.I.J., Series B, No. 15, at pp. 26--27.
 
 [^97/3]: As in the _Lotus Case_ (1927), Pub. P.C.I.J., Series A, No. 10.
 
-[^97/4]: _See_ Case Concerning the Barcelona Traction, Light and Power Co., Ltd.
-(Second Phase), I.C.J. Reports, 1970, p. 3, where the International Court of
+[^97/4]: _See_ _Case Concerning the Barcelona Traction, Light and Power Co., Ltd.
+(Second Phase)_, I.C.J. Reports, 1970, p. 3, where the International Court of
 Justice, in reaching the conclusion that, as a general rule, the national State
 of shareholders of a company was not entitled to espouse their claim for loss
 suffered as a result of an international wrong done to the company itself,
@@ -1088,7 +1088,7 @@ municipal law it would, without justification, invite serious legal difficulties
 It would lose touch with reality, for there are no corresponding institutions of
 international law to which the Court could resort."
 
-[^98/1]: _See_ North Sea Continental Shelf Cases, Pleadings, Oral Arguments, Documents,
+[^98/1]: _See_ _North Sea Continental Shelf Cases_, Pleadings, Oral Arguments, Documents,
 I.C.J. Vol. I (1968), Counter-Memorial of Denmark, pp. 176--177, and
 judgment of the International Court of Justice in the same Cases, I.C.J.
 Reports, 1969, 3, at p. 41; and _cf._ Bin Cheng, Year Book of World Affairs,
@@ -1107,7 +1107,7 @@ was not entitled to espouse Nottebohm's complaint.
 [^99/2]: Kelsen, Pure Theory of Law (2nd Edition, translated by Max Knight,
 1967), p. 331.
 
-[^99/3]: E.g., in the North Sea Continental Shelf Cases, I.C.J. Reports, 1969, 3,
+[^99/3]: E.g., in the _North Sea Continental Shelf Cases_, I.C.J. Reports, 1969, 3,
 Article 6 of the Geneva Convention on the Continental Shelf of April 29,
 1958, containing the equidistance rule for the delimitation of a continental
 shelf common to adjacent countries, was held not opposable to the German

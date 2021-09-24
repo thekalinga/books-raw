@@ -539,7 +539,7 @@ United States, where a Russian woman, presumably detained by Soviet
 consular officers, jumped to the street from the window of a room in the
 Soviet Consulate, the United States Government insisted on the position that
 consular premises were subject to local police control in a proper case; _cf._
-Preuss, American Journal of International Law (1949), Vol. 43, pp. 37--56. But
+Preuss, _American Journal of International Law_ (1949), Vol. 43, pp. 37--56. But
 _see now_ the rule of inviolability of consular premises laid down in Article 31
 of the Vienna Convention of 1963; this prohibits authorities of the receiving
 State from entering, without consent, only that part of the consular premises

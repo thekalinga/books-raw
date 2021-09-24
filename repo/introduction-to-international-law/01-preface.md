@@ -45,8 +45,8 @@ equally unprecedented degree throughout the world.
 
 Apart from Treaties and Conventions, there have been a
 number of important decisions, including those of the International
-Court of Justice in the North Sea Continental Shelf
-Cases (1969), the Barcelona Traction Case (1970), and the
+Court of Justice in the _North Sea Continental Shelf
+Cases_ (1969), the Barcelona Traction Case (1970), and the
 Advisory Opinion on the Legal Consequences for States of the
 Continued Presence of South Africa in Namibia (South West
 Africa) (1971).
@@ -83,7 +83,7 @@ law. Only thus can we protect the rights and the
 human dignity of every person, regulate international commerce
 and communications, ensure economic development and
 improve social conditions in all countries.
-
-\hfill J. G. STARKE
-
-\hfill November 1971
+>
+>\hfill J. G. STARKE
+>
+>\hfill November 1971

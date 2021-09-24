@@ -1939,7 +1939,7 @@ to be regarded as part of the territory of the State in which it is registered.
 
 [^247/2]: _See below_, pp. 264--269.
 
-[^247/3]: _See_ Smith, Great Britain and the Law of Nations (1935), Vol. II, pp. 253--4.
+[^247/3]: _See_ Smith, _Great Britain and the Law of Nations_ (1935), Vol. II, pp. 253--4.
 
 [^248/1]: (1887), 120 U.S. 1.
 
@@ -1969,7 +1969,7 @@ have or may have monopoly-producing effects or repercussions in the United
 States. In the German Federal Republic, an alien may be rightfully convicted
 of an offence, committed abroad, of disclosing official secrets, if the result of
 such disclosure be to endanger the security of forces stationed in the Republic's
-territory; _see_ American Journal of International Law (1958), Vol. 52, at p. 799.
+territory; _see_ _American Journal of International Law_ (1958), Vol. 52, at p. 799.
 
 [^250/3]: Pub. P.C.I.J. (1927), Series A, No. 10.
 
@@ -1984,7 +1984,7 @@ Competence, etc., cited above, p. 214.
 [^251/3]: Harvard, Research on International Law (1935), Jurisdiction with respect
 to Crime, at pp. 483 _et seq._
 
-[^252/1]: Moore's Digest of International Law (1906), Vol. II, p. 228.
+[^252/1]: Moore's _Digest of International Law_ (1906), Vol. II, p. 228.
 
 [^253/1]: (1812), 7 Cranch 116.
 
@@ -2145,8 +2145,8 @@ new status; _see_ Arcaya v. Paez (1956), 145 F. Supp. 464.
 [^266/2]: E.g. Cockburn, Č.J., cited in Chung Chi Cheung v. R., [1939] A.C., at
 p. 172.
 
-[^266/3]: _See_ Triandafilou v. Ministère Public (1942), American Journal of International
-Law (1945), Vol. 39, pp. 345--347.
+[^266/3]: _See_ Triandafilou v. Ministère Public (1942), _American Journal of International
+Law_ (1945), Vol. 39, pp. 345--347.
 
 [^267/1]: The Pesaro (1926), 271 U.S. 562, at p. 574.
 
@@ -2204,10 +2204,10 @@ the High Court of the Commonwealth of Australia.
 in the celebrated case of R. v. Hulten and Jones (1945), London "Times",
 February 20--21, 1945.
 
-[^272/2]: This is discussed in an article by Rouse and Baldwin, American Journal of
-International Law (1957), Vol. 51, pp. 29--62. Somewhat similar principles
+[^272/2]: This is discussed in an article by Rouse and Baldwin, _American Journal of
+International Law_ (1957), Vol. 51, pp. 29--62. Somewhat similar principles
 have been followed in the stationing of forces agreements concluded by the
-Soviet Union; for texts, _see_ American Journal of International Law (1958),
+Soviet Union; for texts, _see_ _American Journal of International Law_ (1958),
 Vol. 52, pp. 210--227. Note also the Tokyo Agreement of February 19, 1954,
 regarding the Status of United Nations Forces in Japan.
 
@@ -2279,7 +2279,7 @@ International Law (1969), at p. 43, the two most important elements of a
 valid hot pursuit are its conduct without interruption, and its immediate
 commencement.
 
-[^279/2]: _See_ the case of the Virginius, Moore, Digest of International Law, Vol. II
+[^279/2]: _See_ the case of the Virginius, Moore, _Digest of International Law_, Vol. II
 pp. 895 _et seq._ The International Law Commission did not however favour
 a right of visit and search in such cases.
 
@@ -2372,11 +2372,11 @@ Jurisdiction (United Nations Secretariat, 1949), at pp. 1 _et seq._
 
 [^285/2]: So far is this the case that the taking of property by a pirate _jure gentium_
 does not divest the title of the true owner (pirata non mutat dominium); _see_
-Oppenheim, International Law, Vol. I (8th Edition, 1955), pp. 616--617.
+Oppenheim, _International Law, Vol. I_ (8th Edition, 1955), pp. 616--617.
 
 [^286/1]: (1934), A.C. 586.
 
-[^287/1]: _See_, however, Oppenheim, International Law, Vol. I (8th Edition, 1955),
+[^287/1]: _See_, however, Oppenheim, _International Law, Vol. I_ (8th Edition, 1955),
 p. 613. Examples of such treaties are :---
 
     (a) the abortive Treaty concluded at

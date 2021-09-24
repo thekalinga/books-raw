@@ -136,9 +136,9 @@ that Member States were under a duty not to recognise the
 régime. In a Resolution adopted on November 17, 1970, the
 Security Council urged States not to recognise the régime.
 
-In its Advisory Opinion of June 21, 1971, on the Legal
+In its Advisory Opinion of June 21, 1971, on the _Legal
 Consequences for States of the Continued Presence of South
-Africa in South West Africa (Namibia),[^171/1] the International
+Africa in South West Africa (Namibia)_,[^171/1] the International
 Court of Justice ruled :---
 
 (1) that inasmuch as the continued

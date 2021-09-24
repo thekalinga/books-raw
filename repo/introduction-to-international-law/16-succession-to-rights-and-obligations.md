@@ -545,7 +545,7 @@ over the German territory of the Saar.
     (c) The distinction between personal and
     territorial rights and obligations.
 
-[^323/2]: Great Britain and the Law of Nations (1932), Vol. I, at p. 334.
+[^323/2]: _Great Britain and the Law of Nations_ (1932), Vol. I, at p. 334.
 
 [^323/3]: _See_, e.g., Opinion on Claims against Hawaii (1899) of U.S. Attorney-General
 Griggs, Opinions of Attorneys-General, Vol. 22, pp. 583 _et seq._,
@@ -662,7 +662,7 @@ that the concession should continue; _see_ Hyde, International Law (2nd
 edition, 1947), Vol. I, at pp. 425--8.
 
 [^330/1]: _Cf._ also with regard to a concessionary contract, although the case rests
-on its own peculiar facts, the Mavrommatis Palestine Concessions Case (1924),
+on its own peculiar facts, the _Mavrommatis Palestine Concessions Case_ (1924),
 P.C.I.J., Series A, No. 2, at p. 28, and (1925), Series A, No. 5.
 
 [^330/2]: _See_, generally, on the subject Feilchenfeld, Public Debts and State Succession
@@ -689,12 +689,12 @@ pp. 571--2.
 
 [^331/4]: _See_ Advisory Opinion on Settlers of German Origin, etc., _loc. cit._
 
-[^332/1]: _See_ American Journal of International Law (1925), Vol. 19, at pp. 193 _et seq._
+[^332/1]: _See_ _American Journal of International Law_ (1925), Vol. 19, at pp. 193 _et seq._
 
-[^332/2]: _See_ American Journal of International Law (1926), Vol. 20, at pp. 381 _et seq._
+[^332/2]: _See_ _American Journal of International Law_ (1926), Vol. 20, at pp. 381 _et seq._
 
 [^332/3]: _See also_ Kishangarh Electric Supply Co. Ltd. v. United States of Rajasthan
-(1959), American Journal of International Law (1960), Vol. 54 at pp. 900--901,
+(1959), _American Journal of International Law_ (1960), Vol. 54 at pp. 900--901,
 
 [^332/4]: _See_ Hyde, _op. cit._, Vol. I, at pp. 437--40.
 
@@ -720,5 +720,5 @@ I.L.C., 1962, Vol. II, pp. 101--103.
 Tsarist treaties, _see_ Taracouzio, The Soviet Union and International Law
 (1935), pp. 235--290.
 
-[^335/1]: For opinion of Sir Robert Phillimore to this effect, _see_ Smith, Great
-Britain and the Law of Nations (1932), Vol. I, at pp. 412 _et seq._
+[^335/1]: For opinion of Sir Robert Phillimore to this effect, _see_ Smith, _Great
+Britain and the Law of Nations_ (1932), Vol. I, at pp. 412 _et seq._

@@ -47,8 +47,8 @@ REGEX(
 
 * Use triple dot (...) for a horizontal ellipsis (…) incase if the sentence ended & some parts are skipped.  No need to replace with actual horizontal ellipsis
 * Use four dots (. ...) incase if the sentence ended & some parts are skipped. We get dot followed by horizontal ellipsis (. …). No need to replace with actual horizontal ellipsis
-* Use triple hipen (---) for emdash. No need to actual em-dash
-* Use double hipen (--) for emdash. No need to actual en-dash
+* Use triple hipen (---) for emdash (—). No need to actual em-dash
+* Use double hipen (--) for emdash (–). No need to actual en-dash
 * Replace number ranges with endash using the following regex
 [source]
 ----
@@ -70,6 +70,7 @@ $1--$2
 [’‘]
 single quote
 ----
+
 == Place bullet points onto new lines
 
 Replace the following
@@ -246,4 +247,60 @@ opinio juris
 ([^\w_])(jure\s*gentium)([^\w_])
 ([^\w_])(raison\s*d\x27être)([^\w_])
 ([^\w_])(opinio\s*juris)([^\w_])
+----
+
+== Tables
+
+[source]
+----
+# both columns are of same size & the price column is right aligned
+
+fruit| price
+----|----:
+apple|2.05
+pear|1.37
+orange|3.09
+
+# no header
+
+|
+----|----:
+apple|2.05
+pear|1.37
+orange|3.09
+
+# 2nd column width is twice as much as 1st column
+
+fruit| price
+--|----:
+apple|2.05
+pear|1.37
+orange|3.09
+
+# organge row spread over multiple rows
+
+fruit| price
+----|----:
+apple|2.05
+pear|1.37
+orange|3
+|   .09
+----
+
+== Scene break
+
+[source]
+----
+# &#8233; adds paragraph. &#8258; adds triple star symbol
+
+&#8233;&#8258;&#8233;
+----
+
+== Zerowidth no break space
+
+[source]
+----
+# unicode for Zero Width No-Break Space (BOM, ZWNBSP)
+
+&#65279;
 ----

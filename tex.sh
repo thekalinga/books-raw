@@ -39,11 +39,15 @@ if [[ $BOOK_TYPE == "novel" ]]; then
   template_file_name='novel-template.tex'
 elif [[ $BOOK_TYPE == "textbook" ]]; then
   template_file_name='textbook-template.tex'
+elif [[ $BOOK_TYPE == "report" ]]; then
+  template_file_name='report-template.tex'
+elif [[ $BOOK_TYPE == "article" ]]; then
+  template_file_name='article-template.tex'
 elif [[ $BOOK_TYPE == "" ]]; then
-  echo -e "\nBOOK_TYPE not set in $(emphasize $config_file_path); Valid values are $(emphasize novel)/$(emphasize textbook)\n"
+  echo -e "\nBOOK_TYPE not set in $(emphasize $config_file_path); Valid values are $(emphasize novel)/$(emphasize textbook)/$(emphasize report)/$(emphasize article)\n"
   exit 1
 else
-  echo -e "\nInvalid BOOK_TYPE $(emphasize $BOOK_TYPE) specified in $(emphasize $config_file_path); Valid values are $(emphasize novel)/$(emphasize textbook)\n"
+  echo -e "\nInvalid BOOK_TYPE $(emphasize $BOOK_TYPE) specified in $(emphasize $config_file_path); Valid values are $(emphasize novel)/$(emphasize textbook)/$(emphasize report)/$(emphasize article)\n"
   exit 1
 fi
 
@@ -65,6 +69,8 @@ pandoc \
     --variable lang \
     --variable babel-lang="english" \
     --variable indent \
+    --variable tables \
+    --variable graphics \
     --pdf-engine=lualatex \
     --toc \
     --standalone \

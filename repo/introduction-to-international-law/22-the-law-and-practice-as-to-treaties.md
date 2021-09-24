@@ -799,8 +799,8 @@ are limited by the condition of a subsequent ratification. The
 ratification may be a form, but it is an essential form; for the
 instrument, in point of legal efficacy, is imperfect without it.
 
-According to Judge J. B. Moore in the Mavrommatis Palestine
-Concessions Case[^418/1] the doctrine that treaties may be regarded
+According to Judge J. B. Moore in the _Mavrommatis Palestine
+Concessions Case_[^418/1] the doctrine that treaties may be regarded
 as operative before they have been ratified is "obsolete, and
 lingers only as an echo from the past".[^418/2]
 
@@ -2104,7 +2104,7 @@ Work of its 18th Session in 1966 (these Draft Articles were used as a basic
 text by the Vienna Conference of 1968--1969 which drew up the Convention).
 For an analysis of the Vienna Convention and of its drafting history at the
 Conference, _see_ R. D. Kearney and R. E. Dalton, "The Treaty on Treaties",
-American Journal of International Law, Vol. 64 (1970), pp. 495--561.
+_American Journal of International Law_, Vol. 64 (1970), pp. 495--561.
 
 [^397/2]: A League of Nations mandate was a treaty"; South West Africa Cases,
 Preliminary Objections, I.C.J. Reports, 1962, 319, at p. 330.
@@ -2134,7 +2134,7 @@ Vienna Conference document, A/CONF.39/4.
 
 [^398/3]: Unilateral acts: The difference between treaties proper and certain
 unilateral acts, commonly recognised in international practice, should be
-noted. As to unilateral acts, _see_ Schwarzenberger, International Law, Vol. I
+noted. As to unilateral acts, _see_ Schwarzenberger, _International Law, Vol. I_
 (3rd Edition, 1957), at pp. 548--561, and Manual of International Law (5th
 Edition, 1967), at pp. 171--3, and Dr. E. Suy, Les Actes juridiques unilatéraux
 en droit international public (1962). These include acts of protest, notification,
@@ -2157,8 +2157,8 @@ recognised"), and Article 26 (all treaties are binding on the parties thereto,
 and must be performed by them in good faith).
 
 [^399/2]: _See_ Anglo-Iranian Oil Company Case (Jurisdiction), I.C.J. Reports (1952),
-93 at p. 112. As to what instruments are not treaties, _see_ Myers, American
-Journal of International Law (1957), Vol. 51, pp. 596--605. A League of
+93 at p. 112. As to what instruments are not treaties, _see_ Myers, _American
+Journal of International Law_ (1957), Vol. 51, pp. 596--605. A League of
 Nations mandate is a treaty; South West Africa Cases, Preliminary Objections,
 I.C.J. Reports, 1962, at pp. 319, 330.
 
@@ -2167,16 +2167,16 @@ I.C.J. Reports, 1962, at pp. 319, 330.
 [^401/1]: To this list may be added military treaties made between opposing
 commanders-in-chief, e.g., the Korean Armistice Agreement of July 27, 1953.
 Another special case is that of a Concordat, i.e., an agreement between the
-Pope and a Head of State; _see_ Oppenheim, International Law, Vol. I (8th
+Pope and a Head of State; _see_ Oppenheim, _International Law, Vol. I_ (8th
 Edition, 1955), p. 252, and Satow's Guide to Diplomatic Practice (4th Edition,
 1957), pp. 343--344.
 
 [^401/2]: _See_ the decision of the Permanent Court of International Justice in the
 Eastern Greenland Case, Pub. P.C.I.J. (1933), Series A/B, No. 53.
 
-[^401/3]: _Cf._ Oppenheim, International Law, Vol. I (8th Edition, 1955), pp. 898--900.
+[^401/3]: _Cf._ Oppenheim, _International Law, Vol. I_ (8th Edition, 1955), pp. 898--900.
 
-[^401/4]: _See_ Myers, American Journal of International Law (1957), Vol. 51,
+[^401/4]: _See_ Myers, _American Journal of International Law_ (1957), Vol. 51,
 pp. 574--605.
 
 [^402/1]: It is still sometimes used for a bilateral treaty; note, e.g., the Franco-Dutch
@@ -2304,7 +2304,7 @@ treaty provides that parties may be bound by signature only, or if the treaty be
 signed by Heads of State in person.
 
 [^419/1]: _See_ as to the subject of ratification, Jones, Full Powers and Ratification
-(1946), and Oppenheim, International Law, Vol. I (8th Edition, 1955),
+(1946), and Oppenheim, _International Law, Vol. I_ (8th Edition, 1955),
 pp. 903--918.
 
 [^419/2]: _See_ p. 89, _ante_.
@@ -2441,18 +2441,18 @@ at pp. 684 _et seq._, and _see also_ commentary on Article 26, Draft Arts. I.L.C
 the revision or modification of pre-war Conventions, so far as this was
 effected without the consent of all parties to the earlier instruments.
 
-[^438/1]: _See_ Greig, International Law (1970), pp. 367--372; Oppenheim, International
-Law, Vol. I (8th Edition, 1955), pp. 887--893.
+[^438/1]: _See_ Greig, International Law (1970), pp. 367--372; Oppenheim, _International
+Law, Vol. I_ (8th Edition, 1955), pp. 887--893.
 
 [^439/1]: Almost all the recorded instances of attempts to invalidate treaties on the
 ground of error have concerned geographical errors, and most of them related
 to errors in maps. _See_ cases referred to in Greig, International Law (1970),
-pp. 371--372; and _cf._ American Journal of International Law, Vol. 64 (1970),
+pp. 371--372; and _cf._ _American Journal of International Law_, Vol. 64 (1970),
 pp. 529--530.
 
 [^439/2]: _See_, in particular, Article 2 paragraph 4 of the Charter.
 
-[^440/1]: _See_ Hackworth, Digest of International Law (1940--1943), Vol. V, at
+[^440/1]: _See_ Hackworth, _Digest of International Law_ (1940--1943), Vol. V, at
 pp. 297 _et seq._
 
 [^440/2]: _See_ pp. 320--324, _ante_.
@@ -2460,8 +2460,8 @@ pp. 297 _et seq._
 [^440/3]: _See_ Chapter 17, pp. 508--509, _post._
 
 [^441/1]: _See_ Advisory Opinion of June 21, 1971, of the International Court of
-Justice on the Legal Consequences for States of the Continued Presence of
-South Africa in Namibia (South West Africa), where the Court upheld the
+Justice on the _Legal Consequences for States of the Continued Presence of
+South Africa in Namibia (South West Africa)_, where the Court upheld the
 view that the failure of South Africa to comply with its obligation, as Mandatory
 Power in South West Africa, to submit to supervision by United Nations
 organs, resulted in the termination of its mandate, and therefore of its authority
@@ -2477,7 +2477,7 @@ events" related to the subject-matter of the Treaty have jeopardised
 its "supreme interests".
 
 [^445/1]: In regard to the suspension clauses in International Labour Conventions,
-_see_ E. A. Landy, The Effectiveness of International Supervision. Thirty Years
+_see_ E. A. Landy, _The Effectiveness of International Supervision_. Thirty Years
 of I.L.O. Experience (1966), pp. 147--150.
 
 [^445/2]: The European Coal and Steel Community, the European Economic
@@ -2493,7 +2493,7 @@ have largely to do its own interpretative work; _see_ Report of the Rapporteur
 of Committee IV/2 of the Conference, pp. 7--8.
 
 [^446/2]: Under Article XVIII of the Articles of Agreement of the International
-Monetary Fund; _see_ Hexner, American Journal of International Law (1959),
+Monetary Fund; _see_ Hexner, _American Journal of International Law_ (1959),
 Vol. 53, pp. 341--370.
 
 [^446/3]: This means that, generally speaking, the two texts may be read in conjunction
@@ -2508,7 +2508,7 @@ Arts. I.L.C., commentary, pp. 108--113.
 
 [^447/1]: For references to the various authorities on which the above summary is
 based, _see_ Hudson, The Permanent Court of International Justice, 1920--1942,
-pp. 640--661; Hyde, American Journal of International Law (1930), Vol. 24,
+pp. 640--661; Hyde, _American Journal of International Law_ (1930), Vol. 24,
 pp. 1--19; J. F. Hogg, "International Court: Rules of Treaty Interpretation",
 Minnesota Law Review, Vol. 43 (1958--1959), pp. 369--441, and Vol. 44 (1959--1960),
 pp. 5--73; I. Tammelo, Treaty Interpretation and Practical Reason
@@ -2538,7 +2538,7 @@ Service of the United Nations, I.C.J. Reports (1949), p. 174, for an illustratio
 of the application of this principle, in order to enable an international
 organisation to function more effectively.
 
-[^449/3]: _See_ South West Africa Cases, 2nd Phase, I.C.J. Reports, 1966, 6, at p. 48.
+[^449/3]: _See_ _South West Africa Cases, 2nd Phase_, I.C.J. Reports, 1966, 6, at p. 48.
 
 [^450/1]: _Ibid_., at pp. 43--44.
 

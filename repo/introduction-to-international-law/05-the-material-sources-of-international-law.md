@@ -69,17 +69,17 @@ are not of themselves "general principles", in this sense.
 
 On several occasions the former Permanent Court of International
 Justice found it necessary to apply or refer to such
-"general principles". Thus in the Chorzów Factory (Indemnity)
-Case, it applied the principle of _res judicata_ and it referred
+"general principles". Thus in the _Chorzów Factory (Indemnity)
+Case_, it applied the principle of _res judicata_ and it referred
 to the "general conception of law", that "any breach of an
 engagement involves an obligation to make reparation".[^36/2] In
-the Mavrommatis Palestine Concessions Case, the Court referred
+the _Mavrommatis Palestine Concessions Case_, the Court referred
 to the "general principle of subrogation",[^36/3] and in the Case
-of the Diversion of Water from the Meuse, Judge Manly 0.
+of the Diversion of Water from the Meuse, Judge Manly O.
 Hudson expressed the view that the Court might apply Anglo-American
 equitable doctrines as being "general principles".[^36/4]
 But on at least one occasion, the Court refused to apply an
-alleged "general principle"---in the Serbian Loans Case where
+alleged "general principle"---in the _Serbian Loans Case_ where
 it held that the principle in English law known as "estoppel"
 was inapplicable.[^36/5] On the other hand, the private law doctrine
 of trusts was considered as helpful in order to deal with certain
@@ -100,7 +100,7 @@ the "general principles" has been regarded as "sounding the
 death-knell" of positivism, inasmuch as it explicitly rejects the
 broad positivist view that custom and treaties are to be
 considered the exclusive sources of international law. It has
-also been said to resolve the problem of non liquet, i.e., the
+also been said to resolve the problem of _non liquet_, i.e., the
 powerlessness of an international court to decide a case legally
 because of inability to find any rules of law that are applicable.[^37/4]
 Finally, the provision may fairly be considered as not laying
@@ -484,7 +484,7 @@ Generally speaking, non-parties must by their conduct distinctly
 evidence an intention to accept such provisions as
 general rules of international law. This is shown by the
 decision of the International Court of Justice in 1969 in the
-North Sea Continental Shelf Cases,[^48/1] holding on the facts that
+_North Sea Continental Shelf Cases_,[^48/1] holding on the facts that
 Article 6 of the Geneva Convention of 1958 on the Continental
 Shelf, laying down the equidistance rule for apportionment of
 a common continental shelf, had not been subsequently accepted
@@ -534,8 +534,8 @@ free goods", i.e., that enemy goods carried on a neutral vessel
 are in general immune from belligerent action, first appeared
 in a treaty of 1650 between Spain and the United Provinces,
 and became established only at a much later period after a long
-process of generalisation and recognition.[^49/2] In the North Sea
-Continental Shelf Cases,[^49/3] the International Court of Justice
+process of generalisation and recognition.[^49/2] In the _North Sea
+Continental Shelf Cases_,[^49/3] the International Court of Justice
 expressed the view that before a treaty provision could generate
 such a process of evolution into custom, it should potentially
 be of a norm-creating character so as to be capable of maturing
@@ -999,7 +999,7 @@ to treaties, must also render inoperative usages or practices
 conflicting with peremptory norms.
 
 [^61/1]: As to its drafting history at the Vienna Conference, _see_ R. D. Kearney and
-R. E. Dalton, American Journal of International Law, Vol. 64 (1970), at pp. 535--538.
+R. E. Dalton, _American Journal of International Law_, Vol. 64 (1970), at pp. 535--538.
 
 
 
@@ -1022,8 +1022,8 @@ of International Justice, Lord Phillimore pointed out that the general
 principles referred to were those accepted by all nations in the municipal
 sphere, such as certain principles of procedure, the principle of good faith,
 and the principle of _res judicata_; Proceedings of the Committee, p. 335.
-In the Case Concerning the Barcelona Traction, Light and Power Co., Ltd.
-(Second Phase), I.C.J. Reports, 1970, p. 3, the International Court of Justice
+In the _Case Concerning the Barcelona Traction, Light and Power Co., Ltd.
+(Second Phase)_, I.C.J. Reports, 1970, p. 3, the International Court of Justice
 had regard to the general rule under municipal legal systems (_see_ paragraph
 50 of the Court's judgment) which indicated that an infringement of a company's
 rights by outsiders did not involve liability towards the shareholders
@@ -1048,11 +1048,11 @@ of law recognised by civilised nations" there have been the following :---
     
     (f) General theories of law.
     
-    (g) General legal concepts. _See also_ Rousseau, Principes Généraux du Droit International Public (1944), Vol. 1, pp. 889 _et seq._
+    (g) General legal concepts. _See also_ Rousseau, _Principes Généraux du Droit International Public_ (1944), Vol. 1, pp. 889 _et seq._
     
     According to Professor G. I. Tunkin the "general principles" are to be derived
-    only from two sources, treaty and custom; _see_ his Droit International Public:
-    Problèmes Théoriques (Paris, 1965, tr. from Russian), p. 127.
+    only from two sources, treaty and custom; _see_ his _Droit International Public:
+    Problèmes Théoriques_ (Paris, 1965, tr. from Russian), p. 127.
 
 [^36/2]: Pub, P.C.I.J. (1928), Series A, No. 17, p. 29.
 
@@ -1061,16 +1061,16 @@ of law recognised by civilised nations" there have been the following :---
 [^36/4]: Pub. P.C.I.J. (1937), Series A/B, Fasc. No. 70, pp. 76 _et seq._
 
 [^36/5]: Pub. P.C.I.J. (1929), Series A, Nos. 20--21, pp. 38--9. Yet the International
-Court of Justice applied the principle of estoppel or preclusion in the Case
-concerning the Temple of Preah Vihear, I.C.J. Reports, 1962, 6, and also dealt
-with that principle in the Barcelona Traction Case, Preliminary Objections,
+Court of Justice applied the principle of estoppel or preclusion in the _Case
+concerning the Temple of Preah Vihear_, I.C.J. Reports, 1962, 6, and also dealt
+with that principle in the _Barcelona Traction Case, Preliminary Objections_,
 I.C.J. Reports, 1964, 6, where however the principle was held not to debar
 Belgium from proceeding. Note also the references to estoppel :---
 
-    (a) in the  North Sea Continental Shelf Cases, I.C.J: Reports, 1969, 3, at p. 26, in respect
+    (a) in the  _North Sea Continental Shelf Cases_, I.C.J: Reports, 1969, 3, at p. 26, in respect
     to the question whether a non-party had accepted a treaty provision; and
     
-    (b) in the Argentina-Chile Boundary Arbitration Award (H.M.S.O., 1966), pp. 66--
+    (b) in the _Argentina-Chile Boundary Arbitration Award_ (H.M.S.O., 1966), pp. 66--
     68, as to alleged estoppels by reason of representations regarding the course of
     boundary lines.
 
@@ -1078,26 +1078,26 @@ Belgium from proceeding. Note also the references to estoppel :---
 [^37/1]: _See_ Advisory Opinion on the Status of South-West Africa, I.C.J. Reports,
 1950, pp. 146--150.
 
-[^37/2]: In the South West Africa Cases, 2nd Phase, I.C.J. Reports, 1966, 6 at
+[^37/2]: In the _South West Africa Cases, 2nd Phase_, I.C.J. Reports, 1966, 6 at
 pp. 39, 47, the International Court of Justice applied the "universal and
-necessary." principle of procedural law that there was a distinction between:
+necessary" principle of procedural law that there was a distinction between:
 
     (a) a plaintiff's legal right appertaining to the subject matter of his claim;
     and
     
     (b) his right to activate a Court and the Court's right to examine the
-    merits; and at the same time, it refused to allow anything like an actio popularis,
+    merits; and at the same time, it refused to allow anything like an _actio popularis_,
     i.e., a right in a member of a community to vindicate a point of public
-    interest, albeit such actio was known to certain domestic legal systems.
+    interest, albeit such _actio_ was known to certain domestic legal systems.
 
 [^37/3]: For a discussion of the whole subject of "general principles", _see_ Bin
-Cheng, General Principles of Law as Applied by International Courts and
-Tribunals (1953), and Schlesinger, American Journal of International Law
+Cheng, _General Principles of Law as Applied by International Courts and
+Tribunals_ (1953), and Schlesinger, _American Journal of International Law_
 (1957) Vol. 51, pp. 734--753.
 
 [^37/4]: Article 11 of the model Draft Articles on Arbitral Procedure drawn up by
 the International Law Commission of the United Nations in 1958 provides
-that an arbitral tribunal is not to bring in a finding of non liquet "on the
+that an arbitral tribunal is not to bring in a finding of _non liquet_ "on the
 ground of the silence or obscurity of the law to be applied".
 
 [^37/5]: _Cf._ Guggenheim, Traité de Droit International Public, Vol I (2nd Edition,
@@ -1122,26 +1122,26 @@ e.g., in the practice of international organisations, when a Resolution or
 decision may suffice to create a precedent for future action. In the Asylum
 Case, I.C.J. Reports (1950) at 276--277, the International Court of Justice
 stressed the necessity for constancy and uniformity of usages or practices,
-before they can be recognised as custom. _See also_ Kunz in American Journal
-of International Law (1953) vol. 47 at pp. 662 _et seq._
+before they can be recognised as custom. _See also_ Kunz in _American Journal
+of International Law_ (1953) vol. 47 at pp. 662 _et seq._
 
 
 [^41/1]: Judge Negulesco of the Permanent Court of International Justice, Pub.
-P.C.I.J. (1927), Series B, No. 14, at p. 105. _Cf._ Briggs, American Journal of
-International Law (1951), Vol. 45, pp. 728--731
+P.C.I.J. (1927), Series B, No. 14, at p. 105. _Cf._ Briggs, _American Journal of
+International Law_ (1951), Vol. 45, pp. 728--731
 
 [^41/2]: The necessity for customary rules to have binding quality was stressed by
 the International Court of Justice in the Case Concerning Rights of Nationals
 of the United States of America in Morocco, I.C.J. Reports (1952), at pp. 199--200.
 _See also_ _dicta_ of the Court in the Asylum Case, I.C.J. Reports, 1950, at
-276--277. In the North Sea Continental Shelf Cases, I.C.J. Reports, 1969,
+276--277. In the _North Sea Continental Shelf Cases_, I.C.J. Reports, 1969,
 at p. 44, the Court stressed that _opinio juris_ involved a feeling by States that
 they were conforming to what amounted to a legal obligation; habitual
 action in itself was not enough.
 
 [^41/3]: _See_ pp. 20--21, _ante_. In this connection, it is relevant to consider the
 acquiescence of other States, and the matter of protest or absence of protest by
-such States; _cf._ Oppenheim, International Law, Vol. I (8th Edition, 1955),
+such States; _cf._ Oppenheim, _International Law, Vol. I_ (8th Edition, 1955),
 pp. 874--875.
 
 [^41/4]: _See_ Kelsen, General Theory of Law and State (1961 Edition), p. 114.
@@ -1173,7 +1173,7 @@ Seas of April 29, 1958 (subject to the concurrent jurisdiction of the State of
 nationality over the persons responsible for the collision, etc). A more
 recent illustration of judicial investigation of the problem whether a practice of
 States conclusively reflects tence of a customary rule of international
-law is the North Sea Continental Shelf Cases, I.C.J. Reports, 1969, 3, where the
+law is the _North Sea Continental Shelf Cases_, I.C.J. Reports, 1969, 3, where the
 International Court of Justice ruled against the existence of a customary rule
 that the division of a common continental shelf of adjacent countries must be
 effected according to the equidistance principle.
@@ -1193,10 +1193,10 @@ session (1950).
 
 [^45/1]: There is a fairly consistent trend in Soviet Russian theoretical writings
 on international law to regard treaties as the primary or fundamental source
-of international law; _see_ article by Triska and Slusser in American Journal of
-International Law (1958) Vol. 52, pp. 699--726, same Journal, Vol. 51 (1957),
-at pp. 135--136, and Professor G. I. Tunkin's Droit International Public:
-Problèmes Théoriques (Paris, 1965, tr. from Russian), p. 92 (_see_ _ibid_., pp. 63--75
+of international law; _see_ article by Triska and Slusser in _American Journal of
+International Law_ (1958) Vol. 52, pp. 699--726, same Journal, Vol. 51 (1957),
+at pp. 135--136, and Professor G. I. Tunkin's _Droit International Public:
+Problèmes Théoriques_ (Paris, 1965, tr. from Russian), p. 92 (_see_ _ibid_., pp. 63--75
 as to the extent to which treaties play a role in the formation of international
 law).
 
@@ -1238,7 +1238,7 @@ account of the development of the rule.
 Vol. I, at p. 52.
 
 
-[^51/1]: In the South West Africa Cases, 2nd Phase, I.C.J. Reports, 1966, 6, at
+[^51/1]: In the _South West Africa Cases, 2nd Phase_, I.C.J. Reports, 1966, 6, at
 pp. 36--37, the Court ruled that an earlier decision by it upon a preliminary
 objection could not conclusively bind the Court in deciding a matter appertaining
 to the merits of the case.
@@ -1275,8 +1275,8 @@ C.196. M.70. 1927. V, p. 94.
 
 [^56/2]: _See also below_, pp. 285--288.
 
-[^56/3]: _Cf._ also Professor G. I. Tunkin's, Droit International Public: Problèmes
-Théoriques (Paris, 1965, tr. from Russian), pp. 109--110.
+[^56/3]: _Cf._ also Professor G. I. Tunkin's, _Droit International Public: Problèmes
+Théoriques_ (Paris, 1965, tr. from Russian), pp. 109--110.
 
 
 [^57/1]: _See below_ pp. 607--609.
@@ -1287,7 +1287,7 @@ at pp. 117 and 119, and Asamoah, The Legal Significance of the Declaration
 of the General Assembly of the United Nations (1966), p. v, and passim.
 
 [^57/3]: _See_ Hexner, "Interpretation by Public International Organisations of
-their Basic Instruments", American Journal of International Law (1959) Vol.
+their Basic Instruments", _American Journal of International Law_ (1959) Vol.
 53, pp. 341--370.
 
 
