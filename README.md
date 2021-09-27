@@ -24,3 +24,7 @@ Run `html.sh`
 
 1. Ensure [docker](https://www.docker.com/) is installed
 2. From `system/docker` directory, run `build.sh`which generates builds required docker image
+
+## Experiment with docker image
+
+For experimenting with docker image on small files, look at the files in `system/experiment`

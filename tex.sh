@@ -37,12 +37,16 @@ emphasize () {
 
 if [[ $BOOK_TYPE == "novel" ]]; then
   template_file_name='novel-template.tex'
+  document_class='book'
 elif [[ $BOOK_TYPE == "textbook" ]]; then
   template_file_name='textbook-template.tex'
+  document_class='book'
 elif [[ $BOOK_TYPE == "report" ]]; then
   template_file_name='report-template.tex'
+  document_class='report'
 elif [[ $BOOK_TYPE == "article" ]]; then
   template_file_name='article-template.tex'
+  document_class='article'
 elif [[ $BOOK_TYPE == "" ]]; then
   echo -e "\nBOOK_TYPE not set in $(emphasize $config_file_path); Valid values are $(emphasize novel)/$(emphasize textbook)/$(emphasize report)/$(emphasize article)\n"
   exit 1
@@ -64,7 +68,7 @@ cd /data/book-source
 # since we are using 'fontspec' for setting quote fonts, we need to use luatex instead of pdflatex
 pandoc \
     --template=/data/latex-templates/$template_file_name \
-    --variable documentclass="book" \
+    --variable documentclass="$document_class" \
     --variable fontsize="12pt" \
     --variable lang \
     --variable babel-lang="english" \
@@ -74,7 +78,7 @@ pandoc \
     --pdf-engine=lualatex \
     --toc \
     --standalone \
-    --output=book-gen.tex \
+    --output=$document_class-gen.tex \
     *.md
 " > $gen_script
 

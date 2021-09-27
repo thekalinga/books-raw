@@ -39,6 +39,14 @@ $if(background-image)$
 }
 $endif$
 
+\addtolength{\oddsidemargin}{-.875in}
+\addtolength{\evensidemargin}{-.875in}
+\addtolength{\textwidth}{1.75in}
+
+\addtolength{\topmargin}{-.875in}
+\addtolength{\bottommargin}{-.875in}
+\addtolength{\textheight}{1.75in}
+
 \usepackage{pgfpages}
 \setbeamertemplate{caption}[numbered]
 \setbeamertemplate{caption label separator}{: }
@@ -93,6 +101,7 @@ $else$
 \usepackage{crimson}
 % for sideways table
 \usepackage{rotating}
+\usepackage{pdfpages}
 %\usepackage{pdflscape}
 %\usepackage{adjustbox}
 %\usepackage{lmodern}
@@ -162,7 +171,7 @@ $endif$
 \fi
 
 % setting the report width to match non-fiction
-\usepackage[paperwidth=6in,paperheight=9in]{geometry}
+%\usepackage[paperwidth=6in,paperheight=9in]{geometry}
 
 % set font for \begin{quote}
 \usepackage{fontspec}
@@ -462,7 +471,6 @@ $endif$
 
 \begin{document}
 \pagestyle{frontmatter}
-\frontmatter
 $if(title)$
 $if(beamer)$
 \frame{\titlepage}
@@ -509,7 +517,6 @@ $if(lof)$
 \listoffigures
 $endif$
 \pagestyle{mainmatter}
-\mainmatter
 $body$
 
 $if(natbib)$

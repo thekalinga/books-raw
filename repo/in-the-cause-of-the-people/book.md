@@ -35,7 +35,7 @@ CPI(M)/CPIM/CPM
 
 Congress(R)
 
-: Indian National **Congress** (**R**equisitionists). In 1969 Congress was split into two factions. Congress(R) or _indicate faction_ of Indira Gandhi (daughter of Nehru). Other group is Indian National Congress (Organisation) or Congress(O) or _syndicate faction_ which merged with Janata Party which is the predecessor of **B**haratiya **J**anata **P**arty (BJP). When Indira Gandhi lost 2nd term election on Congress(R) party ticket, she started her own party again called Congress(I) aka Congress **I**ndira/**I**ndicate. Post her election victory on Congress(I) ticket, Election Commission of India (under the influence of Indira) declared Congress(I)  to be real **I**ndian **N**ational **C**ongress(INC).
+: Indian National **Congress** (**R**equisitionists/**R**uling). In 1969 Congress was split into two factions. Congress(R) or _**R**equisitionists/**R**uling faction_ of Indira Gandhi (daughter of Nehru). Other group is Indian National Congress (Organisation) or Congress(O) or _Syndicate faction_ which merged with Janata Party which is the predecessor of **B**haratiya **J**anata **P**arty (BJP). When Indira Gandhi lost 2nd term election on Congress(R) party ticket, she started her own party again called Congress(I) aka Congress **I**ndira/**I**ndicate. Post her election victory on Congress(I) ticket, Election Commission of India (under the influence of Indira) declared Congress(I)  to be real **I**ndian **N**ational **C**ongress (INC).
 
 CSP
 
