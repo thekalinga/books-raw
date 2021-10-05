@@ -86,7 +86,7 @@
 ### Andheri
 
 (1) Ramesh Dubey (Congress I)
-(2) Sadanand Vichare (Shakha Pramukh - Shiv Sena)
+(2) Sadanand Vichare (_Shakha Pramukh_ - Shiv Sena)
 (3) Anil
 (4) Gajya
 (5) Santosh Rajeev
@@ -218,7 +218,7 @@
 ### Bandra
 
 (1) Madhukar Sarpotdar (Shiv Sena)
-(2) Ashok Shinde (Shakha Pramukh - Shiv Sena)
+(2) Ashok Shinde (_Shakha Pramukh_ - Shiv Sena)
 (3) Daulat Sudham
 (4) Dinesh Rudhal.
 
@@ -390,7 +390,7 @@
 (10) Bhuju
 (11) Prakash Kumbhar
 (12) Deepak
-(13) Krishna Pendarkar (Pramukh - Shiv Sena)
+(13) Krishna Pendarkar (_Pramukh_ - Shiv Sena)
 (14) Chandrakant Majari
 (15) Eknath Patil
 (16) Srikant Gaikwad
@@ -500,7 +500,7 @@
 
 ### Kalbadevi/Lobar Chawl
 
-(1) Narayan (Pramukh-Shiv Sena)
+(1) Narayan (_Pramukh_-Shiv Sena)
 (2) Mafatia (BJP)
 (3) Prakash Khandelwal
 (4) Ashok and
@@ -660,7 +660,7 @@
 
 ### Santa Cruz
 
-(1) Raut (Shakha Pramukh - Shiv Sena)
+(1) Raut (_Shakha Pramukh_ - Shiv Sena)
 (2) Suresh
 (3) Pakkya
 (4) Baba
@@ -668,7 +668,7 @@
 (6) Tarabai
 (7) Hirabai
 (8) Pande and his wife
-(9) Vijay Ingle (Shakha Pramukh - Shiv Sena)
+(9) Vijay Ingle (_Shakha Pramukh_ - Shiv Sena)
 (10) Pandhya
 (11) Daji.
 
@@ -715,7 +715,7 @@
 (11) Papa Videowalla
 (12) Albert D'Souza
 (13) Babu Parab
-(14) Tauji Gorole (Shaka Pramukh - Shiv Sena)
+(14) Tauji Gorole (Shaka _Pramukh_ - Shiv Sena)
 (15) Suryavanshi
 (16) Sunil Waghmare
 (17) Vinod Dalvi

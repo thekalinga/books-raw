@@ -19,7 +19,7 @@ RUN wget 'https://fonts.google.com/download?family=Merriweather Sans' -O googlef
 RUN chmod o+w /opt/texlive/texdir/texmf-var
 
 # `template.tex` file uses crimson font for text
-RUN tlmgr install crimson tabulary
+RUN tlmgr install crimson tabulary selnolig
 
 # default working directory
 WORKDIR /data

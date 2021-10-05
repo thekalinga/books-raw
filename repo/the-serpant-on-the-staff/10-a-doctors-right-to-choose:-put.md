@@ -1,6 +1,4 @@
-# A Doctor's Right to Choose: Putting Physician Choice First in the Abortion Crisis
-
-_NOTE:_ [^8/0]
+# A Doctor's Right to Choose: Putting Physician Choice First in the Abortion Crisis[^8/0]
 
 The American Medical Association
 presents a third side to the nation's bitter and divisive abortion
@@ -941,7 +939,6 @@ general counsel, AMA; Jane Larson, professor of law, Northwestern University; Ra
 Pine, of the New York-based Center for Reproductive Law and Policy; Joseph M. Scheidler,
 executive director, Pro-Life Action League; Joseph R. Stanton, president of the Value of
 Life Committee; Dr. James S. Todd, executive vice president, AMA.
-
     The following books provided background on abortion: German G. Grisez, _Abortion: The
     Myths, the Realities, and the Arguments_ (New York: Corpus Books, 1970); Lawrence Lader,
     _Abortion_ (Indianapolis: Bobbs-Merrill, 1966); Carl N. Flanders, _Library in a Book: Abortion_

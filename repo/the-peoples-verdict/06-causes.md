@@ -235,7 +235,7 @@ to take out a retaliatory procession as against the one taken out by the
 _Shiv Sainiks_ and the BJP to celebrate the demolition of the Babri
 Masjid. In the _Hindutva_ procession some abusive slogans had been
 uttered against the Muslims, one of them being that the proper place
-for Muslims was either Pakistan or kabrastan. In the retaliatory
+for Muslims was either Pakistan or _kabrastan_. In the retaliatory
 procession the Muslims uttered the provocative slogan that they would
 not be cowed down and would avenge the insult to their religion. A
 common slogan popular with the processionists is, "Jo hum se
@@ -276,7 +276,7 @@ elements had realised that by and large, the
 police were anti-Muslim. They had also
 realised that at several places where Hindus and Muslims were residing
 as neighbours, there was no ill will or tension between them. In fact,
-in many chawls and buildings, Hindus had given protection to Muslims
+in many _chawls_ and buildings, Hindus had given protection to Muslims
 where the Muslims were in a minority and vice versa. This was not in
 consonance with their purported goal of a permanent divide, with the
 dominance of the majority over the minority.
@@ -307,8 +307,8 @@ happenings of 6.12.1992 and the period thereafter.
 
 >_Maha-artis_
 were deliberately
-organised by the Shiv
-Sainiks and the BJP at
+organised by the _Shiv
+Sainiks_ and the BJP at
 this crucial period,
 only to build up
 tension.
@@ -347,7 +347,7 @@ due to inter-union rivalry. Another report was that it was not a
 communal killing but the result of personal enmity.
 
 The other incident relates to the Jogeshwari killings, in a room
-in the Gandhi Chawls on 8.1.1993. There have been conflifting reports
+in the Gandhi _Chawls_ on 8.1.1993. There have been conflifting reports
 about this incident and no conclusive finding, can therefore be arrived
 at. It has also been claimed by the government and _Hindutva_ forces
 that a large number of persons were stabbed to death around the J.J.
@@ -727,7 +727,7 @@ which called itself the Shiv Sena. Pandering to the Marathi-speaking
 population, it generated a lot of animosity against the hard-working
 South Indian migrants who had come to Bombay in search of a living,
 In course of time flogging South Indians went out of fashion and the
-Shiv Sena Pramukh Bal Thackeray latched on to the latent prejudice
+Shiv Sena _Pramukh_ Bal Thackeray latched on to the latent prejudice
 against Muslims. The path for playing on this prejudice had been
 cleared by the different units of the Sangh Parivar. They filched some
 pages from the history of the state and with
@@ -789,7 +789,7 @@ For the first time it seized the reins of power in the BMC in
       their problems like obtaining a water tap or
       privies in their areas to their _Shakhas_.
       Public land was encroached upon and the
-      Shakha Pramukh often turned slumlord.
+      _Shakha Pramukh_ often turned slumlord.
 
 >The propaganda
 couched in _Hindutva_
@@ -839,15 +839,15 @@ Bombay in flames.
 
 >The Congress
 politicians utilised the
-Shiv Sainik units to
+_Shiv Sainik_ units to
 score ephemeral
 victories against their
 factional rivals.
 
 Politically, the Congress politicians
 were more interested in their factional
-quarrels. All of them utilised the Shiv
-Sainik units at some point or the other to
+quarrels. All of them utilised the _Shiv
+Sainik_ units at some point or the other to
 score ephemeral victories against their factional rivals. Opponents of
 Vasant Dada Patil had Rajeev Gandhi remove him from chief
 ministership and one of the grounds trotted out was his proximity to

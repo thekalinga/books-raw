@@ -25,7 +25,7 @@ Hindus in most of them.
 Prior to the riots, there was no apparent discord between the
 members of the two communities. Even during the December 1992
 riots, peace was maintained. One of the deponents has credited this
-to the timely action of PSI Ghanwat who prevented the _Shiv Sainiks_ of
+to the timely action of PSI Ghanwat who prevented the _Shiv Sainiks_[^shiv-sainiks] of
 the neighbouring Pathan Chawl from creating tension in the area.
 However, a few days prior to the January 1993 riots, Muslims of Adarsh
 Nagar had received threats of violence and looting from the local
@@ -47,7 +47,7 @@ the four shops were burnt after the looting was over. The police
 deployed in the vicinity were reported to have opened fire, resulting in
 the instantaneous death of two persons.
 
-That evening, a _maha-arti_ was performed near the local Sai
+That evening, a _maha-arti_[^maha-arti] was performed near the local Sai
 Baba temple. Communal elements used the occasion to launch a
 tirade against Muslims and to instigate the mob to burn, loot and drive
 out Muslims from the area. At about 9.00 pm, the power supply in
@@ -101,9 +101,9 @@ contact the police, but also ministers of the state government.
 However, all his efforts were in vain.
 
 The police emerged in a clearly unfavourable light; their action
-if any, was belated, and hardly effective against the Shiv Sainik rioters
+if any, was belated, and hardly effective against the _Shiv Sainik_ rioters
 and was definitely not helpful to the victims. In fact, two of them,
-identified as Havaldars Ashok Naik and Raja were said to have taken
+identified as _Havaldars_[^1] Ashok Naik and Raja were said to have taken
 an active part in the rioting and looting. In their interaction with the
 Muslims, they minced no words to display their prejudices against
 Muslims or in favour of the Shiv Sena. If compelled to arrest _Shiv
@@ -121,9 +121,11 @@ The compensation received by the victims is meagre while
 several have not even received the compensation doled out by the
 Government.
 
-#### BIT Chawls
+[^1]: A type of soldier in parts of India, later a specific military rank of the British Indian Army and of the modern armies of India and Pakistan, equivalent to sergeant
 
-There are a sprinkling of Muslims in the BIT Chawls in Agripada
+#### BIT _Chawls_
+
+There are a sprinkling of Muslims in the BIT _Chawls_ in Agripada
 who have suffered the same fate as other members of their
 community residing elsewhere in Bombay, during the January 1993
 bout of rioting. Prior to this, both the communities had been living in
@@ -314,7 +316,7 @@ the requisite force to deal with the rioters.
 Zameerunnissa speaks of her husband having died in police
 firing on the night of 11.1.1993. Her house had also been burnt down.
 Akbar Ali's house in Santoshi Mata Nagar was attacked and destroyed
-on 11.1.1993 by South Indians and Dalits. No compensation was
+on 11.1.1993 by South Indians and Dalits. No compensation was given.
 Similar is the testimony of Khursheedbi. The police had
 few rioters on the report of Khursheedbi but the arrested persons were
 released soon after.
@@ -338,7 +340,7 @@ two attacks. On 9.1.1993 his shop was looted and destroyed and on
 14.1.1993 his house was targeted. When approached, the police
 pleaded their inability to help. Begumbi of Mahatma Gandhi Nagar
 testified along with three other women. Their huts were set on fire on
-the night of 11.1.93. Some of the victims received Rs. 250/each by
+the night of 11.1.93. Some of the victims received Rs. 250 each by
 way of immediate relief, two of the victims received Rs. 5,000 each
 and nothing was received by the others. Zubeda, Amina and
 Shamshuda speak of their huts situated near the railway station being
@@ -364,7 +366,7 @@ incommunicado for long periods by the police.
 
 Mohamed Naeem, a taxi driver of Shastri Nagar had his house
 stoned by a mob of _Shiv Sainiks_ which included one Darshana. The
-masjid behind his house was set on fire. A Christian and a Teluguspeaking
+masjid behind his house was set on fire. A Christian and a Telugu-speaking
 Hindu neighbour on either side of Mohamed Naeem's home
 persuaded the mob not to set fire to Mohamed Naeem's house as the
 same would destroy theirs homes also. The attacks increased in
@@ -401,7 +403,7 @@ On 2.1.1993 and 3.1.1993 certain persons claiming to be
 employees of the Bombay Housing Board went round the tenements
 on the pretext of checking the names of the occupants. But they only
 verified and checked the tenements occupied by the Muslims. All such
-tenements werē marked with chalk from the outside.
+tenements were marked with chalk from the outside.
 
 The first incident took place in the area on 7.1.1993 when two
 taxis were burnt at around 4.00 a.m. Sub-Inspector Paul of Antop Hill
@@ -429,7 +431,7 @@ Thereafter, the attacks began from 9.1.1993 and continued till
 about 12.1.1993. The masjid was stoned, shops were looted, taxis,
 autorickshaws, cars and tempos belonging to Muslims were set on fire.
 A _maha-arti_ took place in the evening. The _Shiv Sainiks_ went around
-all the chawls and told the Muslim occupants not to move about.
+all the _chawls_[^chawl] and told the Muslim occupants not to move about.
 Thereafter, the Muslim houses were attacked, their belongings looted
 and the occupants beaten up. We have evidence to show that on
 9.1.1993, about 40 persons, mostly young _Shiv Sainiks_, had attacked
@@ -468,10 +470,10 @@ cook food for their babies and for the disabled, the police stopped
 them from doing so on the pretext that preparation for cooking
 would invite a fresh attack from the rioters. They were even told
 that instead of drinking water they should drink human urine and
-that the proper place for them was Pakistan or kabrastan. One
-witness has said that for a glass of water they had to pay Rs.10/.
-When they wanted to leave the place, the Shiv Sainik women staged
-a rasta roko agitation. The police even collected Rs.20/per family
+that the proper place for them was Pakistan or _kabrastan_. One
+witness has said that for a glass of water they had to pay Rs. 10.
+When they wanted to leave the place, the _Shiv Sainik_ women staged
+a rasta roko agitation. The police even collected Rs.20 per family
 to allow them to leave the area, but they were still not allowed to
 leave the place. On 12.1.1993, when one tempo-load of Muslims
 tried to escape, the tyres of the tempo were slashed with swords by
@@ -486,12 +488,12 @@ detailed statement as to what transpired when he visited the place.
 Before he visited the place, he had contacted Mr. Pasricha
 (Additional Commissioner of Police) who had directed the Antop
 Hill police station to give him the necessary escort. On the way, his
-jeep was attacked. Finally, when he went to the police station, SubInspector
+jeep was attacked. Finally, when he went to the police station, Sub-Inspector
 Patil abused him. Whilst he was at the police station, a
 mob arrived there and demanded that his jeep be checked and that
 he should not be allowed to go. The jeep was searched but
 nothing was found. The police on their own did not take any
-initiative. It was only when the local Shakha Pramukh came there
+initiative. It was only when the local _Shakha Pramukh_ came there
 that the mob was made to disperse and it was thereafter that he was
 allowed out and could make arrangements to shift the victims to the
 relief camps.
@@ -503,7 +505,7 @@ the convoy by throwing stones, shouting abusive slogans and by
 throwing burning objects. The military could not fire at the mob as
 no such order was given to them by D.C.P.Rane, who had arrived
 there subsequently. It appears that the jeep in which Mohammed
-Mukarram Khan had gone to Pratiksha Nagar was retained by SubInspector
+Mukarram Khan had gone to Pratiksha Nagar was retained by Sub-Inspector
 Patil for no apparent reason and could only be retrieved
 eight days later.
 
@@ -526,11 +528,13 @@ part, they are not confident of returning to reside in the same area.
 
 Fifty-six persons have given their statements in respect of
 this area. For the purpose of the present report, Bandra has been
-divided into 5 areas:1. Kherwadi & Nirmal Nagar,
-2. Bharat Nagar,
+divided into 5 areas:
+
+1. Kherwadi & Nirmal Nagar
+2. Bharat Nagar
 3. Behrampada
 4. Garib Nagar
-5. Bandra (West).
+5. Bandra (West)
 
 #### Kberwadi & Nirmal Nagar
 
@@ -583,7 +587,7 @@ to stop firing. On the next day at about 9.00 a.m., a mob of about 500
 to 600 persons were seen rushing towards Bharat Nagar Colony. The
 residents came out in fear to defend themselves. The evidence indicates
 that the police, who had come with Madhukar Sarpotdar and Ashok
-Shinde (a Shiv Sena Shakha Pramukh), instead of dispersing the mob,
+Shinde (a Shiv Sena _Shakha Pramukh_), instead of dispersing the mob,
 only fired in the direction of Bharat Nagar. The result was that several
 innocent persons suffered injuries. Two or three persons died in the
 firing. The police also forcibly entered several homes and beat up men
@@ -619,7 +623,7 @@ buildings and on the eastern side are the six storied New M.I.G.
 colonies. This is predominantly a Muslim _basti_. This area falls under the
 Nirmal Nagar police station's jurisdiction. The jurisdiction of Kherwadi
 police station is across the highway on the eastern side. This is a more
-affluent residential area. The Maharashtrian intelligensia ,artists, writers,
+affluent residential area. The Maharashtrian intelligensia, artists, writers,
 journalists and architects, live in high rise housing complexes which
 are known as Kala Nagar, Sahitya Sahavas, Patrakar Nagar and Artec
 respectively.
@@ -700,7 +704,7 @@ the attack on the _basti_ was initiated.
 In retaliation, the police kidnapped 10 persons on 8.12.1992 and
 12 were injured. Some of the witnesses have stated that the police
 were accompanied by Madhukar Sarpotdar, the local MLA and Ashok
-Shinde, a Shakha Pramukh of that area. Flavia Agnes says that there
+Shinde, a _Shakha Pramukh_ of that area. Flavia Agnes says that there
 was no attack on the police on 8.12.92 and there was no justification
 for firing on that day.
 
@@ -754,7 +758,7 @@ venture out, not even to the banks or to the main vegetable market.
 Children could not attend schools situated in the L.I.G. area.
 
 It was during this period that Nirmala Niketan assigned young
-students to carry out a survey to assess the damage. MASHWARA COordinated
+students to carry out a survey to assess the damage. MASHWARA Coordinated
 this activity along with other agencies working in the area.
 These activists entered this area around 15.12.92. They met several
 injured persons who were hiding in their homes. They also noted that
@@ -934,9 +938,9 @@ The Tribunal has received 5 statements from Bhoiwada.
 In the December 1992 bout of rioting, a mob consisting of _Shiv
 Sainiks_ and Dalits stoned a Muslim occupied building known as
 Dadabhoy Chawl on Dr. Ambedkar Road. This was on the night of
-8.12.1992. The occupants of the chawl retaliated in kind. The police
+8.12.1992. The occupants of the _chawl_ retaliated in kind. The police
 arrived quite late and did no more than arrest innocent residents of the
-chawl.
+_chawl_.
 
 Dadhabhoy Chawl was again attacked on 8.1.1993 by a mob of
 about a hundred persons armed with deadly weapons like petrol
@@ -946,11 +950,11 @@ The police stood by doing nothing. The next day, i.e. on 9.1.93 a
 person returning from the local durgah waschasedby shawlcovered
 boys. These boys again stoned the Dadhabhoy Chawl. When the
 police came on the scene they rounded up 26 boys, aged between 12
-and 14 years, from the chawl. A witness stated that the boys were
+and 14 years, from the _chawl_. A witness stated that the boys were
 beaten and abused by the police in the presence of the armed _Shiv
 Sainiks_, who according to the police were carrying arms not for use as
 weapons of offence, but only for self defense! The boys were kept in
-custody for five days. The occupants left behind in the chawl, mostly
+custody for five days. The occupants left behind in the _chawl_, mostly
 women andchildren, took refuge in a nearby mosque. From the
 mosque they witnessed the looting and destruction of their homes by
 _Shiv Sainiks_ as also by some of their own neighbours. The victims
@@ -958,7 +962,7 @@ claim to be in a position toidentify both the groups, though not the
 guilty policemen.
 
 At Abhyudaya Nagar, Muslims returning from prayers were
-assaulted by Shiv Sainik goons armed with guptis and choppers. One
+assaulted by _Shiv Sainik_ goons armed with guptis and choppers. One
 of the victims died whilst being carried to the hospital. By mid-day
 Muslim homes in Abhyudaya Nagar were being looted and articles
 found in them burnt. In the Elphinstone Road area, in the very
@@ -969,7 +973,7 @@ railway quarters of Currey Road. A Muslim family which had been
 given shelter by Sindhi neighbours was brought out, stripped and
 beaten up. One Mohammed Wasim's brother was stabbed and his
 corpse flung into a gutter. In another gory incident, a Muslim home in
-Karupatil Chawl was broken into. All the inmates of the chawl were
+Karupatil Chawl was broken into. All the inmates of the _chawl_ were
 injured and the aged mother's fingers were chopped off. The looting
 and burning continued at T.B.Kadam Marg, Parshuram Nagar and Lal
 Bagh durgah area. From the last named area, the victims fled and
@@ -1002,7 +1006,7 @@ scale.
 
 The position, however, was different in the January 1993 bout
 of rioting. An unruly mob of _Shiv Sainiks_ which threatened to get out
-of hand, had to be fired upon. In the firing a Shiv Sainik died. The
+of hand, had to be fired upon. In the firing a _Shiv Sainik_ died. The
 death was attributed by the Shiv Sena to Inspector Khan. The _Shiv
 Sainiks_ went about the area threatening revenge. The timing of the
 revenge was planned at the return of the funeral processionists, after
@@ -1311,7 +1315,7 @@ Holocaust"
 
 > ... this time there was a counter attack by the well prepared
 Muslims. Groups rained stones and kerosene-dipped fire balls on the
-Hindu section and the attackers. An inspection of the Hindu chawls in
+Hindu section and the attackers. An inspection of the Hindu _chawls_ in
 Bagicha area, showed widespread damage to roof tiles and the use of
 kerosene balls. The houses on the border of Chamda Bazar like those
 of Vithal Prakash Tikre and Laxman Khandare, bore the brunt of the
@@ -1338,7 +1342,7 @@ also, a whole row of kutcha' huts of pavement dwellers along the
 Social Nagar lane had been gutted. The next day, waves of Hindu
 mobs attacked Muslim property. Shaikh Ibrahim's garment unit was
 looted on the Laxmi Baug side. The mob made an attempt to burn the
-place down, but failed. A Shiv Sena Shakha Pramukh, one Vithal
+place down, but failed. A Shiv Sena _Shakha Pramukh_, one Vithal
 Pawar was leading the crowd The baharwalla (waiter who serves
 clients outide the hotel) of Gulshani Hotel was stabbed to death by this
 mob. Gulshan Bakery was looted of cash amounting to Rs. 50,000.
@@ -1478,7 +1482,7 @@ In Gangawadi the Muslim residents living in the vicinity of
 Husseina Masjid were attacked on 10.1.1993 and the victims had the
 same experience as those from Altaf Nagar. The frightened victims
 fled their homes and took shelter in the durgah of Pankeshah Baba.
-The masjid in the area had to suffer the desecration of a Shiv Sainik
+The masjid in the area had to suffer the desecration of a _Shiv Sainik_
 flag being put over it. This flag was not allowed to be removed even
 as late as the last days of February 1993.
 
@@ -1774,7 +1778,7 @@ were looted and destroyed. This was on 9.1.1993 after a _Maha-Arti_ in
 the area. These shops, though near the police Commissioner's office,
 received no protection.
 
-The Shiv Sena Pramukh, Narayan by name, extorted money out
+The Shiv Sena _Pramukh_, Narayan by name, extorted money out
 of Muslim residents and shop owners, by compelling them to buy
 tickets of Rs.100 each. Inspector Niralkar Swatra, Sub-Inspector Desai
 and Constables Tambe and Kale have come in for adverse comments
@@ -1878,7 +1882,7 @@ Inspector Kumbhar was partial to the Hindus.
 On 13.1.1993 DCP Thorat who had arrested 390 rioters earlier
 was transferred. It appears that in the rioting on the night of 10.1.1993,
 the police had fired at a mob of _Shiv Sainiks_ and the younger brother
-of the Shiv Sena Pramukh of the area was killed. The witness suspects
+of the Shiv Sena _Pramukh_ of the area was killed. The witness suspects
 that because of the pressure from the Shiv Sena, the officer was
 transferred. However he is not sure whether the said DCP was
 transferred during the course of the riots or later on.
@@ -1971,9 +1975,9 @@ and and Rs.70,000 in bonds maturing after 5 years). Those whose
 homes have been destroyed by fire have been granted a pittance of
 Rs.5,000 as compensation. This compensation is incongruously not
 given to those whose houses were looted or demolished. The
-discrimination is inexplicable. Some families have received Rs.250/per
+discrimination is inexplicable. Some families have received Rs.250 per
 person. Having regard to the magnitude of the loss suffered by the
-victims, the sum of Rs.250/per individual is adding insult to injury.
+victims, the sum of Rs.250 per individual is adding insult to injury.
 Small as the compensation is, officers of the Collectorate have not
 missed the opportunity to roll out red tape in profusion so as to create
 hurdles in the path of those entitled to receive compensation.
@@ -1998,7 +2002,7 @@ choppers, both died. Sonabai Chawl at Takiawadi was attacked by a
 Hindu mob armed with swords, guptis and choppers. On 8.12.1992
 the Shiv Sena gave directions to shopkeepers to down shutters. The
 frightened shopkeepers complied and taking advantage of the absence
-of the shopkeepers, mobs led by Shiv Sainik broke into and looted the
+of the shopkeepers, mobs led by _Shiv Sainik_ broke into and looted the
 shops. Far from the police putting a stop to this, on occasions they
 joined in the looting. Names of the culprits were given to the police
 who made a show of arresting them. However, very soon afterwards
@@ -2051,7 +2055,7 @@ Hospital.
 
 On 10.2.1993 the police entered Budhan Seth ki Chawl and
 indiscriminately attacked it's residents, male and female. According to
-the police, their mandate was to turn the chawl into another Govandi,
+the police, their mandate was to turn the _chawl_ into another Govandi,
 Behrampada or Surat before daybreak. In the forefront of the looting
 and abusing was PSI Vijay Raghuwanshi. Some of the victims were
 taken to Chunabhatti, where the assembled _Shiv Sainiks_ were informed
@@ -2084,7 +2088,7 @@ Solanki, Mandiwalla and Sohan Jain as having arranged for the arson
 and being personally present when the burning took place. The
 Khatau, Shivneri and Parijat buildings in the vicinity of Khatau Mills,
 occupied by Hindus, were used for stoning and flinging burning
-missiles at Muslims in the Patra chawl. The police joined these
+missiles at Muslims in the Patra _chawl_. The police joined these
 arsonists by firing at the Muslims from the terrace of Khatau building.
 A thousand strong mob of _Shiv Sainiks_ proclaiming victory to Bal
 Thackeray set fire to the Muslim settlements. After the residents of the
@@ -2457,7 +2461,7 @@ came to the relief camp at Prem Nagar, where her statement was taken
 down by an activist. So far the police have taken no action. Most of the
 victims have left the area and have not returned from the relief camps.
 At Jawahar Nagar, again only the Muslim houses were attacked
-and the culprits are Vijay Ingle, who is the Shiv Sena Shakha Pramukh
+and the culprits are Vijay Ingle, who is the Shiv Sena _Shakha Pramukh_
 and others. Here also, witnesses have seen persons being hacked to
 death and the police doing nothing.
 
@@ -2539,7 +2543,7 @@ support of the Congress I.
 
 The Babri Masjid demolition generated tension, but thiswas not
 allowed to get out of hand by the influential people from the
-Kathiawadi-Dalit and Muslim slums. However, the Shiv Sainik rumourmongers
+Kathiawadi-Dalit and Muslim slums. However, the _Shiv Sainik_ rumourmongers
 were at work.
 
 A _Maha-arti_ was scheduled for 9.1.1993 at the Tardeo Circle.
@@ -2571,7 +2575,7 @@ and Gopal Manjrekar made no distinction in giving relief and succour
 to all of them, irrespective of caste and creed.
 
 Shanta Baria led attacks from the Kathiawadi-Dalit slum side in
-concert with the Shiv Sainik forces who were attacking from the Arya
+concert with the _Shiv Sainik_ forces who were attacking from the Arya
 Nagar side. In the course of one of her forays she was hit by a police
 bullet and that is how she died. Some witnesses from the KathiawadiDalit
 slum have tried to wash out the stigma against Shanta Baria by
@@ -2652,13 +2656,13 @@ The January 1993 riots began right from 6.1.1993. The Shiv Sena
 office was in Group no. 5 Hariyali Village and it was from here that
 stones were thrown at the homes of Muslims living in the area. Shops
 of Muslims were burnt. On 7.1.1993, a large mob of hundreds of _Shiv
-Sainiks_ gathered on the rail track. This mob attacked two chawls in the
+Sainiks_ gathered on the rail track. This mob attacked two _chawls_ in the
 area, known as Zariwalla Chawl and Deluxe Chawl, both occupied by
 Muslims. The Vikhroli police were informed of what had happened;
 they came two hours later and instead of doing something to the
 rioters and arsonists, dragged out Muslim residents from the
-beleagured chawls and gave them a beating. Fourteen residents of the
-chawl were arrested under Section 307, read with Section 49 of the
+beleagured _chawls_ and gave them a beating. Fourteen residents of the
+_chawl_ were arrested under Section 307, read with Section 49 of the
 Indian Penal Code. Not one of the Hindu rioters was arrested.
 
 Over the next two days, there was a spate of stabbings of
@@ -2744,7 +2748,7 @@ We have no evidence of any incident in the month of December
       inflicted by Sub-Inspector Nikhil V. Kapse of R.A. Kidwai Marg police
       station. On the midnight of 9.1.1993 a group of 500--600 _Shiv Sainiks_
       were approaching Kidwai Nagar Colony armed with swords, tubelights etc. It appears the local residents were vigilant about the
-      impending attacks and they could resist the attack by the Shiv Sainik
+      impending attacks and they could resist the attack by the _Shiv Sainik_
       boys. However, a petrol bomb was thrown on the premises of a
       textile dyeing factory. The fire broke out in the factory premises which
       was extinguished by the local people. On the next day, at about 11.30
@@ -2769,7 +2773,7 @@ waiting for treatment he would be driven away.
 There is also a statement to the effect that Sub-Inspector Kapse
 entered Hilal Masjid and started firing on the people in the masjid. A
 blind man (70 years of age) was hit with rifle butts injuring him and
-he was bleeding. There is also a statement to the effect that SubInspector
+he was bleeding. There is also a statement to the effect that Sub-Inspector
 Kapse had beaten others with rifle butts and one Shamsheed
 of Pratap Nagar was shot in his chest from a point-blank range. It is
 reported that he had also held a pistol to the temple of one Anwar
@@ -2803,7 +2807,7 @@ and Spring Hill compound on Naigaum Road. The police arrived there
 but again fired at the hutment people who were on the defensive. The
 police arrested a large number of persons from this area and they were
 detained for a considerable number of days. The members of the R.A.
-Kidwai Road Relief Committee made written complaints about SubInspector
+Kidwai Road Relief Committee made written complaints about Sub-Inspector
 Kapse to the Chief Minister, the Commissioner of Police etc.
 but we do not know whether any suitable action has been taken
 against the officer.
@@ -2837,7 +2841,7 @@ of the area on 9.1.1993; looting, burning and stabbing. A number of
 Muslim homes and taxis were set on fire. The entire Muslim
 population of this area had left their homes and taken refuge in the
 Sacred Heart School. The giving of shelter to Muslims by the Pastor
-and Principal of the school, infuriated the Shiv Sainik rioters. They
+and Principal of the school, infuriated the _Shiv Sainik_ rioters. They
 voiced their objections loudly. In fact, the refugees themselves felt
 insecure for, from the ventilators of the place where they had taken
 refuge, they could see their homes being broken into, their belongings
@@ -2857,11 +2861,11 @@ the threats and bullying of the menacing Shiv Sena mobs.
 
 The well known cricketer Sunil Gavaskar came to the rescue of
 a Muslim family fleeing the area. This family's vehicle got involved in
-an accident. A Shiv Sainik mob surrounded the vehicle and would
+an accident. A _Shiv Sainik_ mob surrounded the vehicle and would
 have set the vehicle with its inmates onfire, had not Sunil Gavaskar
 intervened at the risk of his life.
 
-The Prem Nagar area and the B.D.D. chawls were the worst
+The Prem Nagar area and the B.D.D. _chawls_ were the worst
 affected. According to witnesses, the intensity of the rioting against the
 Muslims of the area is ascribable to the Shiv Sena followers who
 believe that Muslims have no right to work or live in that area.
@@ -2894,16 +2898,16 @@ is a secular journal, and has projected the doings of the secularists instances
 of one community helping the other have been highlighted
 in the said journal.
 
-Mr. Rashid stays in a chawl at Thakurdwar. The first incident he
+Mr. Rashid stays in a _chawl_ at Thakurdwar. The first incident he
 witnessed, took place on 8.1.1993 at about 11.30 p.m., when a mob
-launched an attack upon the chawl. The chawl's ground floor
+launched an attack upon the _chawl_. The _chawl_'s ground floor
 apartments, comprising 18 residences, are occupied by about 250
 Muslims. Since there was an apprehension of some trouble, the L.T.
 Marg police station had deputed two policemen to keep a watch at the
 front gate of the compound. But they disappeared when the mob
 came. The mob had started pelting bricks and soda water bottles at
-the chawl. Though the police control room was contacted, the police
-did not come immediately. The residents of the chawl resisted the
+the _chawl_. Though the police control room was contacted, the police
+did not come immediately. The residents of the _chawl_ resisted the
 attack. The mob subsequently dispersed, but only after smashing
 several taxis belonging to the Muslims parked in the compound. The
 police finally came at about 1.00 am. They appointed four additional
@@ -2914,7 +2918,7 @@ On the next day at 10.00 am, a mob came from the direction of
 the Queen's Road police station. They damaged several stalls and
 shops as they approached. The Good Luck Motor Driving School,
 owned by a Muslim situated opposite the Charni Road Railway station,
-was set on fire. Thereafter, the mob came to his chawl. As the mob
+was set on fire. Thereafter, the mob came to his _chawl_. As the mob
 attacked, the police along with one S.I.Kamat, who was also present,
 stood by as mute observers. The local Shiv Sena corporator, Vilas
 Avchat was contacted and the witness pleaded with him for help. The
@@ -2926,9 +2930,9 @@ of the terrace was damaged. The women and children had to be
 shifted from that building. The State Reserve police (SRP) had come in
 by that time, but they too did nothing. The police were later found
 talking and laughing with the Shiv Sena leaders. By 5.00 p.m., it was
-feared that none of the chawl people would remain alive as the police
-were providing no help at all. All of them had to vacate the chawl
-after which, it was set on fire. Six rooms of the chawl, with 75
+feared that none of the _chawl_ people would remain alive as the police
+were providing no help at all. All of them had to vacate the _chawl_
+after which, it was set on fire. Six rooms of the _chawl_, with 75
 inhabitants of the Diamond Manzil were totally gutted. When the
 witness arrived on the morning of 10.1.1993, he found his flat reduced
 to ashes. He lost about 3000 books, diaries, records, T.V.set, VCR,
@@ -2938,7 +2942,7 @@ Varanasi on 11.1.1993. His complaint was registered on 12.1.1993. The
 witness said that the rioting and the crimes were all the handiwork of
 the Shiv Sena. The persons leading the mob were known faces,
 mostly boys who used to play cricket and other games with the boys
-of the chawl. Though the persons could be identified easily, the police
+of the _chawl_. Though the persons could be identified easily, the police
 have taken no action against the rioters.
 
 The witness had also gone round the city of Bombay during the
@@ -3476,7 +3480,7 @@ steep rise in the percentage of such cases. The doctors have not
 noticed any incident of a patient being driven away by the hospital
 staff on account of his or her community.
 
-#### (17) Teesta Setalvad[^1] --- Journalist
+#### (17) Teesta Setalvad[^teesta] --- Journalist
 
 The witness covered both the December 1992 and January 1993
 bouts of rioting for Business India magazine. She had travelled
@@ -3499,5 +3503,11 @@ immediate relief in the form of food, clothing, medicines, etc., but the
 amount needed for substantial rehabilitation required govt. funding on
 a large scale and for a substantial period of time.
 
-[^1]: The above statement was inadvertently omitted in the first
+[^shiv-sainiks]: Members of _Shiv Sena_ (political Party) in Maharastra. Usually party thugs imposing thier will on weak thru violence & threats of violence.
+
+[^maha-arti]: Hindu religious ritual performed at the time of festivals during full moon.
+
+[^chawl]: A type of residential tenement building found in India, typically for poor working-class people.
+
+[^teesta]: The above statement was inadvertently omitted in the first
 edition of the report.

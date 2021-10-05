@@ -4,7 +4,7 @@ The enormity of the havoc wrought by the riots compelled a
 callous administration to come out with proclamations of restitution to
 the sufferers. These proclamations were given fairly late in the day. In
 fact, as compensation was declared to be paid to the dependents
-whose bread - winners were killed, police commissioner Bapat made a
+whose bread-winners were killed, police commissioner Bapat made a
 comment that the announcement of compensation had inspired
 Muslims to make false complaints of excesses against his disciplined
 and innocent police force ! Rs. 1,00,000 was sanctioned as
@@ -71,11 +71,11 @@ suffered.
 
 Instantaneous relief was granted to
 help hospitalised victims at the rate of Rs.
-250/per person and this amount would
+250 per person and this amount would
 not be enough for expenditure on first-aid.
 A large number of witnesses stated that
 for all the losses suffered by them, they
-received only Rs. 250/and nothing else.
+received only Rs. 250 and nothing else.
 As compared to the apathy of the official agencies, in several
 localities, people on their own or with the help of various
 organisations, succeeded in staving off trouble, as well as

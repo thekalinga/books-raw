@@ -698,7 +698,6 @@ were relatively younger, late joiners, and
 recruited mainly from the working class
 background.
 
-
 +---------------------+---------------+------------------+--------------------+-------------------+
 | Federation          | No. of Unions | No. of Outside   | No. of Outside     | No. of Outside    |
 |                     |               | Full-time Bosses | Full-time Deputies | Full-timers Total |
@@ -1232,6 +1231,8 @@ on earlier draft of the article.
 
 ## References
 
+::: {#refs}
+
 Agarwala, Rina. (2013), Informal Labor, Formal Politics and Dignified Discontent in India, New York: Cambridge University Press.
 
 Aggarwal R.D. (Ed.) (1972), Dynamics of Labor Relations in India: A Book of Readings. Bombay, Tata-McGraw-Hill.
@@ -1287,6 +1288,8 @@ Sodhi, J.S. (2013), "Trade Unions in India: Changing Role and Perspective", Indi
 Teitlebaum, Emmanuel (2009), "Was the Indian Labor Movement Ever Co-opted? Evaluating Standard Accounts", in Rina Agarwala and Ronald J. Herring (eds), Whatever Happened to Class? Plymouth: Lexington Books, 50--72.
 
 Wiener, Myron (1962), The Politics of Scarcity: The Public Pressure and Political Response in India. Bombay, Asia Publishing House.
+
+:::
 
 [^1]: The Majur Mahajan, also known as the Textile
 Labor Association (TLA), was affiliated to INTUC

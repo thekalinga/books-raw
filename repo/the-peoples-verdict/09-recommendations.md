@@ -27,7 +27,7 @@ one pocket where nothing happened in
 spite of a mixed population with Muslims
 being fewer in number. Similarly, in
 Andheri (East), there were no incidents in areas like Trimbak Estate, a
-group of chawls. It is equally interesting to note that in certain riot
+group of _chawls_. It is equally interesting to note that in certain riot
 prone areas of the past there were no incidents this time round.
 Bhiwandi, outside Bombay, and Kamathipura in Bombay, (where there
 were communal riots in 1984 and 1987) in Bombay were peaceful this
@@ -234,7 +234,7 @@ lost their shelter
 
 Immediately on the riots coming
 under control, the government announced a
-payment of Rs. 250/per riot-affected person. Mostly these amounts
+payment of Rs. 250 per riot-affected person. Mostly these amounts
 were given to the victims who went to the police station and
 complained about injuries either to themselves or their property. Later
 on it was announced that in the case of the death of any person in the

@@ -67,8 +67,8 @@ $1--$2
 
 # replace
 
-[’‘]
-single quote
+[’‘ʻ]
+'
 ----
 
 == Place bullet points onto new lines
@@ -251,17 +251,27 @@ opinio juris
 
 == Tables
 
+. Create a _Libre Calc_ sheet in tabluar format
+. Copy table to https://ozh.github.io/ascii-tables/
+. Pick the option `reStructuredText Grid`
+. Copy out & Replace the table rows with the following
 [source]
 ----
-# both columns are of same size & the price column is right aligned
+\|$
+|\nFirstrow
+----
 
+For simple cases, we can use this aswell
+
+[source]
+----
 fruit| price
 ----|----:
 apple|2.05
 pear|1.37
 orange|3.09
 
-# no header
+= no header
 
 |
 ----|----:
@@ -269,7 +279,7 @@ apple|2.05
 pear|1.37
 orange|3.09
 
-# 2nd column width is twice as much as 1st column
+= 2nd column width is twice as much as 1st column
 
 fruit| price
 --|----:
@@ -277,21 +287,21 @@ apple|2.05
 pear|1.37
 orange|3.09
 
-# organge row spread over multiple rows
+= organge row spread over multiple rows
 
 fruit| price
 ----|----:
 apple|2.05
 pear|1.37
 orange|3
-|   .09
+| .09
 ----
 
 == Scene break
 
 [source]
 ----
-# &#8233; adds paragraph. &#8258; adds triple star symbol
+= &#8233; adds paragraph. &#8258; adds triple star symbol
 
 &#8233;&#8258;&#8233;
 ----
@@ -300,7 +310,7 @@ orange|3
 
 [source]
 ----
-# unicode for Zero Width No-Break Space (BOM, ZWNBSP)
+= unicode for Zero Width No-Break Space (BOM, ZWNBSP)
 
 &#65279;
 ----

@@ -35,6 +35,5 @@ We would be remiss if we did not dedicate this report to the
 victims of the riots, as also those who brought them succour and
 helped expose the guilty ones.
 
-| ---
 | Justice S.M.Daud (Retd), Bombay High Court
 | Justice H.Suresh (Retd), Bombay High Court
