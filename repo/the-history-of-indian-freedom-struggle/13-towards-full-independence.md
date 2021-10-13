@@ -1,0 +1,1058 @@
+# TOWARDS _FULL INDEPENDENCE_
+
+## THE DIVIDE AND RULE TACTICS
+
+Whenever there was a mass upsurge, the British used to
+resort to the divide and rule tactics to beat it back. As
+we have seen earlier, they rallied the 'moderates' against the
+'extremists' and turned the Muslim big-wigs against the Congress
+in 1905--06, and in 1919--21 used the 'moderates' and
+several communal and casteist organizations against the _Khilafat_-_non-cooperation_
+movement. The same tactics were used
+against the new mass upsurge which was started in 1928--29.
+
+The first and foremost success they achieved was in the
+field of trade union movement. As we know, workers'
+organizations emerged in India linked with the freedom movement
+in the wake of the 'extremist' politics. We also know
+that the attempts made by the British to stop this trend and
+to make it an appendage of British imperialism and its agent,
+the _Amsterdam International_, had failed. In 1928--29, they
+adopted new tactics to make up this failure and to achieve
+their objective. And they were successful in that attempt.
+
+Along with the _Simon Commission_ which was appointed
+to go into the question of _constitutional reforms_, certain other
+commissions and committees had also been appointed by
+the Government to draw the attention of the elite sections of
+the Indian society to its side.
+
+It had become necessary for the British _monopoly
+Capitalism_ to bring about a capitalist transformation in agriculture
+in India. Changes in the agrarian structure too had
+become necessary to rally the landlord classes behind them.
+For this purpose, an agricultural commission was appointed
+with Lord Linlithgow as chairman. Similarly, a committee
+with Sir Philip Hartog as chairman to prepare a report on
+educational reforms to suit capitalist development and a
+labour commission with Whitley as chairman were also appointed.
+Whitley had the distinction of having drawn up a
+number of planned schemes of industrial relations in Britain
+which skillfully transformed the British trade union movement
+into an appendage of British imperialism.
+
+Since all these commissions and committees were intended
+to protect the British imperialist rule, the militant sections
+both inside and outside the Congress were against extending
+cooperation to them. We have referred to earlier the
+successful _boycott_ of the _Simon Commission_, the most important
+of the these commissions, thanks to the unity of the left
+and right forces inside and outside the Congress. A similar
+approach was adopted by the leftists including the _Congressmen_
+with regard to the _Whitely Commission_.
+
+Although the left _Congressmen_ and Communists had
+considerable influence in the _All-India Trade Union Congress_
+(_AITUC_), the 'moderates' were not an insignificant minority
+in it. True, the _AITUC_ was far ahead of the Congress in
+raising the immediate demands of the workers and in adopting
+the objective of Socialism. It may be noted that it
+had adopted the objective of Socialism in 1928, some three
+decades before the Congress adopted, formally though,
+"Socialistic pattern" as its objective.
+
+However, the _AITUC_ was lagging behind the Congress
+on matters relating to the general political issues of _anti-imperialism_.
+For instance, on account of the opposition of
+the 'moderate' leadership, _AITUC_ could not adopt a resolution
+to affiliate to the _League against Imperialism_ whereas, the
+Congress had affiliated itself to the _League_ and sent delegates
+to its world conference.
+
+This becomes further clear from the approach adopted
+by the Congress towards the _Simon Commission_ and the
+attitude of the 'moderates' in the _AITUC_ towards the
+_Whitley Commission_. Both the left and right sections in
+the Congress were united in the _boycott_ of the _Simon Commission_.
+But there was no such a unity between the right and
+left sections in the _AITUC_ in the _boycott_ of the _Whitely
+Commission_. Further, the _AITUC_ split on this issue, the
+first split in the Indian trade union movement.
+
+Although a large number of top Congress leaders including
+Tilak, Lajpat Rai and CR Das, had played a significant
+role in the growth of the trade union movement,
+there was a section of leaders under the political influence
+of Gokhale and other 'moderates' in the _AITUC_. Just as the
+world Communist movement had influenced the leftists in
+the _AITUC_, so the _Amsterdam International_ had influenced
+the _rightist_ trade union leaders. Thus, the leftist section
+including the Congress who cooperated with the Communists
+and other leftists and the _rightists_ section under the influence
+of the _Amsterdam International_ came to a clash with
+each other.
+
+The central point of dispute between these two groups
+was the approach towards the _Whitley Commission_. The
+ruling circles who saw the depth and the extent of the people's
+protest against the _Simon Commission_ were shrewd
+enough to take the necessary precaution to see that the
+commission on labour had Indian representatives.
+
+Thus, the _Whitley Commission_ had two representatives
+of Indian workers on it. The 'moderate' labour leaders,
+NM Joshi and Dewan Chamanlal unilaterally agreed to
+serve in the commission without consulting either the _AITUC_
+or the different political groups in it. In fact, it was only
+after they had accepted the membership that the very issue of
+approach to the Commission came up before the _AITUC_.
+Naturally, it aroused deep resentment among the delegates
+to the Nagpur session of the _AITUC_ in 1929.
+
+It was in the atmosphere of this resentment that the
+decision to _boycott_ the _Whitley Commission_ was adopted.
+Simultaneously, two resolutions were passed, one demanding
+the release of the accused in the _Meerut Conspiracy Case_
+the other for affiliating the _AITUC_ with the _League against
+Imperialism_. Protesting against these resolutions adopted
+by the majority, the 'moderate' leadership walked out of the
+conference and formed a rival trade union organization
+based on _moderatist_ outlook.
+
+The British rulers realized that the success they had achieved
+in splitting the trade union movement could not be
+repeated easily in the political field. All shades of opinion from
+the 'moderates' outside the Congress to the leftists inside the
+Congress and the different revolutionary groups outside, had
+raised in one voice the demand of "at least a _Dominion
+Status_". An ultimatum had already been served by the Congress
+to the effect that if this demand was not conceded before 31st December 1929, _direct action_, including non-payment of
+tax, would be launched. In the circumstances, the British
+were forced to evolve a new tactic to engineer a split in the
+political front.
+
+Meanwhile, a political change favourable to this had
+come about in Britain itself. In May 1929 the _Labour Party_
+come to power defeating the ruling Conservatives. Although
+the Commissions referred to above were appointed by the Conservative
+Government, the _Labour Party_ had played its own
+role in all actions intended to tighten the British monopolist grip
+on India. Therefore, it was clear that there would not be any
+change in the government policy despite the _Labour Party_
+being in power. But the _Labour Party_ leaders had to pretend
+that theirs was a government trying to protect the interests of
+the British workers and the Indian democratic movement to
+the extent possible. So, the _Labour Party_ government came up
+to take certain seemingly conciliatory steps without effecting
+any fundamental change in the structure or terms of reference
+of the _Simon Commission_. Thus, the Labour Prime Minister,
+Ramsay MacDonald, called the Viceroy to England for
+consultations. Further, it was proposed to hold a conference
+in London with leaders of the different political parties and
+sections to ascertain the Indian public opinion before enacting
+an appropriate bill in accordance with the report of the
+_Simon Commission_.
+
+The Government accepted this proposal and the Viceroy
+Lord Irwin accordingly issued a statement on 31st October.
+In the statement, the Viceroy declared that the perspective
+before the government in all considerations with regard to
+constitutional reform, in general, was _Dominion Status_. It
+marked the beginning of a calculated move to create disunity
+between the Congress and the 'moderates', between the leftists
+and the _rightists_ in the Congress, among the different organizations
+which dealt with communal-caste politics, including
+the _Muslim League_ and between these sections,on the one hand
+and the Congress, on the other. As we shall see later, these
+proposed (Round Table) conferences turned out to be a
+platform to stretch out these disputes and quarrels endlessly.
+
+However, these tactics of the government failed for the
+time being. An _All-India Leadership Conference_ was held
+in Delhi within 24 hours after Irwin issued the statement.
+The Conference in which Congress leaders like Gandhi and
+Motilal Nehru and the liberals like Sapru and the President
+of the Central Assembly Vithalbhai Patel participated, decided
+to accept the Viceroy's proposals subject to the following
+conditions.
+
+1. The scheme which should form the basis of discussion
+   at the Conference should be the implementation of
+   _Dominion Status_.
+2. A majority of the delegates to the conference should
+   be from the Congress.
+3. All political prisoners should be released forthwith.
+4. The functions of the existing government of India,
+   as far as possible in the present context, should be befitting
+   a government of _Dominion Status_.
+
+This resolution adopted by Congress and the 'moderates'
+outside it was, according to Jawaharlal Nehru, a success as
+a decision of a conference in which the leftists and 'moderates'
+were participants; but as far as the Congress was concerned it
+was a "step backwards".
+
+For the Congress, the four conditions included in the
+resolution were not negotiable. If the government were not
+willing to accept them, the Congress would be unwilling to
+cooperate with it. But, for liberals, this constituted their
+maximum demand. Hence, they were willing for a compromise.
+This was Nehru's evaluation of the resolution.
+
+Thus, the leadership conference of November 1929 ended
+in creating conditions for a break between the Congress and
+the liberals. However, it helped to keep the liberals with
+the Congress at least for the time being. The resolution
+also helped to prevent a rupture between the left and right
+wings inside the Congress and to move them together into
+a struggle to be launched under Gandhi's leadership.
+
+In accordance with the Calcutta resolution, the leftists
+were obliged to wait for a year; meanwhile, if the government
+granted _Dominion Status_, then the Congress would
+accept it. On the contrary, if the government was unwilling
+to grant this demand, the Congress, including Gandhi, was
+obliged to launch a struggle.
+
+Gandhi and Motilal Nehru used the leadership conference
+as a means to fulfil the obligations of both sides and at
+the same time to maintain the unity of the Congress. They
+utilized the developments following the leaders' conference to
+accede to the demand of the left wing _Congressmen_ to move
+along the path of _direct action_ as directed by the Calcutta
+session, since the government had refused to concede even
+the very 'moderate' demands of a liberal leader like Sapru.
+
+## PREPARATIONS FOR THE NEW STRUGGLE
+
+The general thinking prevalent among the _Congressmen_
+after the Calcutta session was that since the granting of
+_Dominion Status_ within one year as demanded at the session
+was highly improbable, the Congress must make all preparations
+to launch a struggle. However, Gandhi had his own
+view on the nature of such preparations. The form of struggle
+that Gandhi had visualized was one of "_complete non-violence_",
+and of mobilizing the national force of the masses
+patiently tolerating all the repressions that might come
+form the "other side". And this must be achieved through
+the "constructive" programmes he had formulated.
+
+Soon after the Calcutta session, the Congress Working
+Committee appointed a number of sub-committees to strengthen
+mass contact and also to implement the "constructive"
+programme. The sub-committees were intended to take
+care of _boycott_ of foreign cloth, prohibition of liquor, removal
+of untouchability, Congress organization, volunteer
+organization and redressal of women's grievances.
+
+The sub-committees on all these issues (except on the
+last which remained on paper only) worked vigorously. Gandhi
+himself was the chairman of the committee for the
+_boycott_ of foreign cloth. Rajagopalachari was in charge of
+prohibition and Jamnalal Bajaj was to lead the activities for
+the removal of untouchability. The tours and other activities
+of these leaders, though conducted in connection with the
+discharge of their specific responsibilities, did help to create
+a general awareness among the people about the Congress
+session scheduled for the year-end and the developments that
+were likely to take place subsequent to it.
+
+The work of the Congress and volunteer organizations
+served to create a wide mass base, unprecedented except perhaps
+for the 1920--21 period. This showed that the Congress
+had begun to grow with a base firmer than what it was in 1920--21.
+
+It was during this period that the _Hindusthan Seva Dal_,
+a volunteer organization of Karnataka, became an all-India
+organization. The _Seva Dal_ and its camps were utilized to
+impart elementary physical training as well as political education
+that were essential for the volunteers. Decisions were
+taken to enrol a certain percentage of the total population
+of the provinces as members of Congress and establish
+functionally effective committees in at least a minimum
+number of districts with active members of the Congress
+contributing a fixed percentage of their income towards the
+Congress fund. Work based on these decisions helped transform
+the Congress into a well-knit mass organization.
+
+Work in the legislatures had begun to bear the mark of
+the impending struggle. In the Central Assembly, President
+Vithalbhai Patel gave the ruling that a debate on the _Public
+Safety Bill_ in the House would prejudice a fair trial of the
+_Meerut Conspiracy Case_ which was going on simultaneously.
+The ruling and the speech made by the Viceroy in utter disregard
+to the ruling caused a havoc in the Assembly. In Bengal,
+following the repeated defeats of the government in the legislature,
+the legislature itself was dissolved. The general
+impact of these events was so great and the fighting mood
+of the people so high that it was decided that the Congress
+members in the Central and provincial assemblies needed
+to attend the legislatures only to retain their membership, utilizing
+the rest of the time for political work.
+
+The Congress moved on these lines at a time when the activities
+of the revolutionaries, were going on with increased
+vigour. The _Lahore Conspiracy Case_ trial involving Bhagat
+Singh and his colleagues was progressing. The fast undertaken
+by the accused in the jail and the death of one of them
+(Jatin Das) had made the Indian people in general and the
+youth in particular indignant. Proceedings of the _Meerut
+Conspiracy Case_ involving many prominent Communist, and
+_non-Communist_ trade union workers were also going on. A
+large number of nationalist activists including many prominent
+Congress leaders were imprisoned on various counts.
+
+In this background, there was a widespread feeling
+that the "_constructive programme_", organizational work and
+partial _boycott_ of the legislature, etc., being carried out by
+the Congress leadership were inadequate to meet the situation.
+All this turned out to make the soil fertile for 'bomb-politics'.
+
+It was in these backgrounds that the leaders of the
+Congress and the 'moderates' entered into negotiations with
+the British. This evoked sharp protests from the ranks,
+as a reflection of which Jawaharlal Nehru and Subhas
+Chandra Bose who were regarded as leftist leaders tendered
+resignation form the _Congress Working Committee_. The
+revolutionaries outside the Congress who were engaged
+in 'bomb-politics' intensified their activities. They even tried
+to blow up the train in which the Viceroy was travelling,
+injuring some of his attendants. It was obvious that the
+attack on the viceregal train was intended to prevent the
+negotiations between the Viceroy and the Congress leaders
+or at least to make them fruitless.
+
+It was in this background again that the question came
+up as to who should be the president of the Lahore session.
+The general consensus was that at a time when a struggle for
+independence was imminent, Gandhi was the only individual
+strong enough to be its commander-in-chief. Ten provincial
+committees proposed his name. The name of Vallabhbhai
+Patel was proposed by five PCCs[^pcc]. Patel's nomination was
+obviously in recognition of the leadership that he had given
+to the successful Bardoli peasant struggle and of his capability
+to lead the forthcoming struggle. Jawaharlal Nehru with
+the support of three provinces was placed in the third position
+in the list of presidential candidates.
+
+[^pcc]: Pradesh (Provincial) Congress Committee
+
+Gandhi, however, declined his nomination. Nor did he
+approve of the nomination of Patel who was in the second
+position, Instead, he expressed his opinion in favour of
+Jawaharlal Nehru whose position was third in the list. The
+entire Congress leadership including Patel accepted Gandhi's
+proposal. Thus, Jawaharlal Nehru who had never concealed
+opposition to the policies pursued by the Congress leadership
+including Gandhi and Motilal Nehru, was elected president
+of the Congress.
+
+This was an incident that invited considerable debate
+in the political circles. What was the secret behind Gandhi,
+the trusted leader of the majority, giving up the presidentship
+of the Congress in favour of Jawaharlal Nehru, the
+representative of a minority in the Congress? Why did the
+entire Congress leadership decide to transfer the Congress
+presidentship from the renowned 'moderate' leader Motilal to
+his son Jawaharlal? How far personal sentiments like Gandhi's
+interest in Jawaharlal and Motilal's affection to his son influenced
+the decision?
+
+We have referred to above certain facts helpful in finding
+answers to these questions. No matter how extensive
+the popular force the Congress was able to rally behind
+itself through "_constructive programmes_" and organizational
+work. This alone was not sufficient to conduct a bitter _anti-British_ struggle.
+For the leftists inside and outside the Congress
+were not less active and militant than the Congress workers
+who were engaged in _constructive programmes_ or organized
+in _Seva Dals_. Only a leadership capable of mobilizing their
+sense of self-sacrifice and cautious activities would be
+able to inspire the millions in the struggle. Realizing this fact,
+it was necessary to create the impression both among the
+people and the Congress workers that the young generation of
+leftists was being brought up to the leadership position.
+
+Another factor that promoted Gandhi to propose Jawaharlal
+to the presidentship of the Congress was his opinion
+about his personality. However strongly he might express
+his leftist ideology in his articles and speeches, Jawaharlal
+Nehru was in the final analysis a "disciplined" disciple of
+Gandhi. True, he was a staunch opponent of the views of
+his father and leader; but when faced with practical politics
+Jawaharlal transforms himself into a devoted Gandhian --- this
+was Gandhi's assessment of Jawaharlal's personality.
+
+For instance, nominating Jawaharlal to the presidentship
+Gandhi stated:
+
+>And if he has the dash and the rashness of a
+warrior, he has also the prudence of a statesman. A lover
+of discipline, he has shown himself to be capable of rigidly
+submitting to it even where it has seemed irksome. He is
+undoubtedly an 'extremist', thinking far ahead of his surroundings.
+But he is humble and practical enough not to force
+to pace to the breaking point. He is pure as a crystal, he
+is faithful beyond suspicion. He is a knight _sans peur_, _sans
+reproche_. The nation is safe in his hands.[^13/1]
+
+[^13/1]: D. G. Tendulkar, _Mahatma_, Vol II, New Delhi, Publications Division, 1969, p. 372.
+
+Subsequent events have proved the correctness of this
+assessment. In his first presidential address and in numerous
+speeches, statements and articles that followed, Nehru formulated
+his leftist thoughts. Often it brought crises in the
+leadership circles of the Congress and on occasions, he had to
+give up the leadership position to freely express his dissent.
+But on all such occasions he remained a trusted follower of
+Gandhi. Whenever formidable challenges were raised against
+the Gandhian leadership, its outlook and programmes, Jawaharlal
+created the impression among the people that he stood
+"between Gandhi and the leftists". In effect, however, he
+had been saving the Gandhian leadership from the challenges
+it had been facing. In the following pages, we shall see this
+repeating again and again. Here we will only point out the
+understanding Gandhi and other leaders had on the forthcoming
+struggle following the Lahore Congress and the role
+played by the election of Jawaharlal Nehru in the struggle.
+
+It would be useful here to make a comparative analysis
+of the struggles of 1920--21 and the forthcoming struggle of 1928--29. The basis of the former was the popular reaction
+to the deepening economic and political crises in the post-war
+years. Gandhi tried to provide an organized form to this
+popular reaction for which he was the most skillful and experienced
+of all the _bourgeois_ political leaders. He was
+successful in accomplishing this by raising such simple slogans
+as "_Swaraj_ in one year", collecting the _Tilak Swaraj Fund_
+and propagating the spinning wheel. And the limitations of
+this approach were demonstrated themselves through the
+_Chauri Chaura_ and other incidents.
+
+The situation in 1928--29 was different. There were now
+not only the masses who had imbibed the spirit of mass
+struggles, but also organized movements borne out of their
+struggles as well as the revolutionary ideologies leading
+them. There were the trade unions and their strike struggles,
+the youth organizations and their forms of struggle, the agitations
+and struggles of the peasantry and the revolutionary
+organizations imbibing the Communist and Socialist ideologies
+which had tremendously influenced these movements and
+struggles. The impact of all these was found on the ranks and
+active workers of the Congress as well as on a section of its
+leadership. Jawaharlal Nehru, Subhas Chandra Bose and
+other leaders of the younger generation, in fact, emerged as
+the representatives of these sections.
+
+It was a necessity for the _bourgeois_ Congress leadership
+including Gandhi, to rally under its own banner these new
+forces which had not yet emerged in 1920--21. At the same
+time, they had to see to it that these revolutionary forces did
+not cross the bounds set by the _bourgeois_ leadership on to
+'dangerous' paths. In other words, they had to "tame" these
+revolutionary forces which were likely to constitute themselves
+a challenge to the _bourgeois_ leadership. The most
+suitable means for it was to install as Congress president a
+widely accepted "young leader" like Jawaharlal who was a
+devoted disciple of Gandhi and to exercise the control of the
+right wing leadership on him.
+
+Although the present decision pertained only to the
+question of who should preside over the Lahore session of
+the Congress, it marked the beginning of the future
+developments. Through this decision Gandhi declared that his
+successor in Indian politics would be none of the well known
+Gandhians like Vallabhbhai Patel, Rajagopalachari and
+Rajendra Prasad, but Jawaharlal Nehru who was known to
+be an opponent of himself. The kind of _freedom struggle_
+Gandhi visualized would not be complete even with leaders
+like the eminent parliamentarian, Motilal Nehru and constructive
+workers like Patel and Rajagopalachari. For that
+purpose the leftist forces represented by Jawaharlal Nehru
+must also be mobilized. Not only that. There must be a
+guarantee that the leftist forces thus mobilized did not go
+beyond the control of the social forces which he represented.
+Gandhi was able to accomplish all this. And he knew that
+Jawaharlal Nehru would be of greatest assistance to him in
+"taming the leftist forces".
+
+We have referred to earlier the statement of Tilak that
+Gandhi represented the new mass upsurge and that he would
+not stand in his way. Now the situation was somewhat
+different from what was known as the "end of the Tilak era".
+In 1928--29, Gandhi could not claim the sole representation
+of the mass upsurge; Gandhi's leadership would become useful
+and effective only if the new revolutionary forces represented
+by Jawaharlal Nehru were mobilized. However, without
+Gandhi and his right wing leadership, Jawaharlal would not
+become the full representative of the new popular upsurge.
+In other words, the _bourgeois_ national leadership would be
+complete only if the disciples of Gandhi, the parliamentarians
+and the younger generation of the left forces were brought
+together. The election of Jawaharlal Nehru was an open
+declaration of this fact.
+
+## THE LAHORE SESSION
+
+At the midnight of 31st December 1929, the hour at
+which the one-year grace period given at the Calcutta session
+of December 1928 ended, the Lahore session of the Congress
+passed the resolution affirming _full independence_ as the
+national objective. Soon after, the delegates led by President
+Jawaharlal Nehru left the _Pandal_ to unfurl the Indian independence
+flag.
+
+The resolution was adopted almost unanimously, with
+hardly 15 hands raising against in a gathering of thousands
+of delegates. It was a rare spectacle of the disciples of
+Gandhi, advocates of participation in legislature, leftists
+and all other sections rallying behind the objective of _full
+independence_ and the imminent struggle to achieve the
+objective. A new voice of mass upsurge reverberated throughout
+the country.
+
+But behind this demonstration of unity revealed the
+intense clash that took place among the various trends of
+political thought and groups. On a number of occasions,
+divisions were taken for voting and issues decided with a
+narrow majority. Even in the case of the main resolution
+on _full independence_, its different clauses came under heavy
+attack before they were adopted with a narrow margin of
+votes.
+
+Though the president of the session was an acknowledged
+leftist leader, the leftists moved a number of amendments
+to many resolutions and to many clauses of the main
+resolution moved officially. The point by point fight they put
+up ended in votings. In the final stage of the session, Subhas
+Bose and other leftist leaders who could not agree with the
+leadership on the composition of the new _Working Committee_,
+formed a new organization called the _Congress Democratic
+Party_. Only the _civil disobedience movement_ which was
+launched a few weeks after that could save the Congress
+from another split.
+
+As we know, Jawaharlal Nehru was installed president
+of the Congress as the representative of the younger generation
+with leftist ideologies. In fact, his presidential address
+was in consonance with the expectations of the delegates as
+well as of the people at large. In the address, Jawaharlal
+Nehru declared that he was a Socialist and republican
+fighting against all royal and feudal privileges. It was for
+the first time that a Congress President was delivering such
+a speech. And it was on this basis that he handled issues
+like _full independence_ and opposition to _Dominion Status_.
+
+Based on the experience he had gained through the
+participation in the _Anti-imperialist League_ and the visit to
+the Soviet Union, he tried to link the _freedom struggle_ with the
+world-wide _anti-imperialist_ struggle and to the advance of
+Socialism. At the same time, he was of the view that
+the struggle under the leadership of the Congress must be
+valued as high as or even greater than his own views as a
+leftist. In the Presidential address, he made clear that he
+was endeavouring to get along well with his colleagues including
+the Gandhians, on a number of issues such as the
+role of _non-violence_ in the struggle. Consequently, he remained
+firm with the leadership rather than with his leftist colleagues
+like Subhas Bose on questions of the composition of the
+_Working Committee_ and the subsequent formation of the
+_Congress Democratic Party_.
+
+The position taken by Nehru as president in no way
+influenced the leftist delegates. As mentioned above, they
+fought out issue by issue. They even defeated some of the
+proposals put forward by Gandhi by joining hands with
+other non-Gandhian sections. For example, Gandhi suggested
+that the programmes of the _boycott_ of foreign cloth, prohibition
+and removal of untouchability should be conducted
+under the auspices of organizations independent of the
+Congress. (The manufacture and sale of _Khadi_ had already
+been entrusted to the _Spinners' Association_, an organization
+independent of the Congress.) This suggestion was rejected.
+Similarly, as with the means of struggle, Gandhi suggested
+that "peaceful and just" be replaced by "truthful and _non-violent_".
+This too was rejected.
+
+However, the sharpest confrontation was between the
+leftists on the one hand and the disciples of Gandhi and the
+advocates of participation in the legislature on the other. It was
+as a sequel to this that the leadership had secured only a
+narrow margin of votes. For example, the leadership had
+moved a resolution condemning the bomb attack of the train
+in which the Viceroy was travelling just a week before the
+Lahore Congress. It was passed by a margin of only 48
+votes.
+
+Again, the resolution on _full independence_ began with an
+appreciation of the statement of the leadership made in response
+to the Viceroy's announcement of 31st October and the
+efforts made by the Viceroy. This part of the resolution evoked
+heated discussions. The left wing contented that the statement
+of the leadership was a backpedalling from the objective
+of the Congress and the Viceroy's announcement a trap. On
+this issue the leadership could carry only a narrow majority
+of 180 votes with them.
+
+The main resolution _inter alia_ stated that "nothing is
+to be gained in the existing circumstances by the Congress
+being represented at the proposed _Round Table Conference_."
+The phrase "in the existing circumstances" was subjected to
+severe criticism. The left argued that this phrase was a
+loophole left by the leadership in the resolution to enable
+them to participate in a _round table conference_ in the future
+on the pretext of "changed circumstances". Here also the
+combined force of Gandhians and the protagonists of parliamentary
+activities defeated the left wing with a narrow
+margin.
+
+The main resolution finally emerged in the session was
+one that inspired a large majority of the delegates and even
+the entire country, except a few among the protagonists of
+parliamentary activities. The major features of the resolution
+are as follows.
+
+1. Although appreciating the Viceroy and leadership
+   which issued the statement following his announcement and
+   with the phrase "in the existing circumstances", the resolution
+   declared that the Congress would not attend the _Round
+   Table Conference_ to be called by the British.
+2. Since the grace period allowed by the Calcutta
+   session had come to an end and also since the moves made
+   by the government in conceding the national demand was not
+   satisfactory, the session declared that the immediate demand
+   of the Congress was _full independence_. As a corollary of
+   this, the Motilal _Nehru Report_ envisaging _Dominion Status_
+   had become out-dated.
+3. As a preliminary step towards organizing a campaign
+   for _full independence_, the session called upon complete
+   _boycott_ of the legislatures and committees constituted by the
+   government and directed _Congressmen_ and others taking
+   part in the national movement to abstain from participating
+   in the future elections and the present members of the legislatures
+   to resign their seats.
+4. While appealing the people to zealously carry on the
+   _constructive programmes_ of the Congress, the resolution authorized
+   the _AICC_ "where it deems fit, to launch upon a
+   programme of _civil disobedience_, including the non-payment
+   of taxes, whether in selected areas or otherwise and under
+   such safeguards as it may consider necessary".
+
+The Lahore session adopted two other resolutions which
+deserve special mention. One of them requested the rulers
+of the _Princely States_ to establish _responsible governments_ in
+the states and guarantee the protection of civil liberties of
+the people. This represented a change in the policy of
+"non-interference in the internal affairs of the _Princely States_"
+which had hitherto been followed by the Gandhian
+leadership of the Congress.
+
+The other resolution was more sensational. It was a reiteration
+of a resolution passed earlier at the Gaya session
+making it clear that the Indian people would not be held responsible
+for the unjust public debt imposed by the British
+rulers on India. It also warned the prospective creditors of
+future debts that free India would be liable to pay back the
+debt only if it was convinced that it was just and reasonable.
+
+These resolutions showed that the Congress which was
+preparing for a struggle to achieve the immediate objective
+of _full independence_ had started taking a different attitude
+towards the rulers of the _Princely States_ who were the henchmen
+of the British and towards those who were giving
+the British government financial assistance. In other words,
+the _bourgeois_ leadership became convinced of the need for
+such a new approach to inspire the people to take part in the
+_freedom struggle_ which was going to be launched within a
+few weeks.
+
+However, the composition of the new _Working Committee_
+formed after the Lahore session was not in accord with the
+leftist ideology expressed in the presidential address and in the
+resolutions passed in the session. The leftists did not get
+representation in the _Working Committee_ in proportion to
+their strength among the delegates as displayed by the pattern
+of voting on the different resolutions. All members in the
+committee, except President Jawaharlal Nehru, were either
+the disciples of Gandhi or the advocates of parliamentary
+participation. It may be noted that the demand of the leftists
+that the election to the _Working Committee_ must be democratic
+was rejected by the leadership. Thus, Jawaharlal
+Nehru became the head of a leadership which was formed
+in a manner which was not in correspondence with the political
+thinking current among the delegates and the common
+people.
+
+But surpassing all these issues and pushing them to the
+background, the problem of the imminent struggle for _full
+independence_ came up before the people. The new _Working
+Committee_ met soon after the close of the Congress session
+and decided to observe 26th January as _Full Independence
+Day_ throughout the country as the first step towards making
+preparation for the struggle. The _Working Committee_ also
+prepared a declaration to be read and adopted throughout
+the country, as part of the observation of _Independence Day_.
+The text of the declaration which inspired the entire people
+and was repeated many a time is as follows.
+
+>We believe that it is the inalienable right of the Indian
+>people, as of any other people, to have freedom and to
+>enjoy the fruits of their toil and have the necessities of
+>life, so that they may have full opportunities of growth.
+>We believe also that if any government deprives a people
+>of these rights and oppresses them, the people have a
+>further right to alter it or to abolish it. The British government
+>in India has not only deprived the Indian people
+>of their freedom but has based itself on the exploitation of
+>the masses, and has ruined India economically, politically,
+>culturally and spiritually. We believe, therefore, that India
+>must sever the British connection and attain _Purna Swaraj_
+>or _Complete Independence_.
+>
+>India has been ruined economically. The revenue derived
+>from our people is out of all proportion to our income.
+>Our average income is seven pice, less than two pence,
+>per day, and of the heavy taxes we pay, twenty percent
+>are raised from the land revenue derived from the peasantry
+>and three percent from the salt tax, which falls
+>most heavily on the poor.
+>
+>Village industries, such as handspinning, have been destroyed,
+>leaving the peasantry idle for at least four months in
+>the year, and dulling their intellect for want of handicrafts,
+>and nothing has been substituted, as in other countries,
+>for the crafts thus destroyed.
+>
+>Customs and currency have been so manipulated as to
+>heap further burdens on the peasantry, The British manufactured
+>goods constitute the bulk of our imports. Customs
+>duties betray clear partiality for British manufacturers, and
+>revenue from them is used not to lessen the burden on the
+>masses, but for sustaining a highly extravagant administration.
+>Still more arbitrary has been the manipulation of
+>the exchange ratio which has resulted in millions being
+>drained away from the country.
+>
+>Politically, India's status has never been so reduced, as
+>under the British regime. No reforms have given real
+>political power to the people. The tallest of us have to
+>bend before foreign authority. The rights of free expression
+>of opinion and free association have been denied to
+>us, and many of our countrymen are compelled to live in
+>exile abroad, and they cannot return to their homes. All
+>administrative talent is killed, and the masses have to be
+>satisfied with petty village offices and clerkships.
+>
+>Culturally, the system of education has tom us from our
+>moorings, our training has made us hug the very chains
+>that bind us.
+>
+>Spiritually, compulsory disarmament has made us unmanly,
+>and the presence of an alien army of occupation, employed
+>with deadly effect to crush in us the spirit of resistance,
+>has made us think that we cannot look after ourselves or
+>put up a defence against foreign aggression, or defend
+>our homes and families from the attacks of thieves, robbers,
+>and miscreants.
+>
+>We hold it to be a crime against man and God to submit
+>any longer to a rule that has caused this four-fold disaster
+>in our country. We recognise, therefore, that the most effective
+>way of gaining our freedom is not through violence.
+>We will prepare ourselves by withdrawing, so far as we can,
+>all voluntary association from the British Government,
+>and will prepare for _civil disobedience_ including non-payment
+>of taxes. We are convinced that if we can but
+>withdraw our voluntary help, stop payment of taxes without
+>doing violence, even under provocation, the end of
+>this inhuman role is assured. We, therefore, hereby
+>solemnly resolve to carry out the Congress instructions
+>issued from time to time for the purpose of establishing
+>_Purna Swaraj_.
+
+This Independence Pledge is a milestone in the history
+not only of the _Indian National Congress_ but in the journey
+of the entire people of the country.
+
+## THE DANDI MARCH
+
+The _Independence Day_ was first observed on 26th
+January 1930 all over the country. There was no province
+or district which kept aloof from it. The thousands of public
+meetings and the tens of thousands people who took the pledge
+of _complete independence_ made the resolution adopted at the
+Lahore Congress and the pledge prepared by the _Congress
+Working Committee_ the common property of the people of
+the country.
+
+The rulers got into a panic about the popular emotion
+that swept across the country. They tried to meet it with
+_lathi-charges_ and firings. Many, including the renowned
+leftist leader, Subhas Bose, were arrested and sentenced to
+long terms of imprisonment.
+
+However, the rulers realized that the people's upsurge
+for _complete independence_ could not be suppressed by these
+actions. Consequently, they initiated certain "conciliatory"
+moves. Within 24 hours of the _Independence Day_ observation,
+Lord Irwin issued a statement to "remove the doubts"
+in the minds of the Indians on the nature of the _Round Table
+Conference_. It was a repetition of the statements made
+earlier by the Viceroy himself and the British ministers.
+However, it was couched in a language of appeasement.
+
+In response to this, Gandhi made a statement which
+deserves particular attention. The statement revealed the
+gulf and contradiction that existed between the mass sentiments
+expressed through the observation of _Independence
+Day_ and the political approach of the leadership represented
+by Gandhi. The contents of Gandhi's statement can be summarised
+as follows:
+
+1. It thanked the Viceroy "for having cleared the
+   atmosphere and let us know exactly where we (the rulers
+   and the Indian people) stand".
+2. The Congress is striving for the liberation of the
+   starving peasants. In the struggle for its liberation, the
+   Congress will make every effort to prevent it turning violent.
+3. The Viceroy can take certain practical steps, if he
+   desires to avoid a confrontation between the British rulers and
+   the Indian people.
+
+Gandhi explained these steps as follows:
+
+a. Total prohibition.
+b. Fix the rate of exchange at 1s. 4 d. per rupee.
+c. Reduce the land tax at least by 50 percent and
+bring that department under popular control.
+d. Abolish the salt tax.
+e. Reduction of military expenditure at least by fifty
+percent as a first step towards reduction of military
+expenditure.
+f. Reduction of salary of the highest paid civil servant
+at least by 50 percent in proportion to the reduction in
+revenue incomes.
+g. Protective tariff against foreign cloth.
+h. Enactment of a bill reserving shipping to Indians.
+i. Release of all political prisoners except those who
+are sentenced for or undergoing trial for murder or attempted
+murder; withdraw prosecution on political grounds; repeal
+of section 124 (a) relating to treason and the 1918 Act relating
+to detention without trial. Allow Indians living abroad
+to return to India.
+j. Abolition of the CID or bringing it under popular
+control.
+k. Issue of licences for fire-arms for self-defence,
+subject to popular control.
+
+It is obvious that these eleven demands put together
+would not even mean _Dominion Status_, let alone _full
+independence_. Hence, the statement aroused concern and
+doubts among the leftists. Even Jawaharlal Nehru who was
+officially the head of the Congress, was doubtful about these
+"eleven-points".
+
+But one who critically examines the events that took
+place at each stage since Gandhi's entry into politics, needs
+to have no doubt on that score. The _bourgeois_ leaders --- both
+Gandhians and pro-legislaturists --- were utilizing every opportunity
+to protect and develop its own (_bourgeois_) class
+interest through negotiations with the British rulers and to
+organize the common people, under strict control, in order
+to create conditions for that. Gandhi's attempt to reduce the
+national demand into the "eleven-points" within a month
+after the adoption of the _full independence_ resolution was
+another form of this method of struggle.
+
+A close look at the "eleven-points" would reveal the
+class interest that lay behind them. Most of them were the
+demands raised by the industrial and commercial _bourgeoisie_.
+While the demand for reduction or abolition of land tax, salt
+tax, etc., which was of vital interest to the large majority of
+poor peasants, the landless and workers, helped to rally the
+large majority of the poor and the middle-classes, it did not
+in the least hurt the interests of landlord-capitalist classes.
+It is meaningful that Gandhi did not include such issues
+as the heavy rent and interests borne by the peasantry and
+the just wages for workers and middle class employees among
+the burning problems faced by the poverty-stricken people
+of India.
+
+Even after the Lahore session, the congress leadership,
+including Gandhi, was eager for starting negotiations with
+the British. In fact, there were many intermediaries working
+between the British Prime Minister Ramsay MacDonald
+and the Congress leaders to arrive at a compromise and
+Gandhi's "eleven-points" formed the basis of such a compromise.
+
+However, the situation prevailing at that time was not
+conducive for such negotiations. The mass sentiment that
+swept across the country before and after the Lahore Congress
+was against negotiations. Even if the Congress leaders
+were willing to disregard this factor and start negotiations
+with the British, the British rulers at that time were not
+willing for talks. However great the mass support of the
+Congress, there were the forces of communal-caste politics
+ready to rally against it. The rulers thought that by using
+these forces they could reject the national demand raised
+by the Congress. This was evident form the repeated statements
+made by the Prime Minister and the Secretary of State
+for India in England and the Viceroy in India.
+
+Thus, the politics of Gandhi who descended to the
+"points" ended up in political kite-flying. The kite raised
+by Gandhi, however, snapped in the storm of opposition
+from the British government.
+
+As a natural consequence of this, the Congress --- its
+_bourgeois_ leadership --- was compelled to take an approach
+of struggle. The _Working Committee_ which met at Sabarmati
+for three days in the middle of February 1930 called
+upon the people and Congress organizations to prepare for a
+struggle. The Committee insisted that only those who take
+_non-violence_ as a creed (_i.e._ not as a practical policy)
+should take part in the struggle. The Committee welcomed
+Gandhi's willingness to lead the struggle subject
+to this condition and authorized him and others who had
+accepted _non-violence_ as a creed to organize the struggle.
+The Committee appealed to _Congressmen_ and the people
+to extend all cooperation to the _non-violence_ _civil disobedience_
+to be launched under the leadership of Gandhi. The
+Committee also suggested that with the launching of the
+movement all those connected with official institutions, including
+lawyers and students, should withdraw their cooperation
+to the government.
+
+An examination of this decision together with the statements
+made by Gandhi before and after that would make
+two things clear. First, the _bourgeois_ leadership including
+Gandhi visualized a mass struggle in which people would be
+brought to participate on the broadest possible scale. Second,
+the leadership was particular that this mass struggle should
+not go beyond the limits set by it and that if the doors of
+negotiations with the British government were opened at any
+stage of the struggle, that opportunity should be utilized to
+negotiate with them.
+
+As Gandhi himself had made it clear in a letter to the
+Viceroy later and in many of his statements, the struggle
+under his leadership was organized, on the one hand, against
+the organized violence of the British government and, on the
+other, against the tendencies of violence spreading widely
+among the people. That is, the aim of struggle was to
+convert the mass upsurge which Gandhi characterized as the
+"violent tendency spreading rapidly all over the country"
+into a mass movement that could be held in the grip of the
+_bourgeoisie_ and from that position of strength bargain with
+the British rulers.
+
+Gandhi who had been authorized to lead the struggle
+decided to organize country-wide _civil disobedience_ on an
+issue which was suited most for the purpose. Salt was an
+essential article of the daily life of every family. The rules
+and duties imposed by the British government for about
+hundred years had deprived the people of their freedom to
+make salt. On the immediate minimum demand that the
+people should have the freedom to make salt, the Congress
+under Gandhi evolved a form of struggle of breaking the
+laws relating to the manufacture and distribution of salt.
+
+This received country-wide publicity. While one section
+ridiculed the form of struggle of breaking the law by making
+salt from sea-water, another section was inspired by it. The
+"_Salt Satyagraha_" was discussed all over the country. The
+new wave of struggle swept across the country.
+
+When statements regarding _Salt Satyagraha_ began to
+come out, questions relating to its form and how and who
+would lead it came up before the people. Things became
+clear before long. It was made known that Gandhi himself
+would inaugurate the _Salt Satyagraha_, accompanied by about 75 inmates of the Sabarmati _Ashram_. They would start on a
+march on foot from the _Ashram_ on 12th March and reach
+the village of Dandi on the coast of Gujarat on 5th April.
+On the next day which coincides with the 11th anniversary
+of the _Jhallianwala Bagh massacre_, they would make salt
+from the sea-water.
+
+What would happen if Gandhi was arrested during the 26-day-long _Dandi March_? Once Gandhi and his colleagues
+reached Dandi and broke the salt law, would _civil disobedience_
+be launched in other parts of the country? If so, how?
+Would any other law besides the salt law be violated? If so,
+who would decide it, how would it be conducted?
+
+Innumerable questions of this nature came up before the
+people and the Congress workers. Gandhi himself had
+thought over these questions and discussed them with his close
+colleagues. But, neither the people in general nor the Congress
+workers knew what the decisions were. As for them,
+this was of no consequence. They knew that India was going
+to witness an unprecedented country-wide mass struggle and
+that the _Dandi March_ under Gandhi's leadership was its beginning.
+They had read the reports on this march in the
+newspapers. Articles comparing the _Dandi March_ with other
+earlier historic marches had attracted their attention. They
+were thrilled by the idea that they were the eye-witnesses to
+a historic event which would decisively influence the future
+of the country as a whole. And they did not demand anything
+more than this.
+
+Meanwhile, Gandhi made another attempt to knock at
+the door of negotiations. On 2nd March, ten days before
+the start of the march, Gandhi wrote one more letter to the
+Viceroy. Enumerating the misdeeds of the British rule which
+was plundering India, he made it clear to the Viceroy that he
+did not "intend harm to a single Englishman or to any legitimate
+interest he may have in India". He also added that
+his was an attempt also to convert the British people. He
+appealed to the British to change their policies at least at that
+late stage, and warned the Viceroy that if there was no indication
+of such a change, he and his colleagues would proceed
+to disregard the provisions of the salt law.
+
+In response to the Viceroy's negative reply, Gandhi wrote:
+
+>On bended knees I asked for bread and I have received
+stone instead
+
+He added:
+
+>It is open to the Viceroy to do
+any other things except sending the usual reply. But the
+time is not yet. He represents a nation that does not easily
+give in, that does not easily repent. ... It readily listens to
+physical force. ... The Viceroy's reply does not surprise me. ...
+the only public peace the nation knows is the peace of the
+public prison. ... India is one vast prison-house. I repudiate
+this law, and regard it as my sacred duty to break the mournful
+monotony of the compulsory peace that is chocking the
+heart of the nation for want of free vent.
+
+It had become obvious even before the Dandi march began
+that it would develop into a great country-wide movement.
+Therefore, Gandhi and the Dandi marchers led by him were
+left free, while other Congress leaders were arrested and
+sentenced. Vallabhbhai Patel who was on his way to organize
+receptions to the Dandi marchers along their way, was arrested
+and sentenced even before the march started. Other
+Congress leaders were subjected to the same treatment all
+over the country. But the national sentiments that had been
+aroused around the _Dandi March_ did not weaken. On the
+contrary, the situation in the country as a whole had never
+been so militant. In the place of one arrested, several more
+came forward to take up his position. On one side were the
+reports on the daily arrests, the trials and sentences, etc., and
+the touching descriptions of the _Dandi March_ which appeared
+daily in the newspaper. On the other, there was the growing
+determination on the part of the people in millions to surge
+ahead braving all repressions until the victory is achieved.
+
+It was in this emotion-packed background that Gandhi
+and his followers reached Dandi on 5th April. Gandhi stated
+that they would disregard the salt law the next morning, followed
+by similar actions in different forms. Gandhi once
+again wrote to the Viceroy with an appeal to abolish the salt
+laws. Gandhi thus once again made it clear on behalf of the
+national _bourgeoisie_ that positive response would be forthcoming
+from the Congress if the rulers were willing to adopt the
+path of negotiation even at that late stage. But the government
+was not willing to oblige, which made the struggle
+inevitable.
