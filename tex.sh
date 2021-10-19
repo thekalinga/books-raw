@@ -2,15 +2,15 @@
 
 if [ $# -ne 1 ]
 then
-    echo -e "Enter directory name (that contains *.md). Options are\n"
-    for dir in $(ls -dt repo/*); do
+    echo -e "Enter directory name (that contains *.md). Options are\n\n<<oldest>>\n"
+    for dir in $(ls -dtr repo/*); do
       # if the directory has an `.md` file, lets assume it to be a book
       md_file_count=`ls -1 $dir/*.md 2>/dev/null | wc -l`
       if [[ $dir != "system/" ]] && [ $md_file_count != 0  ]; then
         echo ${dir%*/}
       fi
     done
-    echo ""
+    echo -e "\n<<newest>>"
     exit 1
 fi
 

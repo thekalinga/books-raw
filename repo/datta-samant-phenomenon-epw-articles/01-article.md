@@ -1,5 +1,3 @@
-# The Datta Samant Phenomenon
-
 Datta Samant has been the most
 talked of, enigmatic and controversial
 trade union leader in Maharashtra in
@@ -17,7 +15,7 @@ Maharashtra have by and large been
 portrayed as the struggles of Datta
 Samant.
 
-## THE HISTORICAL CONTEXT
+# THE HISTORICAL CONTEXT
 
 On July 30, 1980, during a fortnight
 when every organisation was organising
@@ -150,7 +148,7 @@ characterised by hostile non-acceptance
 of unionisation by most managements,
 did pioneering work of basic organisation.
 
-## PERIOD OF LEGALISM
+# PERIOD OF LEGALISM
 
 Conditions had begun to change in
 about a decade after independence.
@@ -230,7 +228,7 @@ communists were regaining their hold. In
 fact, formation of CITU was providing
 a channel for new militancy.
 
-## SHIV SENA WAVE
+# SHIV SENA WAVE
 
 1967 to 1972 were years of a greatly
 deviationist and disastrous wave, that of
@@ -303,7 +301,7 @@ great significance in which its terror had
 been fought back vehemently and it
 had been at the receiving end.
 
-## EMERGENCE OF DATTA SAMANT
+# EMERGENCE OF DATTA SAMANT
 
 With the accompanying publicity
 Datta Samant became a trade union
@@ -375,7 +373,7 @@ credibility as a militant did not suffer
 since he was detained under the MISA
 during this period.
 
-## POST-EMERGENCY MILITANCY
+# POST-EMERGENCY MILITANCY
 
 The period between April 1977 and
 May/June 1980 was one of electrifying
@@ -597,7 +595,7 @@ a phase when worker militancy was
 threatening to become generalised and
 political power was not stabilised.
 
-## LIMITATIONS OF RED UNIONS
+# LIMITATIONS OF RED UNIONS
 
 (b) _The red flag unions : respectability
 or offensive?_ There is hardly any
@@ -752,7 +750,7 @@ working class. The Datta Samant wave
 could only be conceivable in such a
 vacuum.
 
-## UNION RIVALRY IN NEW FORM
+# UNION RIVALRY IN NEW FORM
 
 (c) _Inter-union rivalry:_ Multiplicity
 of trade unions and rivalry among
@@ -916,7 +914,7 @@ The formation of a union under
 Samant's leadership in a factory
 heralded a strike or lockout.
 
-## UNCOMPROMISING CONFRONTATION
+# UNCOMPROMISING CONFRONTATION
 
 The attraction that Samant held
 for workers can now be fairly clearly
@@ -1044,7 +1042,7 @@ of the workers themselves. That is
 why he was appreciated and followed
 by the workers and not ridiculed.
 
-## SPEARHEAD OF AN UPSURGE
+# SPEARHEAD OF AN UPSURGE
 
 Datta Samant in many respects is
 not a trade unionist. He is only the
@@ -1204,7 +1202,7 @@ and the Janata Party were the only
 organisations invited to address his
 long march gatherings.
 
-## BASICALLY NEGATIVE IMPACT
+# BASICALLY NEGATIVE IMPACT
 
 Having noted his representative
 militancy and popularity, it is necessary
@@ -1363,7 +1361,7 @@ Confidence in militancy and efficiency
 of struggles is in a devious and subtle
 manner destroyed by these tactics.
 
-## AVERSE TO UNITY
+# AVERSE TO UNITY
 
 (5) It has been said earlier that
 Samant was unfavourable to any unity/

@@ -1,5 +1,3 @@
-# Full-time Trade Union Leaders & the Societal Context: The Bosses & Deputies
-
 The weakness of the contemporary
 trade union movement is
 mostly attributed to the introduction
@@ -21,7 +19,7 @@ structure, consisting of a hierarchy
 of leaders designated as
 'Bosses' and 'Deputies'.
 
-## Introduction
+# Introduction
 
 In the post-liberal India the triumph
 of capital over labor, as indicated by the
@@ -84,7 +82,7 @@ role of full-time trade union leaders, also
 known as 'outsiders', in the pre-liberal
 era.
 
-## Full-time Trade Union Leaders
+# Full-time Trade Union Leaders
 
 Leadership is important in the trade
 union movement across the world. However,
@@ -150,7 +148,7 @@ the influence structure, which implies not
 only a hierarchy of leaders but also a chain
 of influence (Merton, 1968:441--74).
 
-## The Context
+# The Context
 
 The trade union movement of Baroda
 city, as elsewhere, has been shaped by a
@@ -228,7 +226,7 @@ workers augmented industrial conflicts
 and fragmented the movement due
 to the inter-union rivalry.
 
-## The Societal Milieu
+# The Societal Milieu
 
 The leaders do not function in social
 vacuum. Local socio-political culture of a
@@ -263,7 +261,7 @@ the leaders functioned, is examined here
 by focusing on (1) socio-political culture,
 and (ii) the legal framework.
 
-## The Socio-Political Culture
+# The Socio-Political Culture
 
 Ostensibly, the short-term goal of the
 different federations was common,
@@ -310,7 +308,7 @@ CITU, and HMS, formed by other
 political parties, remained relatively
 weak.
 
-## The Legal Framework
+# The Legal Framework
 
 Legal framework of Gujarat trade
 unions mainly consisted of the following
@@ -451,7 +449,7 @@ the industries covered under the
 Act, promoting small, unstable,
 and almost fragile trade unions.
 
-## Inadequate Monetary Rewards
+# Inadequate Monetary Rewards
 
 Since most of the trade unions formed
 in the non-textile industries were small
@@ -520,7 +518,7 @@ of HMS was a science graduate and had
 undergone a short training course in labor
 relations at Harvard University, USA.
 
-## Irregular Working Hours & Disorganized Personal Life
+# Irregular Working Hours & Disorganized Personal Life
 
 The leaders' personal lives were
 highly disorganized. Their followers often
@@ -546,7 +544,7 @@ question, therefore, is: What was the
 motive force behind their commitment to
 their role as trade union leaders?
 
-## Non-Monetary Rewards
+# Non-Monetary Rewards
 
 Most of them took their work as a
 mission, considering the personal satisfaction
@@ -580,7 +578,7 @@ status, prestige, and political prominence,
 appear to be the main stimulants behind
 their trade union activities.
 
-## The Bosses & Deputies
+# The Bosses & Deputies
 
 Mostly, the full-time outside leaders
 are considered as a homogenous category;
@@ -673,7 +671,7 @@ extended beyond the city, to
 the state level, and in some instances,
 even to the national level.
 
-## The Socio-political Profiles
+# The Socio-political Profiles
 
 _Table 3_ gives an overview of the
 socio-political profile of the bosses and
@@ -736,7 +734,7 @@ several activities, having a division
 of work and differential location in
 the influence structure.
 
-## Main Role of the Boss
+# Main Role of the Boss
 
 Resolving collective disputes regarding
 wage revision was an important activity
@@ -862,7 +860,7 @@ the labor court's verdict and go up to the
 Supreme Court. Thus, it is a prolonged
 process."
 
-## Main Role of the Deputies
+# Main Role of the Deputies
 
 Many workers confront individual
 problems in their plants such as the disciplinary
@@ -966,7 +964,7 @@ of these workers would resign even before
 consulting us. Unfortunately, some
 of them are our own representatives."
 
-## Commonly Shared Activities
+# Commonly Shared Activities
 
 Some other activities, mentioned below,
 were shared by both the bosses and
@@ -1085,7 +1083,7 @@ would always remain in the forefront and
 the deputies would perform peripheral
 roles.
 
-## The Influence Structure
+# The Influence Structure
 
 The distinction between the bosses
 and the deputies does not have merely
@@ -1192,7 +1190,7 @@ from top to bottom and vice versa.
 link between the bosses and the
 rank and file workers.
 
-## Concluding Remarks
+# Concluding Remarks
 
 The foregoing analysis reveals that the
 trade union movement was mostly a function
@@ -1220,7 +1218,7 @@ bosses and deputies. The two strata not
 only reveal a leadership hierarchy but also
 a chain of influence.
 
-## Acknowledgements
+# Acknowledgements
 
 The author is grateful to all the full-time
 trade union leaders who provided him
@@ -1229,63 +1227,117 @@ due to N. R. Sheth, A. M. Shah, D.L. Sheth,
 and Bhikhu Parekh for their valuable comments
 on earlier draft of the article.
 
-## References
+# References
 
 ::: {#refs}
 
 Agarwala, Rina. (2013), Informal Labor, Formal Politics and Dignified Discontent in India, New York: Cambridge University Press.
 
+\ 
+
 Aggarwal R.D. (Ed.) (1972), Dynamics of Labor Relations in India: A Book of Readings. Bombay, Tata-McGraw-Hill.
+
+\ 
 
 Ahn, Pong-Sul. (2010), Growth and Decline of Political Unionism in India; The Need for a Paradigm Shift. Bangkok: ILO DWT for East and South East Asia and Pacific: [https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/---sro-bangkok/documents/publication/wcms_143481.pdf](https://www.ilo.org/wcmsp5/groups/public/---asia/---ro-bangkok/---sro-bangkok/documents/publication/wcms_143481.pdf). Accessed on 2 March 2015.
 
+\ 
+
 Bhattacharjee, Debashish (1989), Evolution of Unionism and Labor Market Structure: Case of Bombay Textile Mills-1947--1985, Economic and Political Weekly. 24 (21): M67-M76.
+
+\ 
 
 Chakrabarty, Anjan & Aupkumar Dhar (2008), Labor, Class, and Economy: Rc-thinking Trade Union Struggle, Economic and Political Weekly, 43(22):73--81
 
+\ 
+
 Chaudhuri, Mrinal Datta (1996). Labor Markets as Social Institutions in India. IRIS India Working Paper No.10. Maryland: University of Maryland. [http://pdf.usaid.gov/pdf_docs/Pnaby353.pdf](http://pdf.usaid.gov/pdf_docs/Pnaby353.pdf). Accessed on 7 March 2015.
+
+\ 
 
 Clawson, Dan & Mary Ann Clawson (1999), "What Has Happened to the Union Movement: Union Decline and Renewal", Annual Review of Sociology, 25:95--119.
 
+\ 
+
 Karnik, V.B.(1978), Indian Trade Unions: A Survey, Bombay, Popular Prakashan. Kennedy, V. D. (1966), Unions, Employers and Government. Bombay, Manaktalas.
+
+\ 
 
 Merton, Robert K. (1968), Social Theory and Social Structure, (1968 enlarged edition), Amerind Publishing Co. Pvt. Ltd., New Delhi.
 
+\ 
+
 Mitchell, Richard, Petra Mahy and Peter Gahan (2014), "The Evolution of Labor Law in India: An Overview and Commentary on Regulatory Objectives and Development", Asian Journal of Law and Society, 1 (2): 413
+
+\ 
 
 Patel, Pravin J. (2011), "Trade Union Movement in a Princely State: Tradition, Industrialisation and Social Change", Contribution to Indian Sociology, 45 (1): 27--54.
 
+\ 
+
 Punekar, S.D. & S. Madhuri (1967), Trade Union Leaderships in India: A Survey. Bombay, Lalwani Publishing House.
+
+\ 
 
 Ramaswamy, E.A. (1971), "Trade Unions and Electoral Process: General Elections in a Working Class Area", Indian Journal of Industrial Relations, 7(2): 205--27.
 
+\ 
+
 ---------. (1972), "Mid-term Poll in a Working Class Constituency in Tamil Nadu", Economic and Political Weekly, 1025--28.
+
+\ 
 
 ---------. (1973), "Politics and Organized Labor in India", Asian Survey. 8 (10): 914--28.
 
+\ 
+
 ---------. (1974), "The Role of the Trade Union Leaders in India", Hunian Organization. 33(2): 163--72.
+
+\ 
 
 ---------. (1977), The Worker and His Union: A Study in South India, Bombay: Allicd Publishers.
 
+\ 
+
 ---------. (1988). Worker Consciousness and The Trade Union Response, Delhi: Oxford University Press.
+
+\ 
 
 Rothemund, Indira (1981), "Pattern of Trade Union Leadership in Dhanbad Coalfields", Journal of Indian Law Institute, 23(4): 522--46.
 
+\ 
+
 Sheth, D.L. (2003), "Growth of Communal Polarization in Gujarat: The Making of a Hindutva Laboratory?" in Sandeep Pendse (ed.) Lessons from Gujarat, Mumbai: Vikas Adhyayan Kendra, 34--43.
+
+\ 
 
 NR Sheth (1993), "Labor Relations in the New Economic Environment", Vikalpa, 18 (3): 3--11.
 
+\ 
+
 Shyam Sundar, K. R. (2008), "From Politics of Fragmentation to Politics of Expansion and Integration?" in Jhon Benson & Ying Zhu (ed.s), Trade Unions in Asia: An Economic and Sociological Analysis, Oxon, Routledge..
+
+\ 
 
 ---------. (2010) "Emerging Trends in Employment Relations in India", Indian Journal of Industrial Relations. 45 (4): 585--95.
 
+\ 
+
 (2015), "Industrial Conflict in India in the Post-Reform Period: Who Said All Is Quiet on the Industrial Front?" Economic and Political Weekly, 50 (3): 43--53.
+
+\ 
 
 Sodhi, J.S. (2013), "Trade Unions in India: Changing Role and Perspective", Indian Journal of Industrial Relations. 49 (2): 168--84.
 
+\ 
+
 ---------. (2014), "Labor Law Reform in India", Indian Journal of Industrial Relations. 50 (1): 100--17.
 
+\ 
+
 Teitlebaum, Emmanuel (2009), "Was the Indian Labor Movement Ever Co-opted? Evaluating Standard Accounts", in Rina Agarwala and Ronald J. Herring (eds), Whatever Happened to Class? Plymouth: Lexington Books, 50--72.
+
+\ 
 
 Wiener, Myron (1962), The Politics of Scarcity: The Public Pressure and Political Response in India. Bombay, Asia Publishing House.
 

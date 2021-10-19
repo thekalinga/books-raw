@@ -1,5 +1,3 @@
-# The Republican Constitution in the Struggle for Socialism
-
 We are proud of our Republican Constitution. We consider its adoption
 by the Constituent Assembly to be a memorable event in the
 history of our country. That event put an end to the decades of

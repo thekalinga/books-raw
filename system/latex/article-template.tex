@@ -230,7 +230,7 @@ $endif$
 
 %%%% header related
 \usepackage{fancyhdr}
-\pagestyle{empty} % This must be here, because defaults are set and renewcommand for section marks will work.
+%\pagestyle{empty} % This must be here, because defaults are set and renewcommand for section marks will work.
 
 % used to set page header for frontmatter
 \fancypagestyle{frontmatter}{%
@@ -552,19 +552,19 @@ $if(toc-title)$
 $endif$
 $if(beamer)$
 \begin{frame}[allowframebreaks]
-$if(toc-title)$
+%$if(toc-title)$
   \frametitle{$toc-title$}
-$endif$
-  \tableofcontents[hideallsubsections]
+%$endif$
+%  \tableofcontents[hideallsubsections]
 \end{frame}
 $else$
 {
 $if(colorlinks)$
 \hypersetup{linkcolor=$if(toccolor)$$toccolor$$else$$endif$}
-$endif$
-\pagestyle{empty}
-\setcounter{tocdepth}{$toc-depth$}
-\tableofcontents
+%$endif$
+%\pagestyle{empty}
+%\setcounter{tocdepth}{$toc-depth$}
+%\tableofcontents
 }
 $endif$
 $endif$

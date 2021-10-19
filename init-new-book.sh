@@ -23,7 +23,10 @@ mkdir "$book_folder_path"
 
 # add appropriate header
 echo "# pick one
-#BOOK_TYPE=novel/textbook/report/article
+#BOOK_TYPE=novel
+#BOOK_TYPE=textbook
+#BOOK_TYPE=article
+#BOOK_TYPE=report
 " > "$book_folder_path/.config"
 
 
@@ -43,7 +46,7 @@ rights: © TODO
 TODO
 " > "$book_folder_path/00-metadata.md"
 
-echo "TODO" > "$book_folder_path/01-preface.md"
+echo "TODO" > "$book_folder_path/01-.md"
 
 cp system/misc/file-names-template.ods "$book_folder_path/file-names.ods"
 cp system/misc/help-template.adoc "$book_folder_path/help.adoc"

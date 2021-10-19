@@ -1,5 +1,27 @@
 = Help
 
+== Italicising
+
+For italicising, use this to ensure we always replace the correct word
+For e.g, handling this sequences correctly & dont place _ at wrong place if we need to italise the following 3 combinations in order
+
+see also below, see below, see
+
+[source]
+----
+([^\w_])(words\s*seperated\s*byspace)([^\w_])
+
+([^\w_])\b()\b([^\w_])
+$1_$2_$3
+
+Simpler version
+
+\b(words\s*seperated\s*byspace)\b
+
+\b()\b
+_$1_
+----
+
 == Naming the files & parts
 
 Update the chapter & file names in `file-names.ods`
@@ -154,22 +176,6 @@ In any case,
 $1,
 ----
 * IMPORTANT: space between pages that have no footnotes are also takes care of
-
-For italicising, use this to ensure we always replace the correct word
-For e.g, handling this sequences correctly & dont place _ at wrong place if we need to italise the following 3 combinations in order
-
-see also below, see below, see
-
-[source]
-----
-([^\w_])(words\s*seperated\s*byspace)([^\w_])
-$1_$2_$3
-
-Simpler version
-
-(words\s*seperated\s*byspace)
-_$1_
-----
 
 == common latin words that needs to be highlighted in law books
 
