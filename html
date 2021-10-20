@@ -1,0 +1,125 @@
+#!/bin/bash
+
+current_dir=$(pwd)
+script_dir=$(dirname "$0" | while read -r a; do cd "$a" && pwd && break; done)
+can_run_without_args=false
+
+if [[ $current_dir =~ ^$script_dir ]]; then
+  echo -e "Present directory is book root (or is under the book root): $script_dir\n"
+  # if the directory has an `.md` file, lets assume it to be a book
+  md_file_count=$(ls -1 "$current_dir"/*.md 2>/dev/null | wc -l)
+  #  ignore system directory & the root directory (as it has README.md)
+  if ! [[ $current_dir == "$script_dir" ]] && ! [[ $current_dir =~ /system$ ]] && ! [[ $current_dir =~ /gen(/|$) ]] && [ $md_file_count != 0 ]; then
+    echo -e "Present directory has *.md files\n"
+    book_dir_rel_path=$(echo "${current_dir/$script_dir/}" | sed "s/\///1")
+    can_run_without_args=true
+  fi
+else
+  echo -e "You are running the script from outside $script_dir\n"
+fi
+
+if ! [ "$can_run_without_args" = true ] && [ $# -ne 1 ]; then
+  echo -e "You can also specify relative path/full path of the book directory as argument to this script (or) run it without arguments from the book directory\n"
+
+  echo -e "Enter directory name (that contains *.md). Options are\n\n<<oldest>>\n"
+
+  # output will be of the format <<tstamp;rel_dir_path>>. We are specifying Internal Field Separator (IFS) to be ';' & assigning them to _(ignore) & rel_dir_path variables
+  while IFS=';' read -r _ rel_dir_path; do
+    # if the directory has an `.md` file, lets assume it to be a book
+    md_file_count=$(ls -1 "$rel_dir_path"/*.md 2>/dev/null | wc -l)
+    if ! [[ $rel_dir_path =~ /system$ ]] && ! [[ $rel_dir_path =~ /gen(/|$) ]] && [ $md_file_count != 0 ]; then
+      # replace just the 1st slash
+      echo ${rel_dir_path/$script_dir/} | sed "s/\///1"
+    fi
+  done < <(find $script_dir/repo -type d -printf "%T+;%p\n" | sort)
+  echo -e "\n<<newest>>"
+  exit 1
+fi
+
+if [[ -z "${book_dir_rel_path+set}" ]] && [ $# -eq 1 ]; then
+  #  Irrespective of whether the user has specified relative/absolute path for the book dir, lets simply convert it into relative path & work it from there
+  book_dir_rel_path=$(echo "${1/$script_dir/}" | sed "s/^\///1")
+fi
+
+echo -e "Book being considered is: $book_dir_rel_path\n"
+
+if ! [[ -d "${script_dir}/${book_dir_rel_path}" ]]; then
+  echo -e "Book relative specified \t\t $book_dir_rel_path\n\t\tcould not be found under ${script_dir}"
+fi
+
+# Lets set the current working directory as script directory so all operations are performed as if we are working from that directory & restore original dir on exit
+# pushd echos directorys being pushed onto sout. lets just redirect it into vaccum
+pushd "$(dirname "${BASH_SOURCE:0}")"  > /dev/null || exit
+trap popd EXIT
+
+echo -e "All operations would be performed using this directory as working directory: $(pwd)\n"
+
+if [ ! -f "$book_dir_rel_path/.config" ]; then
+  echo -e "Config file $book_dir_rel_path/.config is missing";
+  exit 1
+fi
+
+# Loads the configuration specific to the book. Usually contains settings like the tex template to use to use when exporting to pdf
+config_file_path=$script_dir/$book_dir_rel_path/.config
+source "$config_file_path"
+sourcing_status=$?
+
+if [ $sourcing_status != 0 ]; then
+  echo -e "\nError occurred while sourcing $config_file_path; Please fix the errors\n"
+  exit 1
+fi
+
+emphasize () {
+  echo "\e[1;33;4;44m$1\e[0m";
+}
+
+if [[ $BOOK_TYPE == "novel" ]]; then
+  template_file_name='novel-template.tex'
+  document_class='book'
+elif [[ $BOOK_TYPE == "textbook" ]]; then
+  template_file_name='textbook-template.tex'
+  document_class='book'
+elif [[ $BOOK_TYPE == "report" ]]; then
+  template_file_name='report-template.tex'
+  document_class='report'
+elif [[ $BOOK_TYPE == "article" ]]; then
+  template_file_name='article-template.tex'
+  document_class='article'
+elif [[ $BOOK_TYPE == "" ]]; then
+  echo -e "\nBOOK_TYPE not set in $(emphasize $config_file_path); Valid values are $(emphasize novel)/$(emphasize textbook)/$(emphasize report)/$(emphasize article)\n"
+  exit 1
+else
+  echo -e "\nInvalid BOOK_TYPE $(emphasize $BOOK_TYPE) specified in $(emphasize $config_file_path); Valid values are $(emphasize novel)/$(emphasize textbook)/$(emphasize report)/$(emphasize article)\n"
+  exit 1
+fi
+
+temp_dir=$(mktemp -d)
+gen_script=$temp_dir/gen.sh
+
+# we generate an intermediate script which will be executed inside the docker environment
+echo "#!/bin/sh
+
+[ ! -d gen ] && mkdir gen
+
+pandoc \
+    --toc \
+    --standalone \
+    --output=gen/$document_class.html \
+    *.md
+" > $gen_script
+
+chmod +x $gen_script
+
+echo -e "Written script to run inside docker to:\t$gen_script\n"
+echo -e "Executing the following command inside docker environment:\n
+docker run --rm --volume "`pwd`/$book_dir_rel_path:/data" \\
+       --volume "$temp_dir:/generator" \\
+       --user `id -u`:`id -g` \\
+       --entrypoint "/generator/gen.sh" \\
+       custom/luatex-pandoc-docker:1.0\n"
+
+docker run --rm --volume "`pwd`/$book_dir_rel_path:/data" \
+   --volume "$temp_dir:/generator" \
+   --user `id -u`:`id -g` \
+   --entrypoint "/generator/gen.sh" \
+   custom/luatex-pandoc-docker:1.0

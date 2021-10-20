@@ -3,22 +3,22 @@ movement in Andhra Pradesh, violent retaliation by the
 Maoists, and the state's brutal counter-attack (led by
 the greyhounds) to gain the upper hand, the Maoists are
 finding it difficult to retain the support of the next generation
-of the most oppressed. State-encouraged gangs, calling
-themselves tigers and cobras have unleashed private vengeance,
+of the most oppressed. State-encouraged gangs --- calling
+themselves tigers and cobras --- have unleashed private vengeance,
 which has played a major role in immobilising the substantial
 over-ground support of the movement. But above all is the
 tragic loss of the lives of organic leaders from among
 the most oppressed._
 
-\
+\ 
 
 Birpur, near the Godavari river in
 the northern corner of Karimnagar
 district, is the native village of
 Muppalla Lakshmana Rao, better known
 as Ganapathi, the general secretary of the
-central committee of the Communist Party
-of India (Maoist). Before a road-building
+central committee of the _Communist Party
+of India_ (_Maoist_). Before a road-building
 mania took over the state in the regime of
 Chandrababu Naidu, it was a village difficult
 to access. Today it is accessible by
@@ -37,10 +37,10 @@ sickle on top that are strewn all over
 Telangana. It was built recently by the
 police to signify what the police gleefully
 regard as their decisive achievement in
-gaining an upper hand over the Maoists
+gaining an upper hand over the _Maoists_
 in their major stronghold, the Godavari
 river basin of northern Telangana. That it
-was built in the village of the top Maoist
+was built in the village of the top _Maoist_
 leader and inaugurated by the most unlikely
 symbol of peace, the superintendent of
 police, Karimnagar, is a juvenile gesture that
@@ -48,22 +48,22 @@ could have easily seemed merely tasteless
 in a different context, but in fact symbolises
 a disquieting fact: the politically juvenile
 attitude of successive governments in
-Andhra Pradesh towards the Naxalites.
+Andhra Pradesh towards the _Naxalites_.
 
 Peace per se would be desired by many
 people in the area. But very few are gleeful
-that the Maoists have been pushed back
+that the _Maoists_ have been pushed back
 as never before. May be they are unrealistic
 but the ordinary people in their majority
-would want that the Maoists should be
-around, guns and all, but there should be
+would want that the _Maoists_ should be
+around --- guns and all --- but there should be
 peace in the sense of a life free of fear from
-this side or that. At the height of the sixmonth
-farce of talks between the Maoists
+this side or that. At the height of the six-month
+farce of talks between the _Maoists_
 and the government of Andhra Pradesh in
 the second half of 2004, a common apprehension
 heard in most of the long-term
-strongholds of the Naxalites was that the
+strongholds of the _Naxalites_ was that the
 talks was a good thing and it was hoped
 that some reduction of violence would
 result from it, but "they won't leave us and
@@ -72,17 +72,17 @@ go away, will they"?
 The fact is that in much of this area the
 first time the common people experienced
 anything resembling justice was when the
-Naxalite movement spread there and taught
+_Naxalite_ movement spread there and taught
 people not to take injustice lying down.
 Unlike the rest of the state where the
-Naxalites spread through the armed squads,
+_Naxalites_ spread through the armed squads,
 in northern Telangana there was a clear
 period in the late 1970s and early 1980s
 of the last century when it was the mass
-organisations, mainly the agricultural
+organisations --- mainly the agricultural
 labourers associations and the student and
-youth fronts, that were the instrument for
-the spread of Maoism as an ideology and
+youth fronts --- that were the instrument for
+the spread of _Maoism_ as an ideology and
 a political practice. The phase was soon to
 pass and the people would start depending
 on the armed squads for justice but the
@@ -97,11 +97,11 @@ and brought up in poor families of the very
 same villages. Today the old landlords are
 no longer there but new local elites have
 come up and there is this fear that if the
-Naxalites go away, "the poor cannot survive".
+_Naxalites_ go away, "the poor cannot survive".
 It is a matter of choice whether one
 sees this as revolution in the mould of
 Robinhood, or merely as one instance in
-the saga of a Maoist long march, which
+the saga of a _Maoist_ _long march_, which
 is not to be freezed into a representative
 moment.
 
@@ -119,21 +119,23 @@ secret of the fact that they were not merely
 goes. They had the political task of
 protecting the landlords and the medieval
 mould of society and they were executing
-the task. The underground Naxalite activists
+the task. The underground _Naxalite_ activists
 were no doubt armed, but their violence
 in those days was by and large
 selective and in any case not much in
 extent. On the other hand, it is said by
-everyone who knows -- including police
-officers at retirement -- that the fight of
-the Naxalites in those days was against
+everyone who knows --- including police
+officers at retirement --- that the fight of
+the _Naxalites_ in those days was against
 what is generally referred to as feudal
 domination, and the economic oppression
 of the poor, and in this they were remarkably
-successful. Abolition of 'begar' and
+successful. Abolition of '_begar_'[^begar] and
 payment of some thing close to minimum
 wages, two, impeccably constitutional
-tasks, were performed by the Naxalites.
+tasks, were performed by the _Naxalites_.
+
+[^begar]: _Veth_ (or _Vethi_ or _Vetti-chakiri_), also known as _Begar_ (from Persian), was a system of forced labour practised in pre-independence India, in which members of populace were compelled to perform unpaid work for the government/landlords.
 
 The fight for land was not so successful
 since the police would not allow the land
@@ -147,7 +149,7 @@ needed by the landless, it is slight in
 extent. More would be added to such
 fallow land in the days to come when
 cultivation of land would be forcibly
-stopped by the Naxalites, not to take over
+stopped by the _Naxalites_, not to take over
 the unconscionable acres of landlords, but
 as a measure of punishment imposed on
 any landed person for having harmed their
@@ -157,16 +159,16 @@ of any moment. The encouragement
 given to tribals in the forests to cut down
 the reserve forests and cultivate the land
 was far and away the most successful
-land struggle of the Naxalites, and not
+land struggle of the _Naxalites_, and not
 any struggle against landlords. Its extent
 in the five districts of Adilabad,
 Warangal, Khammam, East Godavari and
 Visakhapatnam has been plaintively estimated
 by the government as upwards of
 four lakh acres, counting together the
-achievement of all the Naxalite parties.
+achievement of all the _Naxalite_ parties.
 However, after about the first decade and
-a half the Naxalite parties came round to
+a half the _Naxalite_ parties came round to
 the view that beyond a point such a land
 struggle is harmful to the forest-dwellers
 themselves, and have since the mid-1990s
@@ -175,7 +177,7 @@ cutting of forests.
 
 It is tempting to speculate what would
 have been the result if the government had
-appreciated this phase of the Naxalite
+appreciated this phase of the _Naxalite_
 struggle for what it was, and responded
 by means other than repression. Forgetting
 class interests and all that, and accepting
@@ -198,7 +200,7 @@ not an innocent lapse, and the rulers had
 their reasons for that.
 
 The upshot was heavy repression on the
-Naxalite movement, in particular the rural
+_Naxalite_ movement, in particular the rural
 poor who were part of the movement or
 its social base. Extremes of torture and
 incarceration in unlawful police custody,
@@ -209,7 +211,7 @@ norm. And "encounter" killings began from
 where they left off the day the internal
 emergency was lifted. It would again be
 interesting to speculate what would
-have been the result if the Maoists had
+have been the result if the _Maoists_ had
 decided not to hit back but concentrate
 on exposing the anti-poor bias of the
 government and extend their mass activity
@@ -219,39 +221,39 @@ base. It would no doubt have been painful,
 but the alternative has not been any less
 painful.
 
-# Maoists Hit Back
+# _Maoists_ Hit Back
 
-As it happened, the Maoists hit back.
+As it happened, the _Maoists_ hit back.
 The first killing of a policeman took place
 in June 1985 at Dharmapuri in Karimnagar
 district. And then a sub-inspector of police
 was killed at Kazipet in Warangal district on
 September 2 that year. That was followed
 the next day by plainclothes policemen
-going in a procession behind the subinspector's
-dead body killing Ramanadham,
-a senior civil rights activist, in his
+going in a procession behind the sub-inspector's
+dead body killing Ramanadham
+--- a senior civil rights activist --- in his
 clinic. "Encounters" increased and decapitation
 of the limbs of police informers
 followed. The police acquired better
-weapons and the Maoists followed suit.
+weapons and the _Maoists_ followed suit.
 Sizeable paramilitary forces were sent to
 the state in the mid-1990s but the terror
 they created was such that they were soon
 sent back. Not, however, before they had
-a taste of the Naxalites' newly acquired
+a taste of the _Naxalites_' newly acquired
 proficiency in blowing up police vehicles
 at will. Almost from the mid-1980s brutal
 special police forces meant for eliminating
-Naxalites came into being and were allowed
-to operate totally incognito, the most
-successful being the greyhounds, which is
+_Naxalites_ came into being and were allowed
+to operate totally incognito --- the most
+successful being the _greyhounds_ --- which is
 a well trained anti-guerrilla force that lives
-and operates as the Naxalites' armed squads
+and operates as the _Naxalites_' armed squads
 do and is bound by no known law, including
 the Constitution of India. The armed
 squads soon became the focal point of the
-activity of the Maoists, barring the two
+activity of the _Maoists_, barring the two
 short periods when they were allowed
 freedom to conduct their political activity,
 both significantly in the immediate aftermath
@@ -259,11 +261,11 @@ of the Congress Party coming to
 power after prolonged Telugu Desam rule,
 leading to credible speculation about some
 pre-election agreement between the Congress
-and the Maoists (known till two years
-ago as the Communist Party of India
-(Maoist-Leninist) (Peoples War)).
+and the _Maoists_ (known till two years
+ago as the _Communist Party of India
+(Maoist-Leninist) (Peoples War)_).
 
-Soon the Maoists declared the whole of
+Soon the _Maoists_ declared the whole of
 northern Telangana, and the eastern ghat
 hills to the north of the Godavari river,
 guerrilla zones, followed later by a similar
@@ -277,13 +279,13 @@ state became the central instance of the
 struggle. This brought its own imperatives,
 which were no longer immediately congruent
 with the needs of the masses who
-continued to be the base of the Maoists.
+continued to be the base of the _Maoists_.
 So much so that while the youth in the areas
 of their activity look upon them as militant
 heroes even when they do not approve of
 them, it is the elderly who talk of them with
 affection. It is the parents' generation that
-remembers the days when begar used to
+remembers the days when _begar_ used to
 be demanded by the landlord and a pittance
 paid for wage labour. Many of the youth
 frankly say, they may be valiant fighters,
@@ -291,7 +293,7 @@ but what have they done for us except to
 bring the police to our villages?
 
 The state has its difficulties dealing with
-mass movements but it has tested strategies
+mass movements, but it has tested strategies
 for dealing with armed struggles. It creates
 informers and agents for itself from the
 very masses the insurgency claims to
@@ -308,8 +310,8 @@ people of their own social base than their
 purported enemy classes. This may be taken
 as one of the invariant laws of the sociology
 of armed insurgencies. The very fact
-that this is true of the Naxalites, the most
-politically sensitive of all insurgents, is
+that this is true of the _Naxalites_ --- the most
+politically sensitive of all insurgents --- is
 proof enough. And this is true even without
 the impatience that comes with being
 armed, which results in more violence
@@ -323,9 +325,9 @@ claim that the village committees (often
 semi-secret) established by them deal with
 these problems, though not in the open as
 in the past, the overwhelming reality, except
-in totally isolated villages -- and totally
+in totally isolated villages --- and totally
 isolated areas such as the Abujmarh hills
-of Bastar -- where such committees can
+of Bastar --- where such committees can
 actually function, is that it is the armed
 squads that deal with the problems. And
 they too often deal with them in a rough
@@ -336,8 +338,8 @@ are taken care of. The people for their part
 have come to look up to the squads as a
 substitute for their own struggle for justice.
 This has, on the one hand, created more
-enemies -- victims of revolutionary arbitrariness
--- than they need have made, and,
+enemies --- victims of revolutionary arbitrariness
+--- than they need have made, and,
 on the other, corrupted the masses into
 receivers of justice rather than fighters for
 it. You only have to report to the militants
@@ -352,7 +354,7 @@ militants turn the tables on the police.
 
 But even where such issues are addressed,
 the central place in the practice of the
-Maoists has been taken up by the guerrilla
+_Maoists_ has been taken up by the guerrilla
 struggle against the state, aimed at weakening
 its hold to a point where the area
 can be considered a liberated zone. This
@@ -360,14 +362,14 @@ requires a range of acts of violence, which
 have no direct relation to the immediate
 realisation of any rights for the masses,
 though the resulting repression invariably
-hits at the masses. The Maoists have
+hits at the masses. The _Maoists_ have
 developed considerable expertise of a
 military character, which is admired even
 by policemen in private, even as their
 political development has stagnated. The
 state has met this with even more brutal
 violence, which has bred further violence
-from the Maoists.
+from the _Maoists_.
 
 For at least about a decade now, each
 year has seen between 300 to 400 deaths
@@ -377,26 +379,26 @@ scale, thanks partly to its resources, partly
 to the demise of values at all levels in
 society, including the lower-most, and
 partly to the large number of enemies
-created by the Maoists around themselves
+created by the _Maoists_ around themselves
 in the course of their battle with the state,
 the state's ability for the same reasons to
-inject covert operatives into the Maoist
+inject covert operatives into the _Maoist_
 ranks, and the very successful forays of
-the greyhounds deep into the forests, has
+the _greyhounds_ deep into the forests, has
 resulted in its establishing a clear upperhand
 in this killing game for the present.
 
 # Retaining Support of the Next Generation
 
-But the difficulties faced by the Maoists
+But the difficulties faced by the _Maoists_
 do not end here. To discuss the rest of them
 requires attention to considerations that
-Marxism at its best would find difficult to
+_Marxism_ at its best would find difficult to
 deal with, given the lack of any attention
 to an understanding of the human subject
 of history other than the practically useless
 profundity that "it makes itself while making
-history". And Maoism is not Marxism
+history". And _Maoism_ is not _Marxism_
 at its best, at any rate for this purpose. The
 strategy of providing armed support to the
 aspirations of the masses succeeds at the
@@ -423,23 +425,23 @@ struggle the radicals proceed to fight the
 state over the heads of the masses, the
 masses can withdraw further, and even
 become resentful. After the first immense
-success of the Maoists among the Gonds
+success of the _Maoists_ among the _Gonds_
 of Adilabad district in the late 1970s and
 early 1980s, from the next generation that
 came of age in the1990s one often heard
-the honest query: are adivasis the guinea
+the honest query: are _adivasis_ the guinea
 pigs of revolution? The temptation to which
-the Maoists have too often succumbed,
+the _Maoists_ have too often succumbed,
 namely, to condemn all such doubt as
-arising from the "petty-bourgeois tendencies"
+arising from the "_petty-bourgeois_ tendencies"
 of a new elite only makes matters
 worse. In this sense the real challenge for
-the Maoists is not whether they can militarily
-get the better of the greyhounds,
+the _Maoists_ is not whether they can militarily
+get the better of the _greyhounds_,
 who have a clear upper hand at present,
 but whether they can retain active support
 from one generation to the next
-while retaining their Maoist strategy, or
+while retaining their _Maoist_ strategy, or
 even by recasting it to suit the changes in
 the needs and aspirations of the new
 generation in the changed social context
@@ -452,19 +454,19 @@ happens to people who find political
 awakening from a state of dormancy is to
 turn to a search for their own social identity,
 whether caste, tribe or gender. This
-has led to many ex-Naxalites becoming
-Ambedkarites, or at least sympathisers of
-Ambedkarism, since any way the overwhelming
+has led to many ex-_Naxalites_ becoming
+_Ambedkarites_, or at least sympathisers of
+_Ambedkarism_, since any way the overwhelming
 majority of them are from the
 outcastes or backward castes of Hindu
 society. This does not necessarily mean
 that they have lost interest in revolution
 as the communists understand it. But the
-Maoists have too often reacted with a lack
+_Maoists_ have too often reacted with a lack
 of sympathy to this phenomenon. So much
 so that while their cadre, and leaders too,
 except a handful at the very top, are from the
-dalit, adivasi or backward communities,
+dalit, _adivasi_ or backward communities,
 unlike the Parliamentary left which continues
 to be a bastion of upper castes, and while
 they have in the last few years inducted
@@ -477,17 +479,17 @@ too, hostile to any expression of identity
 politics, seen invariably as opportunistic
 deviance.
 
-Instead the Maoist response to stagnation
+Instead the _Maoist_ response to stagnation
 after the first round has been to transfer
 attention to a new area amenable to initiation
-of their kind of politics -- and there
+of their kind of politics --- and there
 are many such areas, thanks to the utter
 neglect of vast regions by governance in
 the last 50 years, and the current philosophy
 of governance which is a philosophy
-of non-governance -- and do the same
+of non-governance --- and do the same
 thing again. Other Marxist-Leninist groups
-have often criticised the Maoists for this
+have often criticised the _Maoists_ for this
 hop, skip and jump mode of revolution but
 they have never taken the criticism seriously,
 probably regarding their conduct as
@@ -508,7 +510,7 @@ northern Telangana. But the spread has not
 been as smooth and successful as in northern
 Telangana.
 
-Whatever Maoist theory may say, the
+Whatever _Maoist_ theory may say, the
 guerrilla phase of struggle involves establishing
 armed dominion over society, often
 described by the police with exaggeration
@@ -523,12 +525,12 @@ the Nallamala forests, is the most factious
 area. Armed activity of any kind, with even
 the best of intentions, can degenerate easily
 into factious violence. The fate of the
-Maoists in Anantapur in Rayalaseema is
+_Maoists_ in Anantapur in Rayalaseema is
 a classic instance of this. More vitally,
 armed dominion in factious areas calls up
 private vengeance which the state will not
-hesitate to encourage. The 'Nallamala
-cobras' who have committed three murders
+hesitate to encourage. The '_Nallamala
+cobras_' who have committed three murders
 of democratic activists in the last nine
 months and silenced much of democratic
 activity in the southern districts constitute
@@ -541,33 +543,33 @@ in those who partake of it. It is a species
 of conceit that refuses to see that this
 applies to political strategies too. To speak
 of negative traits alone, just as the
-Sarvodaya philosophy attracts a lot of
+_Sarvodaya_ philosophy attracts a lot of
 hypocrisy and the parliamentary strategy
-of the Communist Party of India and the
-Communist Party of India (Marxist) a lot
+of the _Communist Party of India_ and the
+_Communist Party of India (Marxist)_ a lot
 of opportunism, strategies of militancy
 attract unruly types who straddle the border
 line between rebellion and mere rowdyism.
 These types can, and have, caused
-considerable harm to the Maoists and have
+considerable harm to the _Maoists_ and have
 constituted easy subjects for the state's
 tactics of shaping covert operatives inside
 their ranks. Once outside the party they have
-fit equally well the role of "renegades" as
+fit equally well the role of "_renegades_" as
 they are called in Kashmir. The conduct
-of the Maoists who leave little room for
+of the _Maoists_ who leave little room for
 appeal for persons whom they brand
-enemies of the people has in turn created
-cadre for the vengeful renegades, and the
-resulting gangs that call themselves cobras
-and tigers of various kinds have played a
+_enemies of the people_ has in turn created
+cadre for the _vengeful renegades_, and the
+resulting gangs that call themselves _cobras_
+and _tigers_ of various kinds have played a
 major role in immobilising the very substantial
 overground support activity the
-Naxalite movement had.
+_Naxalite_ movement had.
 
 # Decimation of Organic Leaders
 
-This is as far as the story of Maoist
+This is as far as the story of _Maoist_
 revolution has come in Andhra Pradesh.
 Since there is little sign of any rethinking
 on either side, one has no basis for expressing
@@ -592,7 +594,7 @@ such elements from amongst themselves.
 The rights or wrongs of their choice has
 no bearing on the tragedy of the decimation
 of this organic leadership. They chose to
-be Maoists, but they could have chosen to
+be _Maoists_, but they could have chosen to
 be something else, and whichever the
 choice, they would have added to the
 strength of the oppressed. The daily loss
