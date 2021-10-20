@@ -1,10 +1,5 @@
 ---
-title: "balagopal Land Unrest in AP-II Impact of Grants to Industries"
-author: TODO
+title: "Land Unrest in Andhra Pradesh-II: Impact of Grants to Industries"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

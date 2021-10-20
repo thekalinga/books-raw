@@ -32,9 +32,9 @@ that there was any amount of land available
 to be put at the disposal of the
 corporates for investment, and the rich
 in general for building nice big nests for
-themselves. Special economic zones
-(SEZs), which are not factory sites but
-nice and spacious townships, are being
+themselves. _Special Economic Zones_
+(_SEZs_) --- which are not factory sites but
+nice and spacious townships --- are being
 sanctioned left, right and centre, and
 industrialists who ask for land are being
 given huge tracts without asking why
@@ -48,7 +48,7 @@ leading states in this bonanza.
 # Land Agitation
 
 That is why the agitation for land taken
-up by the CPI(M) and CPI in this state,
+up by the _CPI(M)_ and _CPI_ in this state,
 which attracted nationwide attention when
 policemen armed with automatic weapons
 mowed down six persons (a seventh died
@@ -60,7 +60,7 @@ of them simple and straightforward: a
 hundred square yards of house site for all
 the homeless, which the government should
 have no difficulty finding because it is
-able to find thousands of acres for SEZs,
+able to find thousands of acres for _SEZs_,
 and for the rich in general.
 
 The sad fact that lies behind this demand
@@ -88,11 +88,11 @@ regularised, nor that a reasonable alternative
 must necessarily be provided before
 asking them to move. While even colonial
 land regulations in many parts of the
-country (the Madras Board of Revenue
-Standing Orders, for instance) adopted
+country (the _Madras Board of Revenue
+Standing Orders_, for instance) adopted
 the attitude that homeless poor who have
 occupied government land shall be given
-occupancy rights and not evicted, the
+_occupancy rights_ and not evicted, the
 Supreme Court has strangely found it
 difficult to say so: the most generous
 judgement that has come from the highest
@@ -102,10 +102,10 @@ years, shall be given at least two weeks
 time before being forcibly evicted. As for
 provision of alternative house sites to such
 hutment dwellers, the Supreme Court has
-said in the infamous case of Almitra
-Patel vs Union of India (2000) that such
-a proposal amounts to rewarding a pick
-pocket. That the comment was made in
+said in the infamous case of _Almitra
+Patel vs Union of India (2000)_ that such
+a proposal amounts to _rewarding a pick
+pocket_. That the comment was made in
 the course of expression of righteous
 anger (of which the courts possess
 plenty) at slum lords who are said to have
@@ -133,7 +133,7 @@ people in possession of some land,
 whether they will ever get title to it or
 not, and thereby creates more enthusiasm
 than the more usual method of giving
-applications to the tehsildar and awaiting
+applications to the _tehsildar_ and awaiting
 his pleasure. It also drives home the belief
 that the landless have a right to land and
 are not "encroachers" as the government
@@ -147,7 +147,7 @@ way that people can simply occupy wasteland
 and get title to it. Even if the government
 reacts as it should, namely, declare
 which part of the land occupied by the
-agitators is leasable or assignable in law
+agitators is _leasable_ or _assignable_ in law
 and proceeds to confer rights to it, it still
 has to follow the legal regime applicable
 to such conferment, and it may well turn
@@ -160,7 +160,7 @@ participants in the agitation who have
 braved police lathis may not be so generous,
 and there could be bitterness at the end.
 More commonly, the land occupied may
-be of the non-leasable or non-assignable
+be of the _non-leasable_ or _non-assignable_
 category, that is to say pastures, water
 course, reserve forest, pathway, graveyard,
 etc. Or it may have already been assigned
@@ -179,7 +179,7 @@ by the rich. At any rate the left parties
 can be credited with having brought the
 land rights of the poor, an issue which
 had moved on to the political backburner
-with the brutal suppression of the Naxalites,
+with the brutal suppression of the _Naxalites_,
 back on to the political agenda, and focused
 attention on the obscene generosity of the
 government in handing over huge estates
@@ -189,50 +189,50 @@ The other demand raised by the left
 parties refers back to an outcome of the
 still-born talks between the Congress
 government and the other kind of left, the
-Maoists, in 2004. Probably the only useful
+_Maoists_, in 2004. Probably the only useful
 discussion that took place in the course
 of that aimless exercise was about land.
 Occupation of land by the poor has always
-been an integral part of Naxalite activity,
+been an integral part of _Naxalite_ activity,
 even if it never received the kind of appreciative
 treatment the media has reserved
-for the CPI(M) and CPI; it was ignored
+for the _CPI(M)_ and _CPI_; it was ignored
 or derided as antisocial lawlessness. The
-Naxalite movement has from the beginning
+_Naxalite_ movement has from the beginning
 encouraged and led the poor to occupy
 both government and private land, though
-in later years, especially with the Maoists,
+in later years, especially with the _Maoists_,
 it often became symbolic occupation by
 armed squads on behalf of the fearful poor.
 If it was private land the police often
 moved in to evict and arrest the poor who
-had occupied it with Naxalite help, and
+had occupied it with _Naxalite_ help, and
 where the landowner was reluctant to
-move back for fear of Naxalite retaliation,
+move back for fear of _Naxalite_ retaliation,
 the land has remained fallow. There are
 thousands of such acres in the Telangana
 districts. Occupation of public land has had
 a more mixed fate. Some of it remains with
 the poor, especially forest land cleared and
-brought under plough by the adivasis.
+brought under plough by the _adivasis_.
 
-# Institution of a Land Commission
+# Institution of a _Land Commission_
 
-In the talks, the Naxalites insisted on
-appointment of a land commission
+In the talks, the _Naxalites_ insisted on
+appointment of a _land commission_
 consisting of not merely government
 representatives or retired judges but also
-public spirited persons with known involvement
+public-spirited persons with known involvement
 in such matters, to go into the
 failure of land reforms and the various
 schemes for distribution of public land to
 the poor. The government was reluctant
-to involve the kind of public spirited
-persons the Naxalites wanted in the commission,
-but appointed instead a Land
-Committee with two cabinet ministers, a
+to involve the kind of public-spirited
+persons the _Naxalites_ wanted in the commission,
+but appointed instead a _Land
+Committee_ with two cabinet ministers, a
 retired journalist, a senior Congressman
-and four IAS officers (one of them retired).
+and four _IAS officers_ (one of them retired).
 This committee which was appointed in
 December 2004 at the end of the six
 month ceasefire, almost simultaneous with
@@ -242,18 +242,18 @@ Though the committee is referred to by
 the name of Koneru Ranga Rao, the
 minister who was its chairperson, its report
 is evidently the outcome of a self-critical
-exercise by the IAS officers in it, who
+exercise by the _IAS officers_ in it, who
 not only know why land reforms have
 failed but are party to the failure.
 
-IAS officers spend much of their tenure
+_IAS officers_ spend much of their tenure
 dealing with rights in public land, either
 as administrators or as adjudicators, and
 when they judge the failure of public
 policy in the matter, they are judging their
 own failure as much as that of the policy.
-As self-criticism, the Ranga Rao Committee
-report is a commendable exercise,
+As self-criticism, the _Ranga Rao Committee
+report_ is a commendable exercise,
 and could well have been subtitled 'The
 Frank Confessions of the Land Administration
 of Andhra Pradesh'. It is written
@@ -264,8 +264,8 @@ variety of persons, all the way from
 William Shakespeare and Joseph Conrad
 to an American Indian chief answering
 the white settlers. The implementation
-of the recommendations of this com-mittee
-in toto is the other demand of the left
+of the recommendations of this committee
+_in toto_ is the other demand of the left
 parties' agitation. The government, after
 initial reluctance, which was strange as the
 report was by a committee consisting of its
@@ -298,12 +298,12 @@ about 3 acres to about 2 acres. Needless
 to say, the land is usually of much
 poorer quality than the average. Being 16
 per cent of the state's population, the
-dalit communities control only 7.5 per
+_dalit_ communities control only 7.5 per
 cent of the cultivated area in the state.
 
 This indicates a sizeable and growing
 problem of landlessness, especially among
-the dalits. The two remedies envisaged
+the _dalits_. The two remedies envisaged
 all over the country are: takeover of land
 owned by landlords in excess of a predetermined
 ceiling to be distributed to the
@@ -337,11 +337,11 @@ put in possession of the land.
 
 Placing together this minuscule redistribution
 with the statistics concerning
-landlessness and near landlessness --
+landlessness and near landlessness ---
 accounting for 46 per cent of rural population
--- given above, one can understand
+--- given above, one can understand
 why land ceiling is described by the
-Ranga Rao Committee as an "unfinished
+_Ranga Rao Committee_ as an "unfinished
 agenda". That phrase gives the impression
 that it can yet be finished, but that will
 never be. The committee has a hope that
@@ -370,8 +370,8 @@ Yet a few things may still be salvaged:
 the committee has noted the fact that those
 who are newly purchasing agricultural
 land are not filing declarations under the
-ceiling law -- they have to file the declaration
-within 60 days -- and are not being
+ceiling law --- they have to file the declaration
+within 60 days --- and are not being
 prosecuted for that by the government,
 though the law provides for a two-year
 prison sentence for not filing a decla-ration
@@ -384,25 +384,25 @@ make little difference in the face of the
 massive requirement. The fixing of land
 ceiling is not an "unfinished agenda" but
 an irretrievably lost opportunity. It has
-been hostage to the law of property as
+been hostage to the _law of property_ as
 written into the Indian Constitution and
 as understood by the courts. This is politely
 referred to as "legal hurdles" by the
 committee, but the law itself, namely, the
-law of property as understood by the
+_law of property_ as understood by the
 courts, is the biggest hurdle. The judiciary
 has a uniform and deep love of property,
 which has coloured its attitude towards
 land reforms. Unless the political class of
 the country agrees to overhaul the entire
-law of property and the property structure,
+_law of property_ and the property structure,
 and writes that overhaul into the Constitution
 itself, there is little chance of the
 agenda of land reforms being "fulfilled"
 except by being discarded.
 
 As the ceiling laws did not meet even
-a fraction of the need arising from landlessness,
+a fraction of the need arising from land-lessness,
 the government perforce turned
 to distribution of public land to the poor.
 All states of India have some policies and
@@ -461,7 +461,7 @@ cheap to someone who has the capital to
 bring it under cultivation. The government
 never heeded the demand that if assignment
 is to be meaningful, it should improve
-the land, make it cultivable, and in rainscarce
+the land, make it cultivable, and in rain-scarce
 areas provide some water source
 too. Finally, there were cases of the powerful
 encroaching onto the assigned land by
@@ -473,9 +473,9 @@ have been alienated. The left parties have
 alleged that about 20 lakh acres have been
 alienated, though the source of their information
 is not known. Such alienation
-is illegal under the AP Assigned Lands
-(Prohibition of Transfers) Act, 1977
-(popularly known as Act 9 of 1977), which
+is illegal under the _AP Assigned Lands
+(Prohibition of Transfers) Act, 1977_
+(popularly known as _Act 9 of 1977_), which
 operates with retrospective effect. The Act
 works on the beneficent assumption that
 if land assigned to the poor has been
@@ -486,7 +486,7 @@ and handing the land back to the grantee
 even if he has knowingly sold it. (But if
 he sells it again, he will not get it back:
 it will revert to the government.) If the
-tehsildars who hold the exclusive power
+_tehsildars_ who hold the exclusive power
 to cancel illegal alienation of assigned land
 had acted as they are supposed to under
 the law, the 10 lakh acres would not have
@@ -530,23 +530,23 @@ for he has been known to have plenty of
 much more solid property in urban India.
 
 The government thereupon declared its
-intention to apply Act 9 of 1977 strictly
+intention to apply _Act 9 of 1977_ strictly
 to all alienated assigned land and cancel
 every transfer. It would have been the
-simplest thing, as the Ranga Rao Committee
-noted, for every tehsil office has
+simplest thing, as the _Ranga Rao Committee_
+noted, for every _tehsil_ office has
 the record of assignments made and every
 village cultivation account shows the name
 of the person in actual possession of
 every bit of land. All that was needed
 was to make this information public and
-appoint special tehsildars to take up the
+appoint special _tehsildars_ to take up the
 cases, cancel all the transfers and restore
 the land to the original grantee. The
 government did no such thing, but instead
-made an amendment to the Act 9 of 1977.
+made an amendment to the _Act 9 of 1977_.
 The amendment says that after cancelling
-the transfer the tehsildar is not required to
+the transfer the _tehsildar_ is not required to
 give the land back to the original grantee
 if the area has been notified for this purpose
 "in public interest and for a public
@@ -559,10 +559,10 @@ itself knows that about one-fourth of the
 land assigned to the poor has been alienated,
 and its opponents say that one-half
 has been. So by issuing notifications
-under the amended Act 9 of 1977, it takes
+under the amended _Act 9 of 1977_, it takes
 the land back to be given to some enterprise
-or the other, or some special economic
-zone. It means that so much land goes for
+or the other, or some _special economic
+zone_. It means that so much land goes for
 ever out of the reach of the poor in general,
 and not merely from the original grantee
 of the land. The whole exercise begun in
@@ -601,13 +601,13 @@ wrongfully alienated lands which the rich
 have got possession of. Such occupation
 certainly inspires the poor, but whether it
 will have any more lasting consequence
-than making for good TV visuals -- the
-sea of red flags, especially -- needs to be
+than making for good TV visuals --- the
+sea of red flags, especially --- needs to be
 seen. Except at Mudigonda, the police
 have been exhibiting a tolerance which
 is very democratic but is uncharacteristic
 of the AP Police. The special position of
-the CPI(M), especially, which has enough
+the _CPI(M)_, especially, which has enough
 votes to make a difference in a close
 contest in a few districts and has made it
 known that in the matter of electoral alliances
@@ -628,7 +628,7 @@ it was in Chandrababu Naidu that one
 saw for the first time a chief minister who
 would talk of the poor and of poverty
 with open contempt. The political opportunism
-of the CPI(M) has allowed him
+of the _CPI(M)_ has allowed him
 to wipe off the stigma of that arrogance
 and pose as a friend of the poor.
 
@@ -636,14 +636,14 @@ But ceiling surplus land and assignable
 public land are not the only issues agitating
 the villages of Andhra Pradesh. There
 are two other categories of land: that
-being acquired for industries and special
-economic zones, and tribal land in the
-scheduled areas. The former category
+being acquired for industries and _Special
+Economic Zones_, and tribal land in the
+_scheduled areas_. The former category
 accounts for nothing less than two lakh
 acres, and probably much more than that
 and the latter is a tragedy all by itself,
 dealt with quite elaborately but still inadequately
-by the Ranga Rao Committee.
+by the _Ranga Rao Committee_.
 Villages across the state are agitated by
 these issues, but they require separate
 treatment, both for reasons of space and

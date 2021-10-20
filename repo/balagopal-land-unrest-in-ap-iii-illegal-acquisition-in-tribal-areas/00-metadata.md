@@ -1,10 +1,5 @@
 ---
-title: "balagopal Land Unrest in AP-III Illegal Acquisition in Tribal Areas"
-author: TODO
+title: "Land Unrest in Andhra Pradesh-III: Illegal Acquisition in Tribal Areas"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-
