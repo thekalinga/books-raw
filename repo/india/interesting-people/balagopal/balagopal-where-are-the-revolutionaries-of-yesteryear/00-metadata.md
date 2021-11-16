@@ -1,10 +1,5 @@
 ---
-title: "balagopal Where are the Revolutionaries of Yesteryear"
-author: TODO
+title: "Where are the Revolutionaries of Yesteryear ... ?"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

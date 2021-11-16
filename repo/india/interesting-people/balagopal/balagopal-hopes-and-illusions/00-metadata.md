@@ -1,10 +1,5 @@
 ---
-title: "balagopal Hopes and Illusions"
-author: TODO
+title: "Hopes and Illusions"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

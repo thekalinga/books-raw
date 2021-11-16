@@ -1,10 +1,5 @@
 ---
-title: "balagopal Cherabanda Raju"
-author: TODO
+title: "Cherabanda Raju"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

@@ -1,10 +1,6 @@
 ---
-title: "balagopal Justice for Dalits among Dalits"
-author: TODO
+title: "Justice for Dalits among Dalits"
+subtitle: "All the Ghosts Resurface"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

@@ -1,10 +1,5 @@
 ---
-title: "balagopal Misuse of the law why only Sec498-A"
-author: TODO
+title: "Misuse of the law: Why only Sec498-A"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

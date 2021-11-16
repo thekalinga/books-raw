@@ -1,10 +1,5 @@
 ---
-title: "balagopal Answers to Sukumarans questionnaire"
-author: TODO
+title: "Answers to Sukumarans questionnaire"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

@@ -1,10 +1,5 @@
 ---
-title: "balagopal Iraq a moral for the worlds future"
-author: TODO
+title: "Iraq: A moral for the world's future"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

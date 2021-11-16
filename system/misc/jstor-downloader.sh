@@ -17,4 +17,4 @@ do
       -o "$i.jpeg"
 done
 
-convert "*.{jpeg}" -quality 100 merged.pdf
+convert "*.{jpeg}" -quality 100 o.pdf

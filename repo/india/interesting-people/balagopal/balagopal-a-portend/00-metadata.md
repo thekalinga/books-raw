@@ -1,10 +1,7 @@
 ---
-title: "balagopal A Portend"
-author: TODO
+title: "A Portend"
+author:
+  - K Balagopal
+  - G Haragopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

@@ -1,10 +1,6 @@
 ---
-title: "balagopal Karthik Pannalal"
-author: TODO
+title: "Karthik Pannalal"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
 

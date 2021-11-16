@@ -1,10 +1,5 @@
 ---
-title: "balagopal Police & Democracy The Worsening Scene"
-author: TODO
+title: "Police & Democracy: The Worsening Scene"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

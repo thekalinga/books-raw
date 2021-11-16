@@ -1,10 +1,5 @@
 ---
-title: "balagopal Cause Effect and Excuses the Narayanpet killing"
-author: TODO
+title: "Cause, Effect and Excuses: the Narayanpet killing and its aftermath"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

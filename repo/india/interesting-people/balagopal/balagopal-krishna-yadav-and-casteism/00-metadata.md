@@ -1,10 +1,5 @@
 ---
-title: "balagopal Krishna Yadav and Casteism"
-author: TODO
+title: "Krishna Yadav and Casteism"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

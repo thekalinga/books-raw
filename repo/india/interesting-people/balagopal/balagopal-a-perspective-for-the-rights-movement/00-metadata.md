@@ -1,10 +1,5 @@
 ---
-title: "balagopal A Perspective for the Rights Movement"
-author: TODO
+title: "A Perspective for the Rights Movement"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

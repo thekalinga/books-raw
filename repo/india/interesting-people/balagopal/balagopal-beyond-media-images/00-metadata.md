@@ -1,10 +1,5 @@
 ---
-title: "balagopal Beyond Media Images"
-author: TODO
+title: "Beyond Media Images"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

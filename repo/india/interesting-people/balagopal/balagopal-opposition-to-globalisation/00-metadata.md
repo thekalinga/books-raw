@@ -1,10 +1,5 @@
 ---
-title: "balagopal Opposition to globalisation"
-author: TODO
+title: "The World Social Forum arrives at Hyderabad: Opposition to globalization"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

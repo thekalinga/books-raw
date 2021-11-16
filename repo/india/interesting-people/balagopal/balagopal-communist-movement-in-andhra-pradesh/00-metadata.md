@@ -1,10 +1,5 @@
 ---
-title: "balagopal Communist Movement in Andhra Pradesh"
-author: TODO
+title: "Communist Movement in Andhra Pradesh"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

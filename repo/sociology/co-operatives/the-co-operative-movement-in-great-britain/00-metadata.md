@@ -1,5 +1,5 @@
 ---
-title: "balagopal Fient in the East Attack in the West"
+title: "The co-operative movement in Great Britain"
 author: TODO
 lang: en
 top-level-division: TODO part/chapter

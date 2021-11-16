@@ -1,10 +1,5 @@
 ---
-title: "balagopal Civil Rights Broadening Concerns"
-author: TODO
+title: "Civil Rights: Broadening Concerns"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

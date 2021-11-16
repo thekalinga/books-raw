@@ -1,10 +1,6 @@
 ---
-title: "balagopal Naxalites in Andhra Pradesh Peace talks"
-author: TODO
+title: "Naxalites in Andhra Pradesh"
+subtitle: "Have We Heard the Last of the Peace Talks?"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

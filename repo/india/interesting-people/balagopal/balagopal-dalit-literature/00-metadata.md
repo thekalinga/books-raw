@@ -1,10 +1,5 @@
 ---
-title: "balagopal Dalit Literature"
-author: TODO
+title: "Response: Dalit Literature"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

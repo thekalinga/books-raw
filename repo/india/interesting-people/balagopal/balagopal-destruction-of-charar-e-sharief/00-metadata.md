@@ -1,10 +1,12 @@
 ---
-title: "balagopal Destruction of charar-e-sharief"
-author: TODO
+title: "Destruction of Charar-e-Sharief"
+author:
+  - K Balagopal
+  - Sudesh Vaid
+  - Manoranjan Mohanty
+  - PA Sebastian
+  - Jagmohen Singh
+  - Manager Pandey
+  - Sumanta Banerjee
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

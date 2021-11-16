@@ -1,10 +1,5 @@
 ---
-title: "balagopal Balagopal in conversation with VGeetha & Rajdurai"
-author: TODO
+title: "Balagopal in conversation with V Geetha & Rajdurai"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

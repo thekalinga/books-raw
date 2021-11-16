@@ -1,7 +1,7 @@
 _A cycle of violence and counter-violence is devastating the lives
 of adivasis in Dantewada district of Chhattisgarh, a Maoist
-"_liberated area_". There is no official record of the number of
-persons killed as a result of the brutal violence of the _Salwa Judum_.
+"liberated area". There is no official record of the number of
+persons killed as a result of the brutal violence of the Salwa Judum.
 While the Maoists had put an end to the severe harassment of the
 adivasis by forest and police officials, successfully resisted
 domination and oppression of the adivasis by the patel-patwari,

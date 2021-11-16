@@ -1,10 +1,5 @@
 ---
-title: "balagopal Civil liberties movement and revolutionary violence"
-author: TODO
+title: "Civil liberties movement & 'revolutionary violence'"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

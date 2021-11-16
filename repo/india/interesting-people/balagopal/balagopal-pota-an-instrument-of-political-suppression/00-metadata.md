@@ -1,10 +1,6 @@
 ---
-title: "balagopal POTA an instrument of political suppression"
-author: TODO
+title: "POTA and Mr Vaigo"
+subtitle: "POTA an instrument of political suppression"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

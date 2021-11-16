@@ -1,10 +1,5 @@
 ---
-title: "balagopal War against Naxalism"
-author: TODO
+title: "'War' against Naxalism"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

@@ -319,3 +319,25 @@ orange|3
 
 &#65279;
 ----
+
+== References
+
+```
+# References
+
+::: {#refs}
+
+Agarwala, Rina. (2013), Informal Labor, Formal Politics and Dignified Discontent in India, New York: Cambridge University Press.
+
+\ 
+
+
+---------. (1972), "Mid-term Poll in a Working Class Constituency in Tamil Nadu", Economic and Political Weekly, 1025--28.
+
+\ 
+
+---------. (1973), "Politics and Organized Labor in India", Asian Survey. 8 (10): 914--28.
+
+:::
+
+```

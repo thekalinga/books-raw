@@ -1,10 +1,7 @@
 ---
-title: "balagopal Killer Gangs in AP"
-author: TODO
+title: "Killer Gangs in AP"
+author:
+    - "K Balagopal"
+    - "S Jeevan Kumar"
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

@@ -1,10 +1,6 @@
 ---
-title: "balagopal Is there a strategy of successful struggle"
-author: TODO
+title: "Beyond violence and non-violence"
+subtitle: "Is there a strategy of Successful Struggle?"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

@@ -1,10 +1,5 @@
 ---
-title: "balagopal River water row a way out"
-author: TODO
+title: "River water row a way out: About Kaveri and Krishna"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

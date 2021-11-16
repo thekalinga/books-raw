@@ -1,10 +1,5 @@
 ---
-title: "balagopal Fatal fear of interrogation"
-author: TODO
+title: "Gathering information at gun point: fatal fear of interrogation"
+author: K Balagopal
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-
