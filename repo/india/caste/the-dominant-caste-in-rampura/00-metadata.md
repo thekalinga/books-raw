@@ -1,10 +1,5 @@
 ---
 title: "The Dominant Caste in Rampura"
-author: TODO
+author: MN Srinivas
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-

@@ -1,10 +1,6 @@
 ---
-title: "Factions and Party politics: General elections in an Assembly constituency in Maharashtra"
-author: TODO
+title: "Factions and Party politics"
+subtitle: "General elections in an Assembly constituency in Maharashtra"
+author: BS Baviskar
 lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
 ---
-
-TODO
-
