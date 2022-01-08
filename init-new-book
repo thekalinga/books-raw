@@ -58,5 +58,7 @@ echo "TODO" > "$book_folder_path/01-.md"
 
 cp system/misc/file-names-template.ods "$book_folder_path/file-names.ods"
 cp system/misc/help-template.adoc "$book_folder_path/help.adoc"
+cp system/misc/jstor-downloader.sh "$book_folder_path/gen/jstor-downloader.sh"
+cp system/misc/pdf-massage-for-ocr.sh "$book_folder_path/gen/pdf-massage-for-ocr.sh"
 
 echo -e "New book template is placed under\n\n$book_folder_path\n"

@@ -185,11 +185,16 @@ $endif$
 
 % set font for \begin{quote}
 \usepackage{fontspec}
+
+% lets set this only when documents have only english language. Otherwise, this is resetting even the other language quotations
+$if(babel-otherlangs)$
+$else$
 \newfontfamily{\quotefont}{Merriweather Sans}
 
 \let\quoteOld=\quote
 \let\endquoteOld=\endquote
 \renewenvironment{quote}{\quotefont\small\quoteOld}{\endquoteOld}
+$endif$
 
 %% https://tex.my/2009/10/29/setting-page-size-and-margins/
 %% New setup
@@ -453,13 +458,44 @@ $for(polyglossia-otherlangs)$
   \setotherlanguage[$for(polyglossia-otherlangs.options)$$polyglossia-otherlangs.options$$sep$,$endfor$]{$polyglossia-otherlangs.name$}
 $endfor$
 \else
-  \usepackage[$for(babel-otherlangs)$$babel-otherlangs$,$endfor$main=$babel-lang$]{babel}
+  \usepackage[$for(babel-otherlangs)$$babel-otherlangs$,$endfor$main=$babel-lang$,provide+=*]{babel}
 % get rid of language-specific shorthands (see #6817):
 \let\LanguageShortHands\languageshorthands
 \def\languageshorthands#1{}
+
 $if(babel-newcommands)$
   $babel-newcommands$
 $endif$
+
+$if(babel-otherlangs)$
+% for some stupid reason, pandoc is replacing [Renderer=HarfBuzz] with {[}Renderer=HarfBuzz{]}
+\babelfont[bengali]{rm}[Renderer=HarfBuzz]{Noto Serif Bengali}
+\babelfont[bengali]{sf}[Renderer=HarfBuzz]{Noto Sans Bengali}
+
+\babelfont[hindi]{rm}[Renderer=HarfBuzz]{Noto Serif Devanagari}
+\babelfont[hindi]{sf}[Renderer=HarfBuzz]{Noto Sans Devanagari}
+
+\babelfont[gujarati]{rm}[Renderer=HarfBuzz]{Noto Serif Gujarati}
+\babelfont[gujarati]{sf}[Renderer=HarfBuzz]{Noto Sans Gujarati}
+
+\babelfont[punjabi]{rm}[Renderer=HarfBuzz]{Noto Serif Gurmukhi}
+\babelfont[punjabi]{sf}[Renderer=HarfBuzz]{Noto Sans Gurmukhi}
+
+\babelfont[kannada]{rm}[Renderer=HarfBuzz]{Noto Serif Kannada}
+\babelfont[kannada]{sf}[Renderer=HarfBuzz]{Noto Sans Kannada}
+
+\babelfont[malayalam]{rm}[Renderer=HarfBuzz]{Noto Serif Malayalam}
+\babelfont[malayalam]{sf}[Renderer=HarfBuzz]{Noto Sans Malayalam}
+
+\babelfont[oriya]{sf}[Renderer=HarfBuzz]{Noto Sans Oriya}
+
+\babelfont[tamil]{rm}[Renderer=HarfBuzz]{Noto Serif Tamil}
+\babelfont[tamil]{sf}[Renderer=HarfBuzz]{Noto Sans Tamil}
+
+\babelfont[telugu]{rm}[Renderer=HarfBuzz]{Noto Serif Telugu}
+\babelfont[telugu]{sf}[Renderer=HarfBuzz]{Noto Sans Telugu}
+$endif$
+
 \fi
 $endif$
 \ifLuaTeX

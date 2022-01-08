@@ -341,3 +341,98 @@ Agarwala, Rina. (2013), Informal Labor, Formal Politics and Dignified Discontent
 :::
 
 ```
+
+== Support for Indic languages
+
+=== How to use it
+
+Use with telugu
+
+```md
+# Large block
+
+:::{lang=te}
+మామూలు _ఇటాలిక్_ **బోల్డ్ **
+
+> కొటేషన్
+> మామూలు _ఇటాలిక్_ **బోల్డ్ **
+
+మామూలు
+:::
+
+[ఒకే లైన్ - స్క్వేర్ బ్రాకెట్ కి ఫ్లవర్ బ్రాకెట్ కి గ్యాప్ ఉండకూడదు ]{lang=te}
+
+[చాలా
+లైన్లలో]{lang=te}
+```
+
+Based on this, pandoc automatically generates 
+
+Pandoc supports via `babel` package incase of lualatex; for xelatex uses `polyglossia`
+
+We will be using only babel
+
+Babel has two different modes by which it identifies languages
+
+1. By using `language definition files` or `ldf` files that uses `\usepackage[<lang1>,<lang2>]{babel}`
+2. By using `.ini` files that uses `\babelprovide`. This can be done in two different ways
+
+a. Using
+```tex
+\usepackage[main=english]{babel}
+\babelprovide[import, mapdigits]{telugu}
+```
+b. Using
+```tex
+\usepackage[telugu, provide+=*, main=english]{babel}
+```
+
+pandoc automatically
+
+
+```tex
+\documentclass{report}
+
+\usepackage[utf8]{inputenc}
+%\usepackage[main=english]{babel}
+%%\usepackage[telugu, provide=*]{babel}
+%\babelprovide[import, mapdigits]{telugu}
+\usepackage[telugu, provide+=*, main=english]{babel}
+\usepackage{fontspec}
+% fonts must be installed in the system available to texlive (not as a regular user, but must be installed at system level)
+\babelfont[telugu]{rm}[Renderer=HarfBuzz]{Noto Serif Telugu}
+\babelfont[telugu]{sf}[Renderer=HarfBuzz]{Noto Sans Telugu}
+\newcommand{\texttelugu}[2][]{\foreignlanguage{telugu}{#2}}
+\newenvironment{telugu}[2][]{\begin{otherlanguage}{telugu}}{\end{otherlanguage}}
+
+\begin{document}
+    Hey how are you man
+    \foreignlanguage{telugu}{Lemme try: తెలుగు}
+
+    \begin{telugu}
+
+        \begin{quote}
+            సైన్యం అవసరం లేని సమాజం సైన్యం అవసరం లేని సమాజం
+        \end{quote}
+
+    \end{telugu}
+
+    \begin{otherlanguage}{telugu}
+
+        \begin{quote}
+            సైన్యం అవసరం లేని సమాజం సైన్యం అవసరం లేని సమాజం
+        \end{quote}
+
+    \end{otherlanguage}
+
+    More text in English. \texttelugu{`సైన్యం అవసరం లేని సమాజం'}
+
+
+    \begin{quote}
+    % this must be inside the quote
+    \begin{telugu}
+        .సైన్యం అవసరం లేని సమాజం సైన్యం అవసరం లేని సమాజం
+    \end{telugu}
+    \end{quote}
+\end{document}
+```

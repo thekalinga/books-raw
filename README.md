@@ -16,7 +16,7 @@ Run `html.sh`
 
 ## Debug pdf generation
 
-1. Generate tex file by running `tex.sh` which generates `book-gen.tex`
+1. Generate tex file by running `tex-gen.sh` which generates `book-gen.tex`
 2. Review/Edit `book-gen.tex`
 3. Run `pdf-from-tex.sh` to generate pdf from `book-gen.tex` instead
 
@@ -27,4 +27,4 @@ Run `html.sh`
 
 ## Experiment with docker image
 
-For experimenting with docker image on small files, look at the files in `system/experiment`
+For experimenting with docker image on small files, look at the files in `system/docker/experiment`
