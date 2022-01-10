@@ -16,7 +16,7 @@ fi
 book_name=$(echo "$*" | perl -pe 's/^\s*//g and s/\s*$//g')
 
 # trim spaces at edges, replace upper case with lower, remove special characters & finally consecutive spaces with `-`
-book_folder_name_sanitised=$(echo "$book_name" | perl -pe 's/^\s*//g;' -pe 's/\s*$//g;' -pe 's/([A-Z])/\L$1/g;' -pe 's/[\x27":&()]//g;' -pe 's/\s+/-/g;')
+book_folder_name_sanitised=$(echo "$book_name" | perl -pe 's/^\s*//g;' -pe 's/\s*$//g;' -pe 's/([A-Z])/\L$1/g;' -pe 's/[\x27":&(),]//g;' -pe 's/\s+/-/g;')
 
 book_folder_path="repo/$book_folder_name_sanitised"
 
