@@ -1025,33 +1025,29 @@ Chorus: **Thats what we want! Thats what we want!**
 :::
 
 
-[//]: # (Wait till this is fixed https://github.com/jgm/pandoc/issues/7815)
+## Gujarati
 
-[//]: # (## Gujarati)
 
-[//]: # ()
-[//]: # (::: {lang=gu})
+::: {lang=gu}
 
-[//]: # (આ ભરો)
+આ ભરો
 
-[//]: # (:::)
+:::
 
-[//]: # (Wait till this is fixed https://github.com/jgm/pandoc/issues/7814)
 
-[//]: # (## Panjabi)
+## Punjabi/Panjabi
 
-[//]: # ()
-[//]: # ()
-[//]: # ()
-[//]: # (::: {lang=pa})
 
-[//]: # ()
-[//]: # ()
-[//]: # (ਇਸ ਨੂੰ ਭਰੋ)
 
-[//]: # ()
-[//]: # ()
-[//]: # (:::)
+::: {lang=pa}
+
+
+
+ਇਸ ਨੂੰ ਭਰੋ
+
+
+
+:::
 
 
 
@@ -1081,16 +1077,16 @@ Chorus: **Thats what we want! Thats what we want!**
 
 :::
 
-[//]: # (Wait till this is fixed https://github.com/jgm/pandoc/issues/7815)
 
-[//]: # (## Oriya)
+## Oriya
 
-[//]: # ()
-[//]: # (::: {lang=or})
 
-[//]: # (ଏହାକୁ ପୁରଣ କର |)
+::: {lang=or}
 
-[//]: # (:::)
+ଏହାକୁ ପୁରଣ କର |
+
+:::
+
 
 ## Tamil
 
