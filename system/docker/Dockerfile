@@ -1,4 +1,4 @@
-FROM pandoc/latex:2.16.2
+FROM pandoc/latex:2.17.0.1
 
 # installs texlive-full minus texlive-doc minus texlive-dev
 # see: https://pkgs.alpinelinux.org/package/edge/community/x86_64/texlive-full
@@ -87,8 +87,8 @@ RUN wget 'https://fonts.google.com/download?family=Merriweather Sans' -O merriwe
 # luatex is not workign in this environment unless permissions are changed to this
 RUN chmod o+w /opt/texlive/texdir/texmf-var
 
-# `template.tex` file uses crimson font for text
-RUN tlmgr install crimson tabulary selnolig
+# `template.tex` file uses crimsonpro font for text
+RUN tlmgr install crimsonpro tabulary selnolig
 
 #RUN apk add --no-cache texmf-dist-langextra
 
