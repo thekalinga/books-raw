@@ -134,7 +134,8 @@ In any case,
 * Add `:` at the end of footnote only at footnote declaration. To do so, replace
 [source]
 ----
-^(/\d+) $1:
+^(\d+)\s+
+\n/$1:
 ----
 * For adding appropriate markdown footnote format, replace
 [source]
@@ -339,6 +340,24 @@ Agarwala, Rina. (2013), Informal Labor, Formal Politics and Dignified Discontent
 ---------. (1973), "Politics and Organized Labor in India", Asian Survey. 8 (10): 914--28.
 
 :::
+
+```
+
+== Misc
+
+```
+
+# strike thru
+
+This ~~is deleted text.~~
+
+# super script
+
+2^10^
+
+# subscript
+
+H~2~O
 
 ```
 
