@@ -1,12 +1,12 @@
 ## Appendix IV
 
-`Reproduced here is an extract from the judgement in State vs. Saqib Rehman @Masood and Others (SC No. 24/10) pronounced in the Court of Additional Sessions Judge Virender Bhat. For details of the case, see the chapter "Crime and Punishment" in Section II. The Court acquitted the accused and directed the registering of FIR against the police officers, holding them culpable for framing innocents in a terror case.`
+`Reproduced here is an extract from the judgement in State vs. Saqib Rehman @ Masood and Others (SC No. 24/10) pronounced in the Court of Additional Sessions Judge Virender Bhat. For details of the case, see the chapter "Crime and Punishment" in Section II. The Court acquitted the accused and directed the registering of FIR against the police officers, holding them culpable for framing innocents in a terror case.`
 
 ----
 
 _In re._: Defence of the accused
 
-134. Since the case put forward by the prosecution against these accused has fallen flat and it has been established that the encounter so projected by the police was an absolutely fake and stage managed, the defence put forward by the accused that they are innocent and have been framed up falsely in this case gains credence. Even otherwise, it has been proved on record by DW1 Gulam Moinuddin Dar (one of the accused) that he has been engaged in anti militancy operations in J&K and has got more than 300 militants surrendered in Kashmir valley. The other accused Bashir Ahmed Shah was his friend and paid the price for the same. The third accused Saqib-ur-Rehman also used to give valuable inputs to J&K police about various anti social elements. The other accused were ordinary citizens and no criminal or terrorism related background has been proved in their case.
+134. Since the case put forward by the prosecution against these accused has fallen flat and it has been established that the encounter so projected by the police was an absolutely fake and stage managed, the defence put forward by the accused that they are innocent and have been framed up falsely in this case gains credence. Even otherwise, it has been proved on record by DW1 Gulam Moinuddin Dar (one of the accused) that he has been engaged in anti militancy operations in J&K and has got more than 300 militants surrendered in Kashmir valley. The other accused Bashir Ahmed Shah was his friend and paid the price for the same. The third accused Saqib-ur-Rehman also used to give valuable inputs to J&K police about various anti-social elements. The other accused were ordinary citizens and no criminal or terrorism related background has been proved in their case.
 
 _In re._: Conclusion
 
@@ -40,11 +40,11 @@ The prayer is :
 
 142. I, therefore, direct the Commissioner of Police, Delhi, to initiate appropriate inquiry against the four police officers SI Ravinder Tyagi, SI Nirakar, SI Charan Singh and SI Mahender Singh (who by now may have been promoted to the post Inspector) for the misuse and abuse of their powers as a police officer, as detailed herein-above. The inquiry shall be completed within three months from today, and report be submitted to this Court on the next date of hearing.
 
-143. The SHO, Police Station Kapasahera is also directed to register FIR against the aforesaid four police officers U/s.167 IPC and forward the same to the Addl. Commissioner of Police (South/West) who shall conduct investigation which shall be completed within three months from today and a report be submitted to this Court on the next date of hearing. A copy of the FIR shall be sent to this Court within one month from today.
+143. The SHO, Police Station Kapasahera is also directed to register FIR against the aforesaid four police officers U/s 167 IPC and forward the same to the Addl. Commissioner of Police (South/West) who shall conduct investigation which shall be completed within three months from today and a report be submitted to this Court on the next date of hearing. A copy of the FIR shall be sent to this Court within one month from today.
 
-144.A copy of this judgment be sent to the concerned Magistrate dealing with the cases of police station Kapasahera with directions to treat the same as a complaint against SI Ravinder Tyagi, SI Nirakar, SI Charan Singh and SI Mahender Singh of Delhi Police for offences punishable U/s.166, 193 and 195 IPC and to proceed with the same as per law.
+144. A copy of this judgment be sent to the concerned Magistrate dealing with the cases of police station Kapasahera with directions to treat the same as a complaint against SI Ravinder Tyagi, SI Nirakar, SI Charan Singh and SI Mahender Singh of Delhi Police for offences punishable U/s 166, 193 and 195 IPC and to proceed with the same as per law.
 
-145. Before concluding, I would like to remind the whole Delhi Police force about the disconcerting note sounded by Abraham Lincolon:
+145. Before concluding, I would like to remind the whole Delhi Police force about the disconcerting note sounded by Abraham Lincoln:
 
 > If you once forfeit the confidence of our fellow citizens, you can never regain their respect and esteem. It is true that you can fool all the people some of the time and some of the people all the time, but you cannot fool all the people all the time.
 
@@ -57,3 +57,5 @@ Announced in open court on 02.2.2011.
 Dwarka Courts
 
 New Delhi.
+
+\cleardoublepage

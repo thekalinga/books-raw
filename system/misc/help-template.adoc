@@ -22,6 +22,60 @@ Simpler version
 _$1_
 ----
 
+== Handling footnotes
+
+* If Add footnote # are unique globally, Add / before footnote & its reference e.g [^121]
+* If they are not
+a. Add / before footnote & its reference & prefix chapter number before slash (if they are unique only to chapter) i.e <chapter#>/<footnote#> e.g 1[^23]
+b. Add / before footnote & its reference & add page specific number (if they are unique only to the page) i.e <page#>/<footnote#> e.g 345[^3]
+* Navigate using / to ensure the count of footnote reference matches footnotes
+* Add `:` at the end of footnote only at footnote declaration. To do so, replace
+[source]
+----
+^(\d+)\s+
+\n/$1:
+----
+* For adding appropriate markdown footnote format, replace
+[source]
+----
+# replace
+
+(/\d+)
+\[^$1\]
+----
+* search for the following to find next item
+[source]
+----
+\[\^\/
+----
+* Finally search for the following to move thru footers to bottom
+[source]
+----
+^\[\^\d+\/
+----
+* Finally trim lines appropriately, do following replacements
+[source]
+----
+# replace
+
+^(\[\^\d+\/)
+\n$1
+
+# replace
+
+\n\n\n+
+\n\n
+----
+* Also replace footnotes that start with `(\d+)` with `(\d+),` so that markdown wont treat it as a numbered bullet
+[source]
+----
+# replace
+
+(^\[\^\d+\]\: \(\d+\))(?=\s+)
+$1,
+----
+* IMPORTANT: space between pages that have no footnotes are also takes care of
+
 == Naming the files & parts
 
 Update the chapter & file names in `file-names.ods`
@@ -124,59 +178,6 @@ In any case,
 * Within chapter, in the 1st go, start each section with S , subsection with SS so that we will worry about number of hashes at the end of chapter
 * Once chapter is complete, Use search & replace to ensure we have correct number of hashes in one go
 
-== Handling footnotes
-
-* If Add footnote # are unique globally, Add / before footnote & its reference e.g [^121]
-* If they are not
-  a. Add / before footnote & its reference & prefix chapter number before slash (if they are unique only to chapter) i.e <chapter#>/<footnote#> e.g 1[^23]
-  b. Add / before footnote & its reference & add page specific number (if they are unique only to the page) i.e <page#>/<footnote#> e.g 345[^3]
-* Navigate using / to ensure the count of footnote reference matches footnotes
-* Add `:` at the end of footnote only at footnote declaration. To do so, replace
-[source]
-----
-^(\d+)\s+
-\n/$1:
-----
-* For adding appropriate markdown footnote format, replace
-[source]
-----
-# replace
-
-(/\d+)
-\[^$1\]
-----
-* search for the following to find next item
-[source]
-----
-\[\^\/
-----
-* Finally search for the following to move thru footers to bottom
-[source]
-----
-^\[\^\d+\/
-----
-* Finally trim lines appropriately, do following replacements
-[source]
-----
-# replace
-
-^(\[\^\d+\/)
-\n$1
-
-# replace
-
-\n\n\n+
-\n\n
-----
-* Also replace footnotes that start with `(\d+)` with `(\d+),` so that markdown wont treat it as a numbered bullet
-[source]
-----
-# replace
-
-(^\[\^\d+\]\: \(\d+\))(?=\s+)
-$1,
-----
-* IMPORTANT: space between pages that have no footnotes are also takes care of
 
 == common latin words that needs to be highlighted in law books
 
@@ -455,3 +456,13 @@ pandoc automatically
     \end{quote}
 \end{document}
 ```
+
+
+== Find offending/non-unicode/strange characters
+
+1. Search for `[^\p{ASCII}]` in IDEA. For some reason `[^\x00-\x7F]` doesnt work
+
+(or) alternatively use this
+
+1. Goto regex101.com, copy paste text & search for `[^\x00-\x7F]` i.e search for non-ASCII characters. For SOME unknown reason, Intellij & gedit are not finding the character
+2. Click on Match
