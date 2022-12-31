@@ -27,4 +27,4 @@ docker run --rm \
     --volume "$script_dir:/docker-script-dir" \
     --user `id -u`:`id -g` \
     --entrypoint "/docker-script-dir/_sleep-pandoc-container-forever.sh" \
-    pandoc/latex:2.16.2
+    pandoc/latex:2.17.0.1
