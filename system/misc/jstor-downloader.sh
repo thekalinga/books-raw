@@ -34,4 +34,4 @@ do
   sleep 1
 done
 
-convert "*-modified.{jpeg}" -quality 100 o.pdf && rm "*.jpg"
+convert "*-modified.{jpeg}" -quality 100 o.pdf && rm "*.jpeg"

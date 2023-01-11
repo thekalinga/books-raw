@@ -1,10 +1,9 @@
----
-title: "Demolishing Myths or Mosques and Temples"
-author: TODO
-lang: en
-top-level-division: TODO part/chapter
-rights: © TODO
----
+For my father, Shri Naresh Kumar,
 
-TODO
+\
 
+whose ideals of humanity and social justice
+
+\
+
+will always remain an inspiration.
